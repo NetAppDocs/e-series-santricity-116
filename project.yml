@@ -12,20 +12,17 @@ sidebar:
   - title: sm-hardware
     url: "/sm-hardware/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_shelves.gif" alt="sam1130
-        icon shelves"></span> Shelves
+    - title: Shelves
       url: "/sm-hardware/concept_shelves.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-hardware/generic_concepts.html"
         entries:
         - title: Hardware page overview
           url: "/sm-hardware/concept_hardware_page_overview.html"
         - title: Hardware terminology
           url: "/sm-hardware/concept_hardware_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-hardware/generic_how_tos.html"
         entries:
         - title: View hardware components
@@ -44,20 +41,17 @@ sidebar:
           url: "/sm-hardware/task_view_shelf_component_status_and_settings.html"
         - title: Update battery learn cycles
           url: "/sm-hardware/task_update_battery_learn_cycles.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-hardware/generic_faqs.html"
         entries:
         - title: What is shelf loss protection and drawer loss protection?
           url: "/sm-hardware/concept_what_is_shelf_loss_protection_and_drawer_loss_protection.html"
         - title: What are battery learn cycles?
           url: "/sm-hardware/concept_what_are_battery_learn_cycles.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_controllers.gif"
-        alt="sam1130 icon controllers"></span> Controllers
+    - title: Controllers
       url: "/sm-hardware/concept_controllers.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-hardware/generic_concepts.html"
         entries:
         - title: Controller terminology
@@ -66,8 +60,7 @@ sidebar:
           url: "/sm-hardware/concept_controller_states.html"
         - title: Considerations for assigning IP addresses
           url: "/sm-hardware/concept_considerations_for_assigning_ip_addresses.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-hardware/generic_how_tos.html"
         entries:
         - title: Configure management port
@@ -96,8 +89,7 @@ sidebar:
           url: "/sm-hardware/task_place_controller_in_service_mode.html"
         - title: Reset (reboot) controller
           url: "/sm-hardware/task_reset_reboot_controller.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-hardware/generic_faqs.html"
         entries:
         - title: What is auto-negotiation?
@@ -121,12 +113,10 @@ sidebar:
           url: "/sm-hardware/concept_when_should_i_refresh_the_port_configuration_or_the_isns_server_from_the_dhcp_server.html"
         - title: What should I do after configuring the management ports?
           url: "/sm-hardware/concept_what_should_i_do_after_configuring_the_management_ports.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_drives.gif" alt="sam1130
-        icon drives"></span> Drives
+    - title:  Drives
       url: "/sm-hardware/concept_drives.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-hardware/generic_concepts.html"
         entries:
         - title: Drive terminology
@@ -137,8 +127,7 @@ sidebar:
           url: "/sm-hardware/concept_solid_state_disks_ssds.html"
         - title: Hot spare drives
           url: "/sm-hardware/concept_hot_spare_drives.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-hardware/generic_how_tos.html"
         entries:
         - title: Limit the drive view
@@ -163,8 +152,7 @@ sidebar:
           url: "/sm-hardware/task_erase_drive.html"
         - title: Unlock or reset locked NVMe drives
           url: "/sm-hardware/task_unlock_or_reset_a_locked_nvme_drive.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-hardware/generic_faqs.html"
         entries:
         - title: What is preservation capacity?
@@ -176,30 +164,25 @@ sidebar:
   - title: sm-interface
     url: "/sm-interface/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_overview.gif" alt="sam1130
-        icon overview"></span> SANtricity System Manager overview
+    - title:  SANtricity System Manager overview
       url: "/sm-interface/concept_system_manager_overview.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-interface/generic_concepts.html"
         entries:
         - title: Home page
           url: "/sm-interface/concept_home_page.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_setup.gif" alt="sam1130
-        icon setup"></span> Setup wizard
+    - title:  Setup wizard
       url: "/sm-interface/concept_setup_wizard.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-interface/generic_concepts.html"
         entries:
         - title: Setup wizard overview
           url: "/sm-interface/concept_setup_wizard_overview.html"
         - title: Setup wizard terminology
           url: "/sm-interface/concept_setup_wizard_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-interface/generic_faqs.html"
         entries:
         - title: What if I don&#8217;t see all of my hardware components?
@@ -216,12 +199,10 @@ sidebar:
           url: "/sm-interface/concept_how_do_i_know_if_i_should_accept_the_recommended_pool_configuration.html"
         - title: System Manager has not detected any hosts. What do I do?
           url: "/sm-interface/concept_system_manager_has_not_detected_any_hosts_what_do_i_do.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_admin.gif" alt="sam1130
-        icon admin"></span> Storage array administration
+    - title:  Storage array administration
       url: "/sm-interface/concept_storage_array_administration.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-interface/generic_concepts.html"
         entries:
         - title: Storage array overview
@@ -232,8 +213,7 @@ sidebar:
           url: "/sm-interface/concept_problem_notification.html"
         - title: Operations in progress
           url: "/sm-interface/concept_operations_in_progress.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-interface/generic_how_tos.html"
         entries:
         - title: Set default units for capacity values
@@ -244,8 +224,7 @@ sidebar:
           url: "/sm-interface/task_recover_from_problems_using_recovery_guru.html"
         - title: View and act on operations in progress
           url: "/sm-interface/task_view_and_act_on_operations_in_progress.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-interface/generic_faqs.html"
         entries:
         - title: Where can I find more information about display preferences?
@@ -257,12 +236,10 @@ sidebar:
   - title: sm-mirroring
     url: "/sm-mirroring/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_async_mirroring.gif"
-        alt="sam1130 icon async mirroring"></span>Asynchronous mirroring
+    - title: Asynchronous mirroring
       url: "/sm-mirroring/generic_asynchronous_mirroring.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-mirroring/generic_concepts.html"
         entries:
         - title: How asynchronous mirroring works
@@ -279,8 +256,7 @@ sidebar:
           url: "/sm-mirroring/concept_volume_ownership_async.html"
         - title: Role change of a mirror consistency group
           url: "/sm-mirroring/concept_role_change_of_a_mirror_consistency_group.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-mirroring/generic_how_tos.html"
         entries:
         - title: Manage mirror consistency groups
@@ -315,8 +291,7 @@ sidebar:
             url: "/sm-mirroring/task_complete_mirrored_pair_for_primary_volumes_created_on_legacy_system.html"
         - title: Deactivate asynchronous mirroring
           url: "/sm-mirroring/task_deactivate_asynchronous_mirroring.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-mirroring/generic_faqs.html"
         entries:
         - title: How does asynchronous mirroring differ from synchronous mirroring?
@@ -348,12 +323,10 @@ sidebar:
           url: "/sm-mirroring/concept_asynchronous_mirroring_why_don_t_i_see_all_the_volumes_on_the_remote_storage_array.html"
         - title: Why would I update my remote storage array&#8217;s IP address?
           url: "/sm-mirroring/concept_why_would_i_update_my_remote_storage_array_s_ip_address.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_sync_mirroring.gif"
-        alt="sam1130 icon sync mirroring"></span>Synchronous mirroring
+    - title: Synchronous mirroring
       url: "/sm-mirroring/concept_synchronous_mirroring.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-mirroring/generic_concepts.html"
         entries:
         - title: How synchronous mirroring works
@@ -370,8 +343,7 @@ sidebar:
           url: "/sm-mirroring/concept_volume_ownership_sync.html"
         - title: Role change between volumes in a mirrored pair
           url: "/sm-mirroring/concept_role_change_of_volumes_in_a_mirrored_pair.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-mirroring/generic_how_tos.html"
         entries:
         - title: Manage synchronous mirrored pairs
@@ -389,8 +361,7 @@ sidebar:
             url: "/sm-mirroring/task_remove_synchronous_mirror_relationship.html"
         - title: Deactivate synchronous mirroring
           url: "/sm-mirroring/task_deactivate_synchronous_mirroring.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-mirroring/generic_faqs.html"
         entries:
         - title: How does asynchronous mirroring differ from synchronous mirroring?
@@ -411,20 +382,17 @@ sidebar:
   - title: sm-settings
     url: "/sm-settings/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_alerts.gif" alt="sam1130
-        icon alerts"></span> Alerts
+    - title:  Alerts
       url: "/sm-settings/generic_alerts.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: How alerts work
           url: "/sm-settings/concept_how_alerts_work.html"
         - title: Alerts terminology
           url: "/sm-settings/concept_alerts_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Manage email alerts
@@ -468,8 +436,7 @@ sidebar:
             url: "/sm-settings/task_add_syslog_servers_for_alerts.html"
           - title: Delete syslog servers for alerts
             url: "/sm-settings/task_delete_syslog_servers_for_alerts.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: What if alerts are disabled?
@@ -478,12 +445,10 @@ sidebar:
           url: "/sm-settings/concept_how_do_i_configure_snmp_or_syslog_alerts.html"
         - title: Why are timestamps inconsistent between the array and alerts?
           url: "/sm-settings/concept_why_are_timestamps_inconsistent_between_the_array_and_alerts.html"
-    - title: '<span class="image"><img src="../media/sam1130_icon_system.gif" alt="sam1130
-        icon system"></span>System: Storage array settings'
+    - title: 'System: Storage array settings'
       url: "/sm-settings/generic_storage_array_settings.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: Cache settings and performance
@@ -492,8 +457,7 @@ sidebar:
           url: "/sm-settings/concept_automatic_load_balancing_overview.html"
         - title: Default host operating system type
           url: "/sm-settings/concept_default_host_operating_system_type.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Edit storage array name
@@ -520,8 +484,7 @@ sidebar:
           url: "/sm-settings/task_change_default_host_type.html"
         - title: Enable or disable legacy management interface
           url: "/sm-settings/task_enable_or_disable_legacy_management_interface.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: What is controller cache?
@@ -534,18 +497,15 @@ sidebar:
           url: "/sm-settings/concept_when_should_i_synchronize_storage_array_clocks.html"
         - title: What is host connectivity reporting?
           url: "/sm-settings/concept_what_is_host_connectivity_reporting.html"
-    - title: '<span class="image"><img src="../media/sam1130_icon_system.gif" alt="sam1130
-        icon system"></span>System: iSCSI settings'
+    - title: 'System: iSCSI settings'
       url: "/sm-settings/generic_iscsi_settings.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: iSCSI terminology
           url: "/sm-settings/concept_iscsi_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Configure iSCSI ports
@@ -564,8 +524,7 @@ sidebar:
           url: "/sm-settings/task_configure_iser_over_infiniband_ports_system.html"
         - title: View iSER over InfiniBand statistics
           url: "/sm-settings/task_view_iser_over_infiniband_statistics_system.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: What happens when I use an iSNS server for registration?
@@ -576,20 +535,17 @@ sidebar:
           url: "/sm-settings/concept_how_do_i_interpret_iser_over_infiniband_statistics.html"
         - title: What else do I need to do to configure or diagnose iSER over InfiniBand?
           url: "/sm-settings/concept_what_else_do_i_need_to_do_to_configure_or_diagnose_iser_over_infiniband.html"
-    - title: '<span class="image"><img src="../media/sam1130_icon_system.gif" alt="sam1130
-        icon system"></span>System: NVMe settings'
+    - title: 'System: NVMe settings'
       url: "/sm-settings/generic_nvme_settings.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: NVMe overview
           url: "/sm-settings/concept_nvme_overview.html"
         - title: NVMe terminology
           url: "/sm-settings/concept_nvme_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Configure NVMe over InfiniBand ports
@@ -598,8 +554,7 @@ sidebar:
           url: "/sm-settings/task_configure_nvme_over_roce_ports_system.html"
         - title: View NVMe over Fabrics statistics
           url: "/sm-settings/task_view_nvme_over_fabrics_statistics_system.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: How do I interpret NVMe over Fabrics statistics?
@@ -612,20 +567,17 @@ sidebar:
           url: "/sm-settings/concept_why_are_there_two_ip_addresses_for_one_physical_port.html"
         - title: Why are there two sets of parameters for one physical port?
           url: "/sm-settings/concept_why_are_there_two_sets_of_parameters_for_one_physical_port.html"
-    - title: '<span class="image"><img src="../media/sam1130_icon_system.gif" alt="sam1130
-        icon system"></span>System: Add-on features'
+    - title: 'System: Add-on features'
       url: "/sm-settings/generic_add_on_features.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: How add-on features work
           url: "/sm-settings/concept_how_add_on_features_work.html"
         - title: Add-on feature terminology
           url: "/sm-settings/concept_add_on_feature_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Obtain a feature key file
@@ -636,12 +588,10 @@ sidebar:
           url: "/sm-settings/task_enable_feature_pack.html"
         - title: Download the command line interface (CLI)
           url: "/sm-settings/task_download_cli.html"
-    - title: '<span class="image"><img src="../media/sam1130_icon_system.gif" alt="sam1130
-        icon system"></span>System: Security key management'
+    - title: 'System: Security key management'
       url: "/sm-settings/generic_security_key_management.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: How the Drive Security feature works
@@ -650,8 +600,7 @@ sidebar:
           url: "/sm-settings/concept_how_security_key_management_works.html"
         - title: Drive Security terminology
           url: "/sm-settings/concept_drive_security_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Create internal security key
@@ -670,8 +619,7 @@ sidebar:
           url: "/sm-settings/task_validate_security_key.html"
         - title: Unlock drives using a security key
           url: "/sm-settings/task_unlock_drives_using_an_internal_security_key.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: What do I need to know before creating a security key?
@@ -691,12 +639,10 @@ sidebar:
         - title: What is the difference between internal security key and external
             security key management?
           url: "/sm-settings/concept_what_is_the_difference_between_internal_security_key_and_external_security_key_management.html"
-    - title: <span class="image"><img src="../media/sam1140_icon_active_directory.gif"
-        alt="sam1140 icon active directory"></span> Access Management
+    - title:  Access Management
       url: "/sm-settings/generic_access_management.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: How Access Management works
@@ -711,8 +657,7 @@ sidebar:
           url: "/sm-settings/concept_access_management_with_directory_services.html"
         - title: Access Management with SAML
           url: "/sm-settings/concept_access_management_with_saml.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: View local user roles
@@ -754,8 +699,7 @@ sidebar:
           url: "/sm-settings/task_configure_syslog_server_for_audit_logs.html"
         - title: Edit syslog server settings for audit log records
           url: "/sm-settings/task_edit_syslog_server_settings_for_audit_log_records.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: Why can&#8217;t I log in?
@@ -774,20 +718,17 @@ sidebar:
           url: "/sm-settings/concept_what_do_i_need_to_know_before_configuring_a_syslog_server.html"
         - title: The syslog server is no longer receiving audit logs. What do I do?
           url: "/sm-settings/concept_the_syslog_server_is_no_longer_receiving_audit_logs_what_do_i_do.html"
-    - title: <span class="image"><img src="../media/sam1140_icon_certs.gif" alt="sam1140
-        icon certs"></span> Certificates
+    - title:  Certificates
       url: "/sm-settings/generic_certificates.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-settings/generic_concepts.html"
         entries:
         - title: How certificates work
           url: "/sm-settings/concept_how_certificates_work_sam.html"
         - title: Certificate terminology
           url: "/sm-settings/concept_certificate_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-settings/generic_how_tos.html"
         entries:
         - title: Use CA-signed certificates for controllers
@@ -818,8 +759,7 @@ sidebar:
             url: "/sm-settings/task_step_2_import_certificates_for_key_management_server.html"
         - title: Export key management server certificates
           url: "/sm-settings/task_export_key_management_certificates.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-settings/generic_faqs.html"
         entries:
         - title: Why does the Cannot Access Other Controller dialog box appear?
@@ -834,12 +774,10 @@ sidebar:
   - title: sm-storage
     url: "/sm-storage/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_pools_and_volume_groups.gif"
-        alt="sam1130 icon pools and volume groups"></span> Pools and volume groups
+    - title:  Pools and volume groups
       url: "/sm-storage/generic_pools_and_volume_groups.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-storage/generic_concepts.html"
         entries:
         - title: How pools and volume groups work
@@ -858,8 +796,7 @@ sidebar:
           url: "/sm-storage/concept_functional_comparison_of_pools_and_volume_groups.html"
         - title: Automatic versus manual pool creation
           url: "/sm-storage/concept_automatic_versus_manual_pool_creation.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-storage/generic_how_tos.html"
         entries:
         - title: Create pools and volume groups
@@ -927,8 +864,7 @@ sidebar:
             url: "/sm-storage/task_cancel_pending_snapshot_image.html"
           - title: Delete snapshot group
             url: "/sm-storage/task_delete_snapshot_group.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-storage/generic_faqs.html"
         entries:
         - title: What is a hot spare drive?
@@ -977,12 +913,10 @@ sidebar:
           url: "/sm-storage/concept_what_is_optimization_capacity_pools.html"
         - title: What is optimization capacity for volume groups?
           url: "/sm-storage/concept_what_is_optimization_capacity_volume_groups.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_volumes.gif" alt="sam1130
-        icon volumes"></span> Volumes
+    - title:  Volumes
       url: "/sm-storage/generic_volumes.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-storage/generic_concepts.html"
         entries:
         - title: Volumes in the storage array
@@ -1009,8 +943,7 @@ sidebar:
           url: "/sm-storage/concept_copy_volume_function.html"
         - title: Types of Copy Volume operations
           url: "/sm-storage/concept_types_of_copy_volume_operations.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-storage/generic_how_tos.html"
         entries:
         - title: Create storage
@@ -1067,8 +1000,7 @@ sidebar:
           entries:
           - title: Change allocated capacity limit for a thin volume
             url: "/sm-storage/task_change_allocated_capacity_limit_for_a_thin_volume.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-storage/generic_faqs.html"
         entries:
         - title: What is a volume?
@@ -1096,12 +1028,10 @@ sidebar:
           url: "/sm-storage/concept_what_is_preferred_controller_ownership.html"
         - title: What is Automatic Load Balancing?
           url: "/sm-storage/concept_what_is_automatic_load_balancing.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_hosts.gif" alt="sam1130
-        icon hosts"></span> Hosts
+    - title:  Hosts
       url: "/sm-storage/generic_hosts.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-storage/generic_concepts.html"
         entries:
         - title: Host terminology
@@ -1116,8 +1046,7 @@ sidebar:
           url: "/sm-storage/concept_access_volumes.html"
         - title: Maximum number of LUNs
           url: "/sm-storage/concept_maximum_number_of_luns.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-storage/generic_how_tos.html"
         entries:
         - title: Configure host access
@@ -1155,8 +1084,7 @@ sidebar:
             url: "/sm-storage/task_change_host_port_identifiers_for_a_host.html"
           - title: Delete host or host cluster
             url: "/sm-storage/task_delete_host_or_host_cluster.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-storage/generic_faqs.html"
         entries:
         - title: What are hosts and host clusters?
@@ -1173,20 +1101,17 @@ sidebar:
           url: "/sm-storage/concept_how_do_i_create_chap_secrets.html"
         - title: What is the default cluster?
           url: "/sm-storage/concept_what_is_the_default_cluster.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_performance.gif"
-        alt="sam1130 icon performance"></span> Performance
+    - title:  Performance
       url: "/sm-storage/generic_performance.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-storage/generic_concepts.html"
         entries:
         - title: Performance overview
           url: "/sm-storage/concept_performance_overview.html"
         - title: Performance terminology
           url: "/sm-storage/concept_performance_terminology.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-storage/generic_how_tos.html"
         entries:
         - title: View graphical performance data
@@ -1195,8 +1120,7 @@ sidebar:
           url: "/sm-storage/task_view_and_save_performance_data_tabular.html"
         - title: Interpret performance data
           url: "/sm-storage/concept_interpret_performance_data.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-storage/generic_faqs.html"
         entries:
         - title: How do performance statistics for individual volumes relate to the
@@ -1214,12 +1138,10 @@ sidebar:
           url: "/sm-storage/concept_what_does_the_cpu_graph_show.html"
         - title: What does the Headroom graph show?
           url: "/sm-storage/concept_what_does_the_headroom_graph_show.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_snapshots.gif" alt="sam1130
-        icon snapshots"></span> Snapshots
+    - title:  Snapshots
       url: "/sm-storage/generic_snapshots.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-storage/generic_concepts.html"
         entries:
         - title: How snapshot images are used
@@ -1241,8 +1163,7 @@ sidebar:
           url: "/sm-storage/concept_snapshot_terminology.html"
         - title: Workflow for creating snapshot images and snapshot volumes
           url: "/sm-storage/concept_workflow_for_creating_snapshot_images_and_snapshot_volumes.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-storage/generic_how_tos.html"
         entries:
         - title: Create snapshots and snapshot objects
@@ -1323,8 +1244,7 @@ sidebar:
             url: "/sm-storage/task_disable_snapshot_volume.html"
           - title: Delete snapshot volume
             url: "/sm-storage/task_delete_snapshot_volume.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-storage/generic_faqs.html"
         entries:
         - title: Why don&#8217;t I see all my volumes, hosts, or host clusters?
@@ -1350,20 +1270,17 @@ sidebar:
   - title: sm-support
     url: "/sm-support/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_support_center.gif"
-        alt="sam1130 icon support center"></span> Support center
+    - title:  Support center
       url: "/sm-support/generic_support_center.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-support/generic_concepts.html"
         entries:
         - title: AutoSupport feature overview
           url: "/sm-support/concept_autosupport_feature_overview.html"
         - title: Workflow for the AutoSupport feature
           url: "/sm-support/concept_workflow_for_autosupport.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-support/generic_how_tos.html"
         entries:
         - title: View storage array information
@@ -1447,8 +1364,7 @@ sidebar:
             url: "/sm-support/task_view_autosupport_status.html"
           - title: View AutoSupport log
             url: "/sm-support/task_view_autosupport_log.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-support/generic_faqs.html"
         entries:
         - title: What data am I collecting?
@@ -1465,30 +1381,25 @@ sidebar:
           url: "/sm-support/concept_what_type_of_data_is_collected_through_autosupport.html"
         - title: How do I configure the delivery method for the AutoSupport feature?
           url: "/sm-support/task_how_do_i_configure_the_delivery_method_for_autosupport.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_event_log.gif" alt="sam1130
-        icon event log"></span> Event log
+    - title:  Event log
       url: "/sm-support/generic_event_log.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-support/generic_concepts.html"
         entries:
         - title: Critical events
           url: "/sm-support/concept_critical_events.html"
         - title: Event log
           url: "/sm-support/concept_event_log.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-support/generic_how_tos.html"
         entries:
         - title: View events using the event log
           url: "/sm-support/task_view_events_using_the_event_log.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_upgrade_center.gif"
-        alt="sam1130 icon upgrade center"></span> Upgrade center
+    - title:  Upgrade center
       url: "/sm-support/generic_upgrade_center.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/sm-support/generic_concepts.html"
         entries:
         - title: Controller software and firmware upgrades
@@ -1497,8 +1408,7 @@ sidebar:
           url: "/sm-support/concept_workflow_for_controller_software_and_firmware_upgrade.html"
         - title: Drive firmware upgrades
           url: "/sm-support/concept_drive_firmware_upgrades.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/sm-support/generic_how_tos.html"
         entries:
         - title: Upgrade software and firmware
@@ -1509,8 +1419,7 @@ sidebar:
           url: "/sm-support/task_upgrade_drive_firmware.html"
         - title: Review the possible software and firmware upgrade errors
           url: "/sm-support/concept_review_the_possible_software_and_firmware_upgrade_errors.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/sm-support/generic_faqs.html"
         entries:
         - title: What do I need to know before upgrading the SANtricity OS Software?
@@ -1526,30 +1435,25 @@ sidebar:
   - title: um-admin
     url: "/um-admin/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1130_icon_overview.gif" alt="sam1130
-        icon overview"></span> Unified Manager overview
+    - title:  Unified Manager overview
       url: "/um-admin/concept_unified_manager_overview.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-admin/generic_concepts.html"
         entries:
         - title: Interface overview
           url: "/um-admin/concept_home_page_unified.html"
         - title: Supported browsers
           url: "/um-admin/concept_supported_browsers_unified.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_admin.gif" alt="sam1130
-        icon admin"></span> Unified Manager administration
+    - title:  Unified Manager administration
       url: "/um-admin/concept_administration.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-admin/generic_concepts.html"
         entries:
         - title: Administrator password protection
           url: "/um-admin/concept_administrator_password_protection_unified.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-admin/generic_how_tos.html"
         entries:
         - title: Change the admin password
@@ -1561,20 +1465,17 @@ sidebar:
   - title: um-certificates
     url: "/um-certificates/index.html"
     entries:
-    - title: <span class="image"><img src="../media/sam1140_icon_certs.gif" alt="sam1140
-        icon certs"></span> Certificate Management
+    - title:  Certificate Management
       url: "/um-certificates/generic_certificate_management.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-certificates/generic_concepts.html"
         entries:
         - title: How certificates work
           url: "/um-certificates/concept_how_certificates_work_unified.html"
         - title: Certificate terminology
           url: "/um-certificates/concept_certificate_terminology_unified.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-certificates/generic_how_tos.html"
         entries:
         - title: Use CA-signed certificates
@@ -1596,12 +1497,10 @@ sidebar:
           url: "/um-certificates/task_delete_trusted_certificates_unified.html"
         - title: Resolve untrusted certificates
           url: "/um-certificates/task_resolve_untrusted_certificates_certificate_page.html"
-    - title: <span class="image"><img src="../media/sam1140_icon_active_directory.gif"
-        alt="sam1140 icon active directory"></span> Access Management
+    - title:  Access Management
       url: "/um-certificates/generic_access_management.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-certificates/generic_concepts.html"
         entries:
         - title: How Access Management works
@@ -1614,8 +1513,7 @@ sidebar:
           url: "/um-certificates/concept_access_management_with_local_user_roles_unified.html"
         - title: Access Management with directory services
           url: "/um-certificates/concept_access_management_with_directory_services_unified.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-certificates/generic_how_tos.html"
         entries:
         - title: View local user roles
@@ -1630,8 +1528,7 @@ sidebar:
           url: "/um-certificates/task_edit_directory_server_settings_unified.html"
         - title: Remove directory server
           url: "/um-certificates/task_remove_directory_server_unified.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/um-certificates/generic_faqs.html"
         entries:
         - title: Why can&#8217;t I log in?
@@ -1645,18 +1542,15 @@ sidebar:
   - title: um-manage
     url: "/um-manage/index.html"
     entries:
-    - title: <span class="image"><img src="../media/artboard_9.png" alt="artboard
-        9"></span>Discover storage arrays
+    - title: Discover storage arrays
       url: "/um-manage/generic_discover_storage_arrays.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-manage/generic_concepts.html"
         entries:
         - title: Considerations for discovering arrays
           url: "/um-manage/concept_considerations_for_discovering_arrays.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-manage/generic_how_tos.html"
         entries:
         - title: Discover multiple storage arrays
@@ -1672,36 +1566,30 @@ sidebar:
             url: "/um-manage/task_provide_passwords.html"
         - title: Discover single array
           url: "/um-manage/task_discover_single_array.html"
-    - title: <span class="image"><img src="../media/artboard_11.png" alt="artboard
-        11"></span>Launch
+    - title: Launch
       url: "/um-manage/generic_launch_system_manager.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-manage/generic_concepts.html"
         entries:
         - title: Considerations for accessing SANtricity System Manager
           url: "/um-manage/concept_launch_considerations.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-manage/generic_how_tos.html"
         entries:
         - title: Manage an individual storage array
           url: "/um-manage/task_launch_system_manager.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_system.gif" alt="sam1130
-        icon system"></span>Import Settings
+    - title: Import Settings
       url: "/um-manage/generic_import_settings.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-manage/generic_concepts.html"
         entries:
         - title: How Import Settings works
           url: "/um-manage/concept_how_import_settings_works.html"
         - title: Requirements for replicating storage configurations
           url: "/um-manage/concept_requirements_for_replicating_storage_configurations.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-manage/generic_how_tos.html"
         entries:
         - title: Import alert settings
@@ -1714,28 +1602,24 @@ sidebar:
           url: "/um-manage/task_import_system_settings.html"
         - title: Import storage configuration settings
           url: "/um-manage/task_import_storage_configuration_settings.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/um-manage/generic_faqs.html"
         entries:
         - title: What settings will be imported?
           url: "/um-manage/concept_what_settings_will_be_imported.html"
         - title: Why don&#8217;t I see all of my storage arrays?
           url: "/um-manage/concept_why_don_t_i_see_all_of_my_storage_arrays.html"
-    - title: <span class="image"><img src="../media/artboard_10.png" alt="artboard
-        10"></span>Manage Groups
+    - title: Manage Groups
       url: "/um-manage/generic_manage_groups.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-manage/generic_concepts.html"
         entries:
         - title: Storage array groups
           url: "/um-manage/concept_storage_array_groups.html"
         - title: Storage array status
           url: "/um-manage/concept_storage_array_status.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-manage/generic_how_tos.html"
         entries:
         - title: Manage groups
@@ -1753,20 +1637,17 @@ sidebar:
             url: "/um-manage/task_remove_storage_arrays_from_group.html"
         - title: Remove storage arrays from SANtricity Unified Manager
           url: "/um-manage/task_remove_storage_array.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_upgrade_center.gif"
-        alt="sam1130 icon upgrade center"></span>Upgrade Center
+    - title: Upgrade Center
       url: "/um-manage/generic_upgrade_center.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-manage/generic_concepts.html"
         entries:
         - title: How upgrades work
           url: "/um-manage/concept_how_upgrades_work.html"
         - title: Upgrade considerations
           url: "/um-manage/concept_upgrade_considerations.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-manage/generic_how_tos.html"
         entries:
         - title: Perform pre-upgrade health check
@@ -1779,12 +1660,10 @@ sidebar:
           url: "/um-manage/task_manage_repository.html"
         - title: Clear staged OS software
           url: "/um-manage/task_clear_staged_os_software.html"
-    - title: <span class="image"><img src="../media/sam1130_icon_async_mirroring.gif"
-        alt="sam1130 icon async mirroring"></span>Mirroring
+    - title: Mirroring
       url: "/um-manage/generic_mirroring.html"
       entries:
-      - title: <span class="image"><img src="../media/sam1130_icon_concepts.gif" alt="sam1130
-          icon concepts"></span> Concepts
+      - title: Concepts
         url: "/um-manage/generic_concepts.html"
         entries:
         - title: Mirroring overview
@@ -1795,8 +1674,7 @@ sidebar:
           url: "/um-manage/concept_mirroring_terminology.html"
         - title: Requirements for using mirroring
           url: "/um-manage/concept_requirements_for_using_mirroring.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_how_tos.gif" alt="sam1130
-          icon how tos"></span> How tos
+      - title:  How tos
         url: "/um-manage/generic_how_tos.html"
         entries:
         - title: Create asynchronous mirrored pair
@@ -1817,8 +1695,7 @@ sidebar:
             url: "/um-manage/task_step_2_select_the_secondary_volume_um_sync.html"
           - title: 'Step 3: Select synchronization settings'
             url: "/um-manage/task_step_3_select_sync_settings_um_sync.html"
-      - title: <span class="image"><img src="../media/sam1130_icon_faqs.gif" alt="sam1130
-          icon faqs"></span> FAQs
+      - title:  FAQs
         url: "/um-manage/generic_faqs.html"
         entries:
         - title: What do I need to know before creating a mirror consistency group?
