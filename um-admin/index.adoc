@@ -1,0 +1,9 @@
+---
+permalink: um-admin/index.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= SANtricity Unified Manager 4.0
+:icons: font
+:imagesdir: ../media/
