@@ -1,0 +1,53 @@
+---
+permalink: sm-settings/unlock-drives-using-an-internal-security-key.html
+sidebar: sidebar
+keywords: 
+summary: 'If you move secure-enabled drives from one storage array to another, you must import the appropriate security key to the new storage array. Importing the key unlocks the data on the drives.'
+---
+= Unlock drives using a security key
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+If you move secure-enabled drives from one storage array to another, you must import the appropriate security key to the new storage array. Importing the key unlocks the data on the drives.
+
+== Before you begin
+
+* The target storage array (where you are moving the drives) must already have a security key configured. The migrated drives will be re-keyed to the target storage array.
+* You must know the security key that is associated with the drives you want to unlock.
+* The security key file is available on the management client (the system with a browser used for accessing System Manager). If you are moving the drives to a storage array that is managed by a different system, you need to move the security key file to that management client.
+
+== About this task
+
+This task describes how to unlock data in secure-enabled drives that have been removed from a storage array and reinstalled in another. Once the array discovers the drives, a "Needs Attention" condition appears along with a status of "Security Key Needed" for these re-located drives. You can unlock drive data by importing their security key into the storage array. During this process, you select the security key file and enter the pass phrase for the key.
+
+[NOTE]
+====
+The pass phrase is not the same as the storage array's Administrator password.
+====
+
+If other secure-enabled drives are installed in the new storage array, they might use a different security key than the one you are importing. During the import process, the old security key is used only to unlock the data for the drives you are installing. When the unlock process is successful, the newly installed drives are re-keyed to the target storage array's security key.
+
+== Steps
+
+. Select *Settings* > *System*.
+. Under *Security key management*, select *Unlock Secure Drives*.
++
+The Unlock Secure Drives dialog box opens. Any drives that require a security key are shown in the table.
+
+. Optionally, hover the mouse over a drive number to see the location of the drive (shelf number and bay number).
+. Click *Browse*, and then select the security key file that corresponds to the drive you want to unlock.
++
+The key file you selected appears in the dialog box.
+
+. Enter the pass phrase associated with this key file.
++
+The characters you enter are masked.
+
+. Click *Unlock*.
++
+If the unlock operation is successful, the dialog box displays: "The associated secure drives have been unlocked."
+
+== Results
+
+When all drives are locked and then unlocked, each controller in the storage array will reboot. However, if there are already some unlocked drives in the target storage array, then the controllers will not reboot.
