@@ -48,7 +48,7 @@ To see all port settings, click the *Show more port settings* link on the right 
 +
 Field Details
 [%collapsible]
-+
+====
 [cols="2a,4a",options="header"]
 |===
 | Port Setting| Description
@@ -56,12 +56,11 @@ a|
 Enable IPv4 / Enable IPv6
 a|
 Select one or both options to enable support for IPv4 and IPv6 networks.
-[NOTE]
-====
-If you want to disable port access, deselect both check boxes.
-====
+
+NOTE: If you want to disable port access, deselect both check boxes.
+
 a|
-TCP listening port     (Available by clicking *Show more port settings*.)
+TCP listening port (Available by clicking *Show more port settings*.)
 a|
 If necessary, enter a new port number.
 
@@ -77,13 +76,14 @@ Enable ICMP PING responses
 a|
 Select this option to enable the Internet Control Message Protocol (ICMP). The operating systems of networked computers use this protocol to send messages. These ICMP messages determine whether a host is reachable and how long it takes to get packets to and from that host.
 |===
+====
 If you selected *Enable IPv4*, a dialog box opens for selecting IPv4 settings after you click *Next*. If you selected *Enable IPv6*, a dialog box opens for selecting IPv6 settings after you click *Next*. If you selected both options, the dialog box for IPv4 settings opens first, and then after you click *Next*, the dialog box for IPv6 settings opens.
 
 . Configure the IPv4 and/or IPv6 settings, either automatically or manually. To see all port settings, click the *Show more settings* link on the right of the dialog box.
 +
 Field Details
 [%collapsible]
-+
+====
 [cols="2a,4a",options="header"]
 |===
 | Port setting| Description
@@ -107,5 +107,5 @@ Select this option to enable the parameter that determines the priority of acces
 In a shared local area network (LAN) environment, such as Ethernet, many stations might contend for access to the network. Access is on a first-come, first-served basis. Two stations might try to access the network at the same time, which causes both stations to back off and wait before trying again. This process is minimized for switched Ethernet, where only one station is connected to a switch port.
 
 |===
-
+====
 . Click *Finish*.
