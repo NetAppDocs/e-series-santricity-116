@@ -39,7 +39,7 @@ The Configure Management Ports dialog box opens.
 . Make sure port 1 is displayed, and then click *Next*.
 . Select the configuration port settings, and then click *Next*.
 +
-Field Details
+.Field Details
 [%collapsible]
 ====
 [cols="1a,3a",options="header"]
@@ -59,7 +59,7 @@ If you select *Enable IPv4*, a dialog box opens for selecting IPv4 settings afte
 
 . Configure the IPv4 and/or IPv6 settings, either automatically or manually.
 +
-Field Details
+.Field Details
 [%collapsible]
 ====
 [cols="1a,3a",options="header"]
