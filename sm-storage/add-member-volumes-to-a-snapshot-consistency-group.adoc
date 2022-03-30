@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/add-member-volumes-to-a-snapshot-consistency-group.html
 sidebar: sidebar
-keywords: 
-summary: 'You can add a new member volume to an existing snapshot consistency group. When you add a new member volume, you also must reserve capacity for the member volume.'
+keywords: add, new, member, volume, existing, snapshot, consistency, group, reserve, capacity
+summary: "You can add a new member volume to an existing snapshot consistency group. When you add a new member volume, you also must reserve capacity for the member volume."
 ---
 = Add member volume to a snapshot consistency group
 :icons: font
@@ -30,7 +30,7 @@ The table appears and displays all the snapshot consistency groups associated wi
 
 . Select the snapshot consistency group you want to modify, and then click *Add Members*.
 +
-The Add Members dialog box appears.
+The *Add Members* dialog box appears.
 
 . Select the member volume(s) you want to add, and then click *Next*.
 +

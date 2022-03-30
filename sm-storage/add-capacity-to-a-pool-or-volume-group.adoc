@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/add-capacity-to-a-pool-or-volume-group.html
 sidebar: sidebar
-keywords: 
-summary: 'You can add drives to expand the free capacity in an existing pool or volume group. The expansion causes additional free capacity to be included in the pool or volume group. You can use this free capacity to create additional volumes. The data in the volumes remains accessible during this operation.'
+keywords: drives, expand, free, capacity, existing, pool, volume, group, expansion, causes, additional, include, data, remain, accessible, operation
+summary: "You can add drives to expand the free capacity in an existing pool or volume group. The expansion causes additional free capacity to be included in the pool or volume group. You can use this free capacity to create additional volumes. The data in the volumes remains accessible during this operation."
 ---
 = Add capacity to a pool or volume group
 :icons: font
@@ -47,6 +47,7 @@ The controller firmware arranges the unassigned drives with the best options lis
 +
 Field Details
 +
+[cols="2*",options="header"]
 |===
 | Field| Description
 a|
@@ -87,7 +88,7 @@ a|
 DULBE capable
 a|
 Indicates whether the drive has the option for Deallocated or Unwritten Logical Block Error (DULBE).    DULBE is an option on NVMe drives that allows an EF600 storage array to deallocate blocks that are part of a volume. Deallocating blocks on a drive can greatly reduce the time it takes to initialize volumes. In addition, hosts can deallocate logical blocks in the volume using the NVMe Dataset Management command.
-+
+
 |===
 
 . Click *Add*.
@@ -99,6 +100,7 @@ If you are adding drives to a pool or volume group, a confirmation dialog box ap
  ** Full Disk Encryption capability
  ** Data Assurance capability
  ** DULBE capability
+
 To continue, click *Yes*; otherwise click *Cancel*.
 
 == Results
