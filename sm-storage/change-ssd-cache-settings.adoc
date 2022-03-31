@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/change-ssd-cache-settings.html
 sidebar: sidebar
-keywords: 
-summary: 'You can edit the name of the SSD Cache and view its status, maximum and current capacity, Drive Security and Data Assurance status, and its associated volumes and drives.'
+keywords: edit, name, cache, view, status, maximum, current, capacity, drive, security, data, assurance, associated, volumes
+summary: "You can edit the name of the SSD Cache and view its status, maximum and current capacity, Drive Security and Data Assurance status, and its associated volumes and drives."
 ---
 = Change SSD Cache settings
 :icons: font
@@ -23,12 +23,13 @@ This feature is not available on the EF600 storage system.
 . Select *Storage* > *Pools & Volume Groups*.
 . Select the SSD Cache that you want to edit, and then click *View/Edit Settings*.
 +
-The SSD Cache Settings dialog box appears.
+The *SSD Cache Settings* dialog box appears.
 
 . Review or edit the SSD Cache settings as appropriate.
 +
 Field Details
 +
+[cols="2*",options="header"]
 |===
 | Setting| Description
 a|

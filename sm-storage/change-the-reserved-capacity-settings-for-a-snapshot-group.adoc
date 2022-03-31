@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/change-the-reserved-capacity-settings-for-a-snapshot-group.html
 sidebar: sidebar
-keywords: 
-summary: 'You can change the settings for a snapshot group to change its name, auto-delete settings, the maximum number of allowed snapshot images, the percentage point at which System Manager sends a reserved capacity alert notification, or the policy to use when the reserved capacity reaches its maximum defined percentage.'
+keywords: change, settings, snapshot, group, name, auto-delete, maximum, allowed, images, percentages, point, system, manager, reserved, capacity, alert, notification, policy, defined
+summary: "You can change the settings for a snapshot group to change its name, auto-delete settings, the maximum number of allowed snapshot images, the percentage point at which System Manager sends a reserved capacity alert notification, or the policy to use when the reserved capacity reaches its maximum defined percentage."
 ---
 = Change the reserved capacity settings for a snapshot group
 :icons: font

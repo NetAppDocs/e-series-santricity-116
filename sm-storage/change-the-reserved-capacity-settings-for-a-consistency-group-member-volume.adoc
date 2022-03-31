@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/change-the-reserved-capacity-settings-for-a-consistency-group-member-volume.html
 sidebar: sidebar
-keywords: 
-summary: 'You can change the settings for a consistency group member volume to adjust the percentage point at which System Manager sends an alert notification when the reserved capacity for a member volume is nearing full and to change the policy to use when the reserved capacity reaches its maximum defined percentage.'
+keywords: change, settings, consistency, group, member, volume, adjust, percentage, point, system, manager, alert, notification, reserved, capacity, full, policy, reach, maximum, defined
+summary: "You can change the settings for a consistency group member volume to adjust the percentage point at which System Manager sends an alert notification when the reserved capacity for a member volume is nearing full and to change the policy to use when the reserved capacity reaches its maximum defined percentage."
 ---
 = Change the reserved capacity settings for a consistency group member volume
 :icons: font
@@ -21,21 +21,22 @@ Changing the reserved capacity settings for an individual member volume also cha
 . Click the *Reserved Capacity* tab.
 . Select the consistency group member volume that you want to edit, and then click *View/Edit Settings*.
 +
-The Member Volume Reserved Capacity Settings dialog box appears.
+The *Member Volume Reserved Capacity Settings* dialog box appears.
 
 . Change the reserved capacity settings for the member volume as appropriate.
 +
 Field Details
 +
+[cols="2*",options="header"]
 |===
 | Setting| Description
 a|
 Alert me when...
 a|
     Use the spinner box to adjust the percentage point at which System Manager sends an alert notification when the reserved capacity for a member volume is nearing full.
-+
+
 When the reserved capacity for the member volume exceeds the specified threshold, System Manager sends an alert, allowing you time to increase reserved capacity or to delete unnecessary objects.
-+
+
 [NOTE]
 ====
 Changing the Alert setting for one member volume will change it for _all_ member volumes that belong to the same consistency group.
