@@ -5,6 +5,7 @@ keywords: hardware page, status, settings, shelf, power supply, fan, battery
 summary: "The Hardware page provides status and settings for shelf components, including the power supplies, fans, and batteries."
 ---
 = View shelf component status and settings
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -15,7 +16,7 @@ The Hardware page provides status and settings for shelf components, including t
 
 The available components depend on the type of shelf:
 
-* *Drive shelf*-- Contains a set of drives, power/fan canisters, input/output modules (IOMs), and other supporting components in a single shelf.
+* *Drive shelf* -- Contains a set of drives, power/fan canisters, input/output modules (IOMs), and other supporting components in a single shelf.
 * *Controller shelf* -- Contains a set of drives, one or two controller canisters, power/fan canisters, and other supporting components in a single shelf.
 
 .Steps
@@ -33,7 +34,7 @@ Shelf
 a|
 The Shelf tab shows the following properties:
 
- ** *Shelf ID* -- Uniquely identifies a shelf in the storage array. The controller firmware assigns this number, but you can change it by selecting *Shelf* > *Change ID*.
+ ** *Shelf ID* -- Uniquely identifies a shelf in the storage array. The controller firmware assigns this number, but you can change it by selecting *menu:Shelf[Change ID]*.
  ** *Shelf path redundancy* -- Specifies whether connections between the shelf and the controller have alternate methods in place (Yes) or not (No).
  ** *Current drive types* -- Shows the type of technology built into the drives (for example, a SAS drive that is secure-capable). If there is more than one drive type, both technologies are shown.
  ** *Serial number* -- Shows the serial number of the shelf.

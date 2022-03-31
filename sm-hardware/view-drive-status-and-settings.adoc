@@ -31,7 +31,7 @@ The Drive Settings dialog box opens.
 .Field Details
 [%collapsible]
 ====
-[cols="1a,3a",options="header"] 
+[cols="1a,3a",options="header"]
 |===
 | Settings| Description
 a|
@@ -50,9 +50,9 @@ a|
 Assigned to/Can protect for/Protecting
 a|
 If the drive is assigned to a pool, volume group, or SSD cache, this field displays "Assigned to." The value can be a pool name, volume group name, or SSD cache name.    If the drive is assigned to a hot spare and its mode is Standby, this field displays "Can protect for." If the hot spare can protect one or more volume groups, the volume group names appear. If it cannot protect a volume group, it displays 0 volume groups.
-+
+
 If the drive is assigned to a hot spare and its mode is In Use, this field displays "Protecting." The value is the name of the affected volume group.
-+
+
 If the drive is unassigned, this field does not appear.
 a|
 Media type

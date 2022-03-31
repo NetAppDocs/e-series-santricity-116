@@ -60,6 +60,6 @@ For NVMe SED drives, you must provide the PSID. You can find the PSID on the dri
 . In the Secure Erase Drive dialog box, read the important information about data loss.
 . Confirm the operation, and then click *Erase*.
 
-== Results
+.Results
 
 The drive is now available for use in another volume group or disk pool, or in another storage array.
