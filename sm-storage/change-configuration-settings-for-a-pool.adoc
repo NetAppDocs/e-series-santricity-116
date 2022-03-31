@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/change-configuration-settings-for-a-pool.html
 sidebar: sidebar
-keywords: 
-summary: 'You can edit the settings for a pool, including its name, capacity alerts settings, modification priorities, and preservation capacity.'
+keywords: edit, settings, pool, include, name, capacity, alert, modification, priorities, preservation
+summary: "You can edit the settings for a pool, including its name, capacity alerts settings, modification priorities, and preservation capacity."
 ---
 = Change configuration settings for a pool
 :icons: font

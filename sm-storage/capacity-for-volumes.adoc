@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/capacity-for-volumes.html
 sidebar: sidebar
-keywords: 
-summary: 'The drives in your storage array provide the physical storage capacity for your data. Before you can begin storing data, you must configure the allocated capacity into logical components known as pools or volume groups. You use these storage objects to configure, store, maintain, and preserve data on your storage array.'
+keywords: drive, storage, array, provide, storage, capacity, data, begin, configure, allocate, logical, components, pools, volume, groups, objects, maintain, preserve
+summary: "The drives in your storage array provide the physical storage capacity for your data. Before you can begin storing data, you must configure the allocated capacity into logical components known as pools or volume groups. You use these storage objects to configure, store, maintain, and preserve data on your storage array."
 ---
 = Capacity for volumes
 :icons: font
@@ -57,7 +57,7 @@ You can create thin volumes with a large reported capacity and a relatively smal
 In addition to reported capacity and allocated capacity, thin volumes also contain Written capacity. Written capacity is the amount of capacity that has been written from the reserved capacity allocated for thin volumes.
 
 The following table lists the capacity limits for a thin volume.
-
+[cols="3*",options="header"]
 |===
 | Type of capacity| Minimum size| Maximum size
 a|

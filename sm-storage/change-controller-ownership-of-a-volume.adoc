@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/change-controller-ownership-of-a-volume.html
 sidebar: sidebar
-keywords: 
-summary: 'You can change the preferred controller ownership of a volume, so that I/O for host applications is directed through the new path.'
+keywords: change, preferred, controller, ownership, volume, host, applications, directed, new, path
+summary: "You can change the preferred controller ownership of a volume, so that I/O for host applications is directed through the new path."
 ---
 = Change controller ownership of a volume
 :icons: font
@@ -24,7 +24,7 @@ You can change controller ownership for one or more volumes in a pool or volume 
 . Select *Storage* > *Volumes*.
 . Select any volume, and then select *More* > *Change ownership*.
 +
-The Change Volume Ownership dialog box appears. All volumes on the storage array appear in this dialog box.
+The *Change Volume Ownership* dialog box appears. All volumes on the storage array appear in this dialog box.
 
 . Use the *Preferred Owner* drop-down list to change the preferred controller for each volume that you want to change, and confirm that you want to perform the operation.
 
