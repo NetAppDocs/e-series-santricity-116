@@ -15,8 +15,10 @@ With synchronous mirroring, the state of the primary volume is not captured at s
 
 With asynchronous mirroring, the remote storage array is not fully synchronized with the local storage array, so if the application needs to transition to the remote storage array due to a loss of the local storage array, some transactions could be lost.
 
-Comparison between mirroring features
+.Comparison between mirroring features
+[%collapsible]
 
+====
 [cols="3a,3a",options="header"]
 
 |===
@@ -82,3 +84,4 @@ a|
 Typically must be within about 10 km (6.2 miles), of the local storage array to meet the latency and application performance requirements.
 
 |===
+====
