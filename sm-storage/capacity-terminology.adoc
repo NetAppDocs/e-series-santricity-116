@@ -14,7 +14,7 @@ Learn how the capacity terms apply to your storage array.
 == Storage objects
 
 The following terminology describes the different types of storage objects that can interact with your storage array.
-[cols="2*",options="header"]
+[cols="1a,3a",options="header"]
 |===
 | Storage object| Description
 a|
@@ -83,7 +83,7 @@ A volume group is a container for volumes with shared characteristics. A volume 
 == Storage capacity
 
 The following terminology describes the different types of capacity used on your storage array.
-[cols="2*",options="header"]
+[cols="1a,3a",options="header"]
 |===
 | Capacity type| Description
 a|

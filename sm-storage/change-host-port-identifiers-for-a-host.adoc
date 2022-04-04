@@ -5,13 +5,14 @@ keywords: change, host, port, identifiers, change, user, label, new, delete
 summary: "Change the host port identifiers when you want to change the user label on a host port identifier, add a new host port identifier to the host, or delete a host port identifier from the host."
 ---
 = Change host port identifiers for a host
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 Change the host port identifiers when you want to change the user label on a host port identifier, add a new host port identifier to the host, or delete a host port identifier from the host.
 
-== About this task
+.About this task
 
 When changing host port identifiers, keep the following guidelines in mind:
 
@@ -21,7 +22,7 @@ When changing host port identifiers, keep the following guidelines in mind:
 
 == Steps
 
-. Select *Storage* > *Hosts*.
+. Select menu:Storage[Hosts].
 . Select the host to which the ports will be associated, and then click *View/Edit Settings*.
 +
 If you want to add ports to a host in a host cluster, expand the host cluster and select the desired host. You cannot add ports at the host cluster level.
@@ -34,13 +35,13 @@ The dialog box shows the current host port identifiers.
 
 . Change the host port identifier settings as appropriate.
 +
-[cols="2*",options="header"]
+[cols="1a,3a",options="header"]
 |===
 | Setting| Description
 a|
 Host Port
 a|
-    You can choose one of the following options:
+You can choose one of the following options:
 
  ** *Add* -- Use Add to associate a new host port identifier to the host. The length of the host port identifier name is determined by the host interface technology.
   *** Fibre Channel host port identifier names must have 16 characters.
@@ -62,10 +63,8 @@ To change the port label name, click the *Edit* icon (pencil). The port label na
 a|
 CHAP Secret
 a|
-    Appears only for iSCSI hosts. You can set or change the CHAP secret for the initiators (iSCSI hosts).
+Appears only for iSCSI hosts. You can set or change the CHAP secret for the initiators (iSCSI hosts).
 
 System Manager uses the Challenge Handshake Authentication Protocol (CHAP) method, which validates the identity of targets and initiators during the initial link. Authentication is based on a shared security key called a CHAP secret.
-
 |===
-
 . Click *Save*.

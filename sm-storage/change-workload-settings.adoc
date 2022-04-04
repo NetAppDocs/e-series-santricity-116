@@ -1,19 +1,20 @@
 ---
 permalink: sm-storage/change-workload-settings.html
 sidebar: sidebar
-keywords: 
-summary: 'You can change the name for a workload and view its associated application type. Change the name of a workload when the current name is no longer meaningful or applicable.'
+keywords: change, name, workload, view, associate, application, type, current, longer, meaningful, applicable
+summary: "You can change the name for a workload and view its associated application type. Change the name of a workload when the current name is no longer meaningful or applicable."
 ---
 = Change workload settings
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 You can change the name for a workload and view its associated application type. Change the name of a workload when the current name is no longer meaningful or applicable.
 
-== Steps
+.Steps
 
-. Select *Storage* > *Volumes*.
+. Select menu:Storage[Volumes].
 . Select the *Applications & Workloads* tab.
 +
 The Applications & Workloads view appears.
