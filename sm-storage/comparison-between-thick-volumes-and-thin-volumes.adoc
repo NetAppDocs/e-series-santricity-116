@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/comparison-between-thick-volumes-and-thin-volumes.html
 sidebar: sidebar
-keywords: 
-summary: 'A thick volume is always fully-provisioned, which means that all of the capacity is allocated when the volume is created. A thin volume is always thinly-provisioned, which means that the capacity is allocated as the data is being written to the volume.'
+keywords: thick, volume, fully, provisioned, capacity, allocated, create, thin, data, written, comparison
+summary: "A thick volume is always fully-provisioned, which means that all of the capacity is allocated when the volume is created. A thin volume is always thinly-provisioned, which means that the capacity is allocated as the data is being written to the volume."
 ---
 = Comparison between thick volumes and thin volumes
 :icons: font
@@ -22,7 +22,7 @@ SANtricity System Manager does not provide an option to create thin volumes. If 
 ====
 Thin volumes are not available on the EF600 storage system.
 ====
-
+[cols="1a,3a",options="header"]
 |===
 | Volume type| Description
 a|

@@ -1,23 +1,24 @@
 ---
 permalink: sm-storage/copy-volume.html
 sidebar: sidebar
-keywords: 
-summary: 'You can copy data from one volume to another volume in the same storage array, and create a physical, point-in-time duplicate \(clone\) of a source volume.'
+keywords: copy, data, volume, storage, array, create, physical, point, time, duplicate, clone, source
+summary: "You can copy data from one volume to another volume in the same storage array, and create a physical, point-in-time duplicate (clone) of a source volume."
 ---
 = Copy volume
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 You can copy data from one volume to another volume in the same storage array, and create a physical, point-in-time duplicate (clone) of a source volume.
 
-== Before you begin
+.Before you begin
 
 * All I/O activity to the source volume and the target volume must be stopped.
 * Any file systems on the source volume and the target volume must be unmounted.
 * If you have used the target volume in a Copy Volume operation before, you no longer need that data or that you have backed up the data.
 
-== About this task
+.About this task
 
 The source volume is the volume that accepts host I/O and stores application data. When a Copy Volume is started, data from the source volume is copied in its entirety to the target volume.
 
@@ -38,10 +39,10 @@ An offline copy reads data from the source volume and copies it to a target volu
 A Copy Volume operation overwrites data on the target volume and fails all snapshot volumes associated with the target volume, if any exist.
 ====
 
-== Steps
+.Steps
 
-. Select *Storage* > *Volumes*.
-. Select the volume that you want to use as the source for the Copy Volume operation, and then select *Copy Services* > *Copy volume*.
+. Select menu:Storage[Volumes].
+. Select the volume that you want to use as the source for the Copy Volume operation, and then select menu:Copy Services[Copy volume].
 +
 The Copy Volume-Select Target dialog box appears.
 
@@ -78,10 +79,10 @@ Allocate the reserved capacity using the following guidelines:
  ** Reserved capacity, however, varies depending on the number of changes to the original data.
 The longer a storage object is active, the larger the reserved capacity should be.
 
-== Results
+.Results
 
 System Manager copies all data from the source volume to the target volume. After the Copy Volume operation is complete, the target volume automatically becomes read-only to the hosts.
 
-== After you finish
+.After you finish
 
-Select *Home* > *View Operations in Progress* to view the progress of the Copy Volume operation. This operation can be lengthy and could affect system performance.
+Select menu:Home[View Operations in Progress] to view the progress of the Copy Volume operation. This operation can be lengthy and could affect system performance.
