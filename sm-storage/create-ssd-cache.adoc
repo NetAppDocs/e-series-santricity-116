@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/create-ssd-cache.html
 sidebar: sidebar
-keywords:
-summary: 'To dynamically accelerate system performance, you can use the SSD Cache feature to cache the most frequently accessed data \("hot" data\) onto lower latency Solid State Drives \(SSDs\). SSD Cache is used exclusively for host reads.'
+keywords: dynamically, accelerate, system, performance, use, cache, feature, frequently, access, data, lower, latency, solid, state, drives, exclusively, host
+summary: "To dynamically accelerate system performance, you can use the SSD Cache feature to cache the most frequently accessed data ("hot" data\) onto lower latency Solid State Drives \(SSDs\). SSD Cache is used exclusively for host reads."
 ---
 = Create SSD Cache
 :experimental:
@@ -44,7 +44,7 @@ The Create SSD Cache dialog box appears.
 
 . Type a name for the SSD Cache.
 . Select the SSD Cache candidate that you want to use based on the following characteristics.
-
++
 [cols="2*",options="header"]
 |===
 | Characteristic| Use

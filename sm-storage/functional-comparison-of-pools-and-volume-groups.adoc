@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/functional-comparison-of-pools-and-volume-groups.html
 sidebar: sidebar
-keywords: 
-summary: 'The function and purpose of a pool and a volume group are the same. Both objects are a set of drives logically grouped together in a storage array and are used to create volumes that a host can access.'
+keywords: function, purpose, pool, volume, group, same, objects, set, drives, logically, together, storage, array, create, host, access
+summary: "The function and purpose of a pool and a volume group are the same. Both objects are a set of drives logically grouped together in a storage array and are used to create volumes that a host can access."
 ---
 = Functional comparison of pools and volume groups
 :icons: font
@@ -12,7 +12,7 @@ summary: 'The function and purpose of a pool and a volume group are the same. Bo
 The function and purpose of a pool and a volume group are the same. Both objects are a set of drives logically grouped together in a storage array and are used to create volumes that a host can access.
 
 The following table helps you decide whether a pool or volume group best suits your storage needs.
-
+[cols=3*",options="header"]
 |===
 | Function| Pool| Volume Group
 a|
