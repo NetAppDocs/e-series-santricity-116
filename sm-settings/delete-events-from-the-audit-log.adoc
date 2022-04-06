@@ -1,28 +1,29 @@
 ---
 permalink: sm-settings/delete-events-from-the-audit-log.html
 sidebar: sidebar
-keywords: 
-summary: 'You can clear the audit log of old events, which makes searching through events more manageable. You have the option of saving old events to a CSV \(comma-separated values\) file upon deletion.'
+keywords: clear, audit, log, old events, searching,  manageable, savings, old, events, csv, file, delete
+summary: "You can clear the audit log of old events, which makes searching through events more manageable. You have the option of saving old events to a CSV (comma-separated values) file upon deletion."
 ---
 = Delete events from the audit log
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 You can clear the audit log of old events, which makes searching through events more manageable. You have the option of saving old events to a CSV (comma-separated values) file upon deletion.
 
-== Before you begin
+.Before you begin
 
 * You must be logged in with a user profile that includes Security admin permissions. Otherwise, the Access Management functions do not appear.
 
-== About this task
+.About this task
 
 This task describes how to remove old events from the audit log.
 
-== Steps
+.Steps
 
-. Select *Settings* > *Access Management*.
-. Select the **Audit Log**tab.
+. Select *menu:Settings[Access Management]*.
+. Select the *Audit Log* tab.
 . Select *Delete*.
 +
 The Delete Audit Log dialog box opens.
