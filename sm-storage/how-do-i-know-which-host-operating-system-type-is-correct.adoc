@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/how-do-i-know-which-host-operating-system-type-is-correct.html
 sidebar: sidebar
-keywords: 
-summary: 'The Host Operating System Type field contains the operating system of the host. You can select the recommended host type from the drop-down list or allow the Host Context Agent \(HCA\) to configure the host and appropriate host operating system type.'
+keywords: host, operating system, type, field, contain, select, recommended, drop down, list, allow, context, agent, configure, appropriate
+summary: "The Host Operating System Type field contains the operating system of the host. You can select the recommended host type from the drop-down list or allow the Host Context Agent (HCA) to configure the host and appropriate host operating system type."
 ---
 = How do I know which host operating system type is correct?
 :icons: font
@@ -19,7 +19,7 @@ For more information about host support, refer to the https://mysupport.netapp.c
 ====
 
 Some of the following host types might appear in the list:
-
+[cols="2*",options="header"]
 |===
 | Host Operating System type| Operating System (OS) and multipath driver
 a|

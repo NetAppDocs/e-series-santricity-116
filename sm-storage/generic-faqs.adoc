@@ -1,10 +1,10 @@
 ---
 permalink: sm-storage/generic-faqs.html
 sidebar: sidebar
-keywords: 
-summary: ''
+keywords: frequent, questions
+summary: "Frequently Asked Questions"
 ---
-= image:../media/sam1130-icon-faqs.gif[] FAQs
+= FAQs
 :icons: font
 :imagesdir: ../media/
 
