@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/how-do-i-maintain-shelf-drawer-loss-protection.html
 sidebar: sidebar
-keywords: 
-summary: 'To maintain shelf/drawer loss protection for a pool or volume group, use the criteria specified in the following table.'
+keywords: maintain, shelf, drawer, loss, protection, pool, volume, group, use, criteria, specified, following, table
+summary: "To maintain shelf/drawer loss protection for a pool or volume group, use the criteria specified in the following table."
 ---
 = How do I maintain shelf/drawer loss protection?
 :icons: font
@@ -10,7 +10,7 @@ summary: 'To maintain shelf/drawer loss protection for a pool or volume group, u
 
 [.lead]
 To maintain shelf/drawer loss protection for a pool or volume group, use the criteria specified in the following table.
-
+[cols="3*",options="header"]
 |===
 | Level| Criteria for shelf/drawer loss protection| Minimum number of shelves/drawers required
 a|
