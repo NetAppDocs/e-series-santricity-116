@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/snapshot-volumes.html
 sidebar: sidebar
-keywords: 
-summary: 'You can create a snapshot volume and assign it to a host if you want to read or write snapshot data. The snapshot volume shares the same characteristics as the base volume \(RAID level, I/O characteristics, and so on\).'
+keywords: create, snapshot, volume, assign, host, want, read, write, data, share, same, characteristics, base, level
+summary: "You can create a snapshot volume and assign it to a host if you want to read or write snapshot data. The snapshot volume shares the same characteristics as the base volume (RAID level, I/O characteristics, and so on)."
 ---
 = Snapshot volumes
 :icons: font

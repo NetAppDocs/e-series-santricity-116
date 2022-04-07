@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/snapshot-rollback.html
 sidebar: sidebar
-keywords: 
-summary: 'A rollback operation returns a base volume to a previous state, determined by the selected snapshot.'
+keywords: rollback, operation, returns, base, volume, previous, state, determined, selected, snapshot, image
+summary: "A rollback operation returns a base volume to a previous state, determined by the selected snapshot."
 ---
 = Snapshot rollback
 :icons: font

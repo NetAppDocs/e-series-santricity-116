@@ -1,10 +1,11 @@
 ---
 permalink: sm-storage/resume-snapshot-image-rollback.html
 sidebar: sidebar
-keywords: 
-summary: 'If an error occurs during a snapshot image rollback operation, the operation is automatically paused. You can resume a rollback operation that is in a paused state.'
+keywords: error, occur, during, snapshot, image, rollback, operation, automatically, pause, resume, state
+summary: "If an error occurs during a snapshot image rollback operation, the operation is automatically paused. You can resume a rollback operation that is in a paused state."
 ---
 = Resume snapshot image rollback
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -13,9 +14,9 @@ If an error occurs during a snapshot image rollback operation, the operation is 
 
 == Steps
 
-. Select *Storage* > *Snapshots*.
+. Select menu:Storage[Snapshots].
 . Click the *Snapshot Images* tab.
-. Highlight the paused rollback, and then select *Rollback* > *Resume*.
+. Highlight the paused rollback, and then select menu:Rollback[Resume].
 +
 The operation resumes.
 
