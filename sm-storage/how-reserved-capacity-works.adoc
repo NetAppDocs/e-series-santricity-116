@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/how-reserved-capacity-works.html
 sidebar: sidebar
-keywords: 
-summary: 'Reserved capacity is automatically created when copy service operations, such as snapshots or asynchronous mirroring operations, are provided for your volumes. The purpose of reserved capacity is to store data changes on these volumes, should something go wrong. Like volumes, reserved capacity is created from pools or volume groups.'
+keywords: reserved, capacity, automatically, create, copy, service, operations, snapshots, asynchronous, mirroring, operations, provide, volumes, purpose, store, data, changes, something, wrong, pools, groups
+summary: "Reserved capacity is automatically created when copy service operations, such as snapshots or asynchronous mirroring operations, are provided for your volumes. The purpose of reserved capacity is to store data changes on these volumes, should something go wrong. Like volumes, reserved capacity is created from pools or volume groups."
 ---
 = How reserved capacity works
 :icons: font
