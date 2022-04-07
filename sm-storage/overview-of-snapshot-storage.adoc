@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/overview-of-snapshot-storage.html
 sidebar: sidebar
-keywords: 
-summary: 'The Snapshots feature uses copy-on-write technology to store snapshot images and use allocated reserved capacity.'
+keywords: snapshots, feature, use, copy, write, technology, store, images, allocate, reserved, capacity
+summary: "The Snapshots feature uses copy-on-write technology to store snapshot images and use allocated reserved capacity."
 ---
 = Overview of snapshot storage
 :icons: font

@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/performance-terminology.html
 sidebar: sidebar
-keywords: 
-summary: 'Learn how the performance terms apply to your storage array.'
+keywords: learn, how, performance, terms, apply, storage, array
+summary: "Learn how the performance terms apply to your storage array."
 ---
 = Performance terminology
 :icons: font
@@ -10,7 +10,7 @@ summary: 'Learn how the performance terms apply to your storage array.'
 
 [.lead]
 Learn how the performance terms apply to your storage array.
-
+[cols="2*",options="header"]
 |===
 | Term
 
