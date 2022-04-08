@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/volume-terminology.html
 sidebar: sidebar
-keywords: 
-summary: 'Learn how the volume terms apply to your storage array.'
+keywords: learn, volume, terms, apply, storage, array
+summary: "Learn how the volume terms apply to your storage array."
 ---
 = Volume terminology
 :icons: font
@@ -12,7 +12,7 @@ summary: 'Learn how the volume terms apply to your storage array.'
 Learn how the volume terms apply to your storage array.
 
 == All volume types
-
+[cols="2*",options="header"]
 |===
 | Term| Description
 a|
@@ -192,7 +192,7 @@ SANtricity System Manager does not provide an option to create thin volumes. If 
 ====
 Thin volumes are not available on the EF600 storage system.
 ====
-
+[cols="2*",options="header"]
 |===
 | Term| Description
 a|
