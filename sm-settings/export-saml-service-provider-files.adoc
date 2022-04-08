@@ -27,7 +27,7 @@ In this task, you export metadata from the controllers (one file for each contro
 . Select the *SAML* tab.
 . Select *Export*.
 +
-The *Export Service Provider Files* dialog opens.
+The *Export Service Provider Files* dialog box opens.
 
 . For each controller, click *Export* to save the metadata file to your local system.
 +
