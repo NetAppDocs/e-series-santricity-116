@@ -11,7 +11,7 @@ summary: "The Recovery Guru is a component of System Manager that diagnoses stor
 [.lead]
 The Recovery Guru is a component of System Manager that diagnoses storage array problems and recommends recovery procedures to fix the problems.
 
-== Steps
+.Steps
 
 . Select *Home*.
 . Click the link labeled *Recover from `n` problems* in the center-top of the window.

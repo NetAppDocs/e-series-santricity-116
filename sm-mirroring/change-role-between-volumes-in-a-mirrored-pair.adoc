@@ -16,7 +16,7 @@ You can perform a role reversal between the two volumes in a mirrored pair that 
 
 You can either demote the primary volume to the secondary role or promote the secondary volume to the primary role. Any hosts that are accessing the primary volume have read/write access to the volume. When the primary volume becomes a secondary volume, only remote writes initiated by the primary controller are written to the volume.
 
-== Steps
+.Steps
 
 . Select *menu:Storage[Synchronous Mirroring]*.
 . Select the mirrored pair that contains the volumes for which you want to change the role, and then select *menu:More[Change role].*
