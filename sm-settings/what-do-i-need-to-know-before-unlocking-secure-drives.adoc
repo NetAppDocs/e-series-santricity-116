@@ -1,8 +1,8 @@
 ---
 permalink: sm-settings/what-do-i-need-to-know-before-unlocking-secure-drives.html
 sidebar: sidebar
-keywords: 
-summary: 'To unlock the data from a secure-enabled drive that is migrated to a new storage array, you must import its security key.'
+keywords: unlock, data, secure, enable, migration, storage array, import, security, key
+summary: "To unlock the data from a secure-enabled drive that is migrated to a new storage array, you must import its security key."
 ---
 = What do I need to know before unlocking secure drives?
 :icons: font
