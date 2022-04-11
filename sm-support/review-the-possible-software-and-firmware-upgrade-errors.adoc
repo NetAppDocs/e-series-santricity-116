@@ -1,8 +1,8 @@
 ---
 permalink: sm-support/review-the-possible-software-and-firmware-upgrade-errors.html
 sidebar: sidebar
-keywords: 
-summary: 'Errors can occur during either the controller software upgrade or the drive firmware upgrade.'
+keywords: errors, occur, during, either, controller, software, upgrade, drive, firmware, upgrade
+summary: "Errors can occur during either the controller software upgrade or the drive firmware upgrade."
 ---
 = Review the possible software and firmware upgrade errors
 :icons: font
@@ -10,7 +10,7 @@ summary: 'Errors can occur during either the controller software upgrade or the 
 
 [.lead]
 Errors can occur during either the controller software upgrade or the drive firmware upgrade.
-
+[cols="3*",options="header"]
 |===
 | Firmware download error| Description| Recommended action
 a|

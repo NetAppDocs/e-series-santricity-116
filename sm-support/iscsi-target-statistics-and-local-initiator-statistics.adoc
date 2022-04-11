@@ -1,15 +1,15 @@
 ---
 permalink: sm-support/iscsi-target-statistics-and-local-initiator-statistics.html
 sidebar: sidebar
-keywords: 
-summary: ''
+keywords: target, statistics, local, initiator, statistics, select, target
+summary: "iSCSI target statistics and local initiator statistics"
 ---
 = iSCSI target statistics and local initiator statistics
 :icons: font
 :imagesdir: ../media/
 
 When you select Target (protocol) statistics or Local initiator (protocol) statistics, the following statistics are shown. You can view each of these statistics as raw statistics or as baseline statistics.
-
+[cols="2*",options="header"]
 |===
 | Statistic| Definition
 a|
