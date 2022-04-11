@@ -1,8 +1,8 @@
 ---
 permalink: sm-support/dcbx-tlv-statistics.html
 sidebar: sidebar
-keywords: 
-summary: ''
+keywords: statistics, typical, definition, logical, host, port, indicate
+summary: "DCBX TLV statistics"
 ---
 = DCBX TLV statistics
 :icons: font
@@ -14,6 +14,7 @@ When you select Data Center Bridging Exchange (DCBX) Type Length Value (TLV) Sta
 * *Operational statistics* -- The DCBX parameters that result from DCBX negotiations.
 * *Remote statistics* -- The DCBX parameters from the peer device that the controller is connected to, typically a switch.
 
+[cols="2*",options="header"]
 |===
 | Statistic| Definition
 a|
