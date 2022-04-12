@@ -1,8 +1,8 @@
 ---
 permalink: um-manage/step-2-select-the-secondary-volume-um-sync.html
 sidebar: sidebar
-keywords: 
-summary: 'Select the secondary volume that you want to use in the mirror relationship.'
+keywords: select, the, secondary, volume,
+summary: "Select the secondary volume that you want to use in the mirror relationship."
 ---
 = Step 2: Select the secondary volume
 :icons: font
@@ -11,19 +11,19 @@ summary: 'Select the secondary volume that you want to use in the mirror relatio
 [.lead]
 Select the secondary volume that you want to use in the mirror relationship.
 
-== Before you begin
+.Before you begin
 
 * You must have created the secondary volume that you want to use in the synchronous mirror relationship.
 * The secondary volume must be a standard volume. It cannot be a thin volume or a snapshot volume.
 * The secondary volume should be at least as large as the primary volume.
 
-== About this task
+.About this task
 
 When you select a secondary volume on the remote storage array, the system displays a list of all the eligible volumes for that mirrored pair. Any volumes that are not eligible to be used do not display in that list.
 
 The volume you select will hold the secondary role in the mirror relationship.
 
-== Steps
+.Steps
 
 . Select the remote storage array on which you want to establish a mirror relationship with the local storage array.
 +
