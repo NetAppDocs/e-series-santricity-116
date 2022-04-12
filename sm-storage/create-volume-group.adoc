@@ -60,8 +60,10 @@ Only experts who understand drive redundancy and optimal drive configurations sh
 +
 The drive characteristics displayed depend on whether you selected the automatic method or manual method.
 +
-*Automatic method drive characteristics*
+.*Automatic method drive characteristics*
+[%collapsible]
 
+====
 [cols="2*",options="header"]
 |===
 | Characteristic| Use
@@ -88,9 +90,9 @@ a|
 Provides the option for enabling the Drive Security feature with secure-capable drives. If the volume group is secure-capable and you have set up a security key, you can enable Drive Security by selecting the check box.
 
 [NOTE]
-====
+
 The only way to remove Drive Security after it is enabled is to delete the volume group and erase the drives.
-====
+
 a|
 DA Capable
 a|
@@ -108,8 +110,12 @@ Drawer Loss Protection
 a|
 Shows if drawer loss protection is available, which is provided only if you are using a drive shelf that contains drawers.     Drawer loss protection guarantees accessibility to the data on the volumes in a volume group if a total loss of communication occurs with a single drawer in a drive shelf.
 |===
-*Manual method drive characteristics*
+====
 
+.*Manual method drive characteristics*
+[%collapsible]
+
+====
 [cols="2*",options="header"]
 |===
 | Characteristic| Use
@@ -163,3 +169,4 @@ If you want to use DA, select a volume group that is DA capable. This option is 
 
 A volume group can contain drives that are DA-capable or not DA-capable, but all drives must be DA capable for you to use this feature.
 |===
+====

@@ -29,9 +29,9 @@ The host has immediate access to the new rolled-back volumes, but the existing m
 
 The process to start rollback of a snapshot image of a snapshot consistency group is a multi-step procedure:
 
-* <<TASK_0CF16C7A112C4B2FA44419B82272887D,Step 1: Select members>>
-* <<TASK_3CC5A20F26E44B9DBDDBCF422EDBBB4C,Step 2: Review capacity>>
-* <<TASK_2C49B5B3933341D1BA737F00EBBC1698,Step 3: Edit priority>>
+* <<Step 1: Select members>>
+* <<Step 2: Review capacity>>
+* <<Step 3: Edit priority>>
 
 == Step 1: Select members
 
