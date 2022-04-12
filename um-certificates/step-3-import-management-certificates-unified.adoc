@@ -1,8 +1,8 @@
 ---
 permalink: um-certificates/step-3-import-management-certificates-unified.html
 sidebar: sidebar
-keywords: 
-summary: 'After you receive signed certificates, import the certificate chain for the host system where the Unified Manager interface is installed.'
+keywords: receive, signed, certificates, unified manager, interface, installed
+summary: "After you receive signed certificates, import the certificate chain for the host system where the Unified Manager interface is installed."
 ---
 = Step 2: Import management certificates
 :experimental:
@@ -12,15 +12,15 @@ summary: 'After you receive signed certificates, import the certificate chain fo
 [.lead]
 After you receive signed certificates, import the certificate chain for the host system where the Unified Manager interface is installed.
 
-== Before you begin
+.Before you begin
 
 * You must be logged in with a user profile that includes Security admin permissions. Otherwise, certificate functions do not appear.
 * You have generated a certificate signing request (.CSR file) and sent it to the CA.
 * The CA returned trusted certificate files.
 * The certificate files are installed on your local system.
-* If the CA provided a chained certificate (for example, a .p7b file), you must unpack the chained file into individual files: the root certificate, one or more intermediate certificates, and the server certificate. You can use the Windows `certmgr` utility to unpack the files (right-click and select menu:All Tasks[Export]). When the exports are complete, a CER file is shown for each certificate file in the chain.
+* If the CA provided a chained certificate (for example, a .p7b file), you must unpack the chained file into individual files: the root certificate, one or more intermediate certificates, and the server certificate. You can use the Windows `certmgr` utility to unpack the files (right-click and select *menu:All Tasks[Export]*). When the exports are complete, a CER file is shown for each certificate file in the chain.
 
-== Steps
+.Steps
 
 . Select *Certificate Management*.
 . From the *Management* tab, select *Import*.
@@ -33,6 +33,6 @@ The filenames are displayed in the dialog box.
 
 . Click *Import*.
 
-== Results
+.Results
 
 The files are uploaded and validated. The certificate information displays on the Certificate Management page.

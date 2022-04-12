@@ -1,8 +1,8 @@
 ---
 permalink: um-certificates/step-1-complete-csr-file-unified.html
 sidebar: sidebar
-keywords: 
-summary: 'You must first generate a certificate signing request \(CSR\) file and send it to the CA.'
+keywords: certificate, signing request, ca
+summary: "You must first generate a certificate signing request (CSR) file and send it to the CA."
 ---
 = Step 1: Complete and submit a CSR
 :icons: font
@@ -11,11 +11,11 @@ summary: 'You must first generate a certificate signing request \(CSR\) file and
 [.lead]
 You must first generate a certificate signing request (CSR) file and send it to the CA.
 
-== Before you begin
+.Before you begin
 
 * You must be logged in with a user profile that includes Security admin permissions. Otherwise, certificate functions do not appear.
 
-== About this task
+.About this task
 
 This task describes how to generate the CSR file that you send to a CA to receive signed, management certificates for the system hosting Unified Manager and the Web Services Proxy. You must provide information about your organization, plus the IP address or DNS name of the host system.
 
@@ -24,7 +24,7 @@ This task describes how to generate the CSR file that you send to a CA to receiv
 Do not generate a new CSR after submission to the CA. When you generate a CSR, the system creates a private and public key pair. The public key is part of the CSR, while the private key is kept in the keystore. When you receive the signed certificates and import them into the keystore, the system ensures that both the private and public keys are the original pair. Therefore, you must not generate a new CSR after submitting one to the CA. If you do, the controllers generate new keys, and the certificates you receive from the CA will not work.
 ====
 
-== Steps
+.Steps
 
 . Select *Certificate Management*.
 . From the *Management* tab, select *Complete CSR*.
@@ -44,6 +44,6 @@ A CSR file is downloaded to your local system. The folder location of the downlo
 
 . Submit the CSR file to a CA and request signed certificates in PEM or DER format.
 
-== After you finish
+.After you finish
 
-Wait for the CA to return the certificate files, and then go to link:step-3-import-management-certificates-unified.md#[Step 2: Import management certificates].
+Wait for the CA to return the certificate files, and then go to link:step-3-import-management-certificates-unified.html[Step 2: Import management certificates].
