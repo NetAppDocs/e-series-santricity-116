@@ -1,21 +1,21 @@
 ---
 permalink: um-manage/enter-network-address.html
 sidebar: sidebar
-keywords: 
-summary: 'You enter a network address range to search across the local sub-network. Any storage array successfully reached appears on the Discover page and might be added to your management domain.'
+keywords: enter, network, address,
+summary: "You enter a network address range to search across the local sub-network. Any storage array successfully reached appears on the Discover page and might be added to your management domain."
 ---
 = Enter network address
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
-You enter a network address range to search across the local sub-network. Any storage array successfully reached appears on the Discover page and might be added to your management domain.
+You enter a network address range to search across the local sub-network. Any storage array successfully reached appears on the *Discover* page and might be added to your management domain.
 
-== About this task
+.About this task
 
 If you need to stop the discovery operation for any reason, click *Stop Discovery*.
 
-== Steps
+.Steps
 
 . From the *Manage* page, select *Add/Discover*.
 +
