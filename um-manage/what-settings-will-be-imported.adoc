@@ -1,8 +1,8 @@
 ---
 permalink: um-manage/what-settings-will-be-imported.html
 sidebar: sidebar
-keywords: 
-summary: 'The Import Settings feature is a batch operation that loads configurations from one storage array to multiple storage arrays. The settings that are imported during this operation depend on how the source storage array is configured in SANtricity System Manager.'
+keywords: what, settings, will, be, imported,
+summary: "The Import Settings feature is a batch operation that loads configurations from one storage array to multiple storage arrays. The settings that are imported during this operation depend on how the source storage array is configured in SANtricity System Manager."
 ---
 = What settings will be imported?
 :icons: font
