@@ -1,8 +1,8 @@
 ---
 permalink: um-certificates/certificate-terminology-unified.html
 sidebar: sidebar
-keywords: 
-summary: 'The following terms apply to certificate management.'
+keywords: terms, certificate, management
+summary: "The following terms apply to certificate management."
 ---
 = Certificate terminology
 :icons: font
@@ -11,6 +11,7 @@ summary: 'The following terms apply to certificate management.'
 [.lead]
 The following terms apply to certificate management.
 
+[cols="1a,3a",options="header"]
 |===
 | Term| Description
 a|

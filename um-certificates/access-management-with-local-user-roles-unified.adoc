@@ -1,8 +1,8 @@
 ---
 permalink: um-certificates/access-management-with-local-user-roles-unified.html
 sidebar: sidebar
-keywords: 
-summary: 'Administrators can use RBAC \(role-based access control\) capabilities enforced in SANtricity Unified Manager. These capabilities are referred to as "local user roles."'
+keywords: administrator, rbac, capability, santricity, unified, manager
+summary: "Administrators can use RBAC (role-based access control) capabilities enforced in SANtricity Unified Manager. These capabilities are referred to as "local user roles."
 ---
 = Access Management with local user roles
 :icons: font
