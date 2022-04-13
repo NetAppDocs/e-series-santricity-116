@@ -25,6 +25,6 @@ The Snapshot Volumes table appears and displays all the snapshot volumes associa
 
 . Select the snapshot volume that you want to copy, and then select *Copy Volume*.
 +
-The Copy Volume dialog box appears, prompting you to select a target.
+The *Copy Volume* dialog box appears, prompting you to select a target.
 
 . Select the target volume to be used as the copy destination, and then click *Finish*.

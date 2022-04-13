@@ -37,9 +37,9 @@ Assigning a volume to a host will fail if you try to assign a volume to a host c
 . Select menu:Storage[Volumes].
 . Select menu:Create[Volume].
 +
-The Create Volumes dialog box appears.
+The *Create Volumes* dialog box appears.
 
 . From the drop-down list, select a specific host or host cluster to which you want to assign volumes, or choose to assign the host or host cluster at a later time.
 . To continue the volume creation sequence for the selected host or host cluster, click *Next*, and go to xref:create-volumes-storage-step-2.adoc[Step 2: Select a workload for a volume].
 +
-The Select Workload dialog box appears.
+The *Select Workload* dialog box appears.

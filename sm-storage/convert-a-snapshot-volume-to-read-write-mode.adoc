@@ -21,7 +21,7 @@ The Snapshot Volumes table appears and displays all the snapshot volumes associa
 
 . Select the read-only snapshot volume you want to convert, and then click *Convert to Read/Write*.
 +
-The Convert to Read/Write dialog box appears with the *Reserve Capacity* step activated. The Volume Candidate table displays only the candidates that support the reserved capacity specified.
+The *Convert to Read/Write* dialog box appears with the *Reserve Capacity* step activated. The Volume Candidate table displays only the candidates that support the reserved capacity specified.
 
 . To allocate the reserved capacity for the read-write snapshot volume, do one of the following actions:
  ** *Accept the default settings* -- Use this recommended option to allocate the reserved capacity for the snapshot volume with the default settings.
@@ -30,7 +30,7 @@ The Convert to Read/Write dialog box appears with the *Reserve Capacity* step ac
   *** The capacity needed varies, depending on the frequency and size of I/O writes to the volume.
 . Select *Next* to review or edit settings.
 +
-The Edit Settingsdialog box appears.
+The *Edit Settings* dialog box appears.
 
 . Accept or specify the settings for the snapshot volume as appropriate, and then select *Finish* to convert the snapshot volume.
 +
@@ -51,3 +51,4 @@ Use the spinner box to adjust the percentage point at which the system sends an 
 
 When the reserved capacity for the snapshot volume exceeds the specified threshold, the system sends an alert, allowing you time to increase reserved capacity or to delete unnecessary objects.
 |===
+====

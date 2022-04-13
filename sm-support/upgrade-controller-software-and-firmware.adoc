@@ -64,7 +64,7 @@ If you have a storage array with a single controller, the IOM firmware is not up
 
 . Under SANtricity OS Software upgrade, click *Begin Upgrade*.
 +
-The Upgrade SANtricity OS Software dialog appears.
+The *Upgrade SANtricity OS Software* dialog box appears.
 
 . Select one or more files to begin the upgrade process:
  .. Select the SANtricity OS Software file by clicking *Browse* and navigating to the OS software file you downloaded from the Support web site.

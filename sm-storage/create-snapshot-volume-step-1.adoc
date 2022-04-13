@@ -18,12 +18,12 @@ Select either a snapshot image of a base volume or a snapshot consistency group.
 . Select the *Snapshot Volumes* tab.
 . Select *Create*.
 +
-The Create Snapshot Volumedialog box appears.
+The *Create Snapshot Volume* dialog box appears.
 
 . Select the snapshot image (volume or snapshot consistency group) you want to convert into a snapshot volume, and then click *Next*. Use a text entry in the *Filter* field to narrow down the list.
 +
-If the selection was for a snapshot consistency group snapshot image, the Review Members dialog box appears.
+If the selection was for a snapshot consistency group snapshot image, the *Review Members* dialog box appears.
 +
-On the Review Members dialog box, review the list of volumes that are selected for conversion to snapshot volumes, and then click *Next*.
+On the *Review Members* dialog box, review the list of volumes that are selected for conversion to snapshot volumes, and then click *Next*.
 
 . Go to xref:create-snapshot-volume-step-2.adoc[Step 2: Assign snapshot volume to host].

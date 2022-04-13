@@ -32,7 +32,7 @@ DA is *not* supported by iSCSI over TCP/IP, or by the SRP over InfiniBand.
 . Select menu:Storage[Hosts].
 . Select menu:Create[Host Cluster].
 +
-The Create Host Cluster dialog box appears.
+The *Create Host Cluster* dialog box appears.
 
 . Select the settings for the host cluster as appropriate.
 +
@@ -55,7 +55,7 @@ Select two or more hosts from the drop-down list. Only those hosts that are not 
 ====
 . Click *Create*.
 +
-If the selected hosts are attached to interface types that have different Data Assurance (DA) capabilities, a dialog appears with the message that DA will be unavailable on the host cluster. This unavailability prevents DA-enabled volumes from being added to the host cluster. Select *Yes* to continue or *No* to cancel.
+If the selected hosts are attached to interface types that have different Data Assurance (DA) capabilities, a dialog box appears with the message that DA will be unavailable on the host cluster. This unavailability prevents DA-enabled volumes from being added to the host cluster. Select *Yes* to continue or *No* to cancel.
 +
 DA increases data integrity across the entire storage system. DA enables the storage array to check for errors that might occur when data is moved between the hosts and the drives. Using DA for the new volume ensures that any errors are detected.
 
