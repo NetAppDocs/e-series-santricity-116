@@ -24,7 +24,7 @@ Asynchronous mirroring involves the following workflow:
 . Check the progress of the initial synchronization:
  .. In Unified Manager, launch System Manager for the local array.
  .. In System Manager, view the status of the mirroring operation. When mirroring is complete, the status of the mirrored pair is "Optimal."
-. *Optional:* you can reschedule or manually perform subsequent data transfers in System Manager. Only new and changed blocks are transferred from the primary volume to the secondary volume.
+. *Optional:* You can reschedule or manually perform subsequent data transfers in System Manager. Only new and changed blocks are transferred from the primary volume to the secondary volume.
 +
 [NOTE]
 ====
@@ -44,7 +44,7 @@ Synchronous mirroring involves the following workflow:
 . Check the progress of the initial synchronization:
  .. In Unified Manager, launch System Manager for the local array.
  .. In System Manager, view the status of the mirroring operation. When mirroring is complete, the status of the mirrored pair is "Optimal." The two arrays attempt to stay synchronized through normal operations. Only new and changed blocks are transferred from the primary volume to the secondary volume.
-. Optionally, you can change synchronization settings in System Manager.
+. *Optional:* You can change synchronization settings in System Manager.
 +
 [NOTE]
 ====
