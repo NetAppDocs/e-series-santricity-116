@@ -2,7 +2,7 @@
 permalink: sm-storage/create-volumes-storage-step-2.html
 sidebar: sidebar
 keywords: select, workload, customize, storage, array, configuration, specific, application, microsoft, server, exchange, video, surveillance, intend, use, storage, list
-summary: "Select a workload to customize the storage array configuration for a specific application, such as Microsoft SQL Server, Microsoft Exchange, Video Surveillance applications, or VMware. You can select "Other application" if the application you intend to use on this storage array is not listed."
+summary: "Select a workload to customize the storage array configuration for a specific application, such as Microsoft SQL Server, Microsoft Exchange, Video Surveillance applications, or VMware. You can select Other application if the application you intend to use on this storage array is not listed."
 ---
 = Step 2: Select a workload for a volume
 :icons: font
