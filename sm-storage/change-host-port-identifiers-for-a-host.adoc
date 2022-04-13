@@ -20,7 +20,7 @@ When changing host port identifiers, keep the following guidelines in mind:
 * *Edit* -- You can edit the host ports to move (associate) a host port to a different host. You might have moved the host bus adapter or iSCSI initiator to a different host, so you must move (associate) the host port to the new host.
 * *Delete* -- You can delete host ports to remove (unassociate) host ports from a host.
 
-== Steps
+.Steps
 
 . Select menu:Storage[Hosts].
 . Select the host to which the ports will be associated, and then click *View/Edit Settings*.

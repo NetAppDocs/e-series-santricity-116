@@ -21,7 +21,7 @@ This task describes how to change configuration settings for a pool.
 You cannot change the RAID level of a pool. System Manager automatically configures pools as RAID 6.
 ====
 
-== Steps
+.Steps
 
 . Select menu:Storage[Pools & Volume Groups].
 . Select the pool that you want to edit, and then click *View/Edit Settings*.

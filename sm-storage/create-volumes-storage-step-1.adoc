@@ -32,7 +32,7 @@ Keep these guidelines in mind when you assign volumes:
 Assigning a volume to a host will fail if you try to assign a volume to a host cluster that conflicts with an established assignment for a host in the host clusters.
 ====
 
-== Steps
+.Steps
 
 . Select menu:Storage[Volumes].
 . Select menu:Create[Volume].

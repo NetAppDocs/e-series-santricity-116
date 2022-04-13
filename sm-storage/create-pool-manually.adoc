@@ -19,7 +19,7 @@ You can create a pool manually (from a set of candidates) if the Pool Auto Confi
 * Drawer loss protection requires that the drives comprising the pool are located in at least five different drawers and the pool includes an equal number of drive shelves from each drawer.
 * When configuring an EF600 storage array, make sure each controller has access to an equal number of drives in the first 12 slots and an equal number of drives in the last 12 slots. This configuration helps the controllers use both drive-side PCIe buses more effectively. Currently System Manager allows for drive selection under the Advanced feature when creating a volume group. For pool creation, it is recommended to use all drives in the storage array.
 
-== Steps
+.Steps
 
 . Select menu:Storage[Pools & Volume Groups].
 . Click menu:Create[Pool].

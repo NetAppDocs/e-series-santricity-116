@@ -12,7 +12,7 @@ summary: "If an error occurs during a snapshot image rollback operation, the ope
 [.lead]
 If an error occurs during a snapshot image rollback operation, the operation is automatically paused. You can resume a rollback operation that is in a paused state.
 
-== Steps
+.Steps
 
 . Select menu:Storage[Snapshots].
 . Click the *Snapshot Images* tab.
@@ -20,7 +20,7 @@ If an error occurs during a snapshot image rollback operation, the operation is 
 +
 The operation resumes.
 
-== Results
+.Results
 
 System Manager performs the following actions:
 
