@@ -38,5 +38,5 @@ The Change Cache Settings dialog box opens.
 
 . Adjust the following values:
  ** *Start demand cache flushing* -- Choose a percentage that is appropriate for the I/O used in your environment. If you choose a value lower than 80%, you may notice decreased performance.
- ** **Cache block size --**Choose a size that is appropriate for your applications.
+ ** *Cache block size* -- Choose a size that is appropriate for your applications.
 . Click *Save*.

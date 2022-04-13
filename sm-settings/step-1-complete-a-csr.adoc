@@ -22,7 +22,7 @@ The CSR provides information about your organization, the IP address or DNS name
 
 [CAUTION]
 ====
-*Do not generate a new CSR after submission to the CA. When you generate a CSR, the system creates a private and public key pair. The public key is part of the CSR, while the private key is kept in the keystore. When you receive the signed certificates and import them into the keystore, the system ensures that both the private and public keys are the original pair. Therefore, you must not generate a new CSR after submitting one to the CA. If you do, the controllers generate new keys, and the certificates you receive from the CA will not work.*
+Do not generate a new CSR after submission to the CA. When you generate a CSR, the system creates a private and public key pair. The public key is part of the CSR, while the private key is kept in the keystore. When you receive the signed certificates and import them into the keystore, the system ensures that both the private and public keys are the original pair. Therefore, you must not generate a new CSR after submitting one to the CA. If you do, the controllers generate new keys, and the certificates you receive from the CA will not work.
 ====
 
 .Steps
@@ -45,7 +45,7 @@ If you see a dialog box prompting you to accept a self-signed certificate for th
 +
 [CAUTION]
 ====
-*Some fields might be pre-populated with the appropriate information, such as the IP address of the controller. Do not change prepopulated values unless you are certain they are incorrect. For example, if you have not yet completed a CSR, the controller IP address is set to "`localhost.`" In this case, you must change "`localhost`" to the DNS name or IP address of the controller.*
+Some fields might be pre-populated with the appropriate information, such as the IP address of the controller. Do not change prepopulated values unless you are certain they are incorrect. For example, if you have not yet completed a CSR, the controller IP address is set to "`localhost.`" In this case, you must change "`localhost`" to the DNS name or IP address of the controller.
 ====
 . Verify or enter the following information about controller A in your storage array:
  ** *Controller A common name* -- The IP address or DNS name of controller A is displayed by default. Make sure this address is correct; it must match exactly what you enter to access System Manager in the browser.

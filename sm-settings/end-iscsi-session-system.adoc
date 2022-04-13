@@ -5,6 +5,7 @@ keywords: iscsi, session, hosts, storage array, no longer needed, asynchronous, 
 summary: "You can end an iSCSI session that is no longer needed. iSCSI sessions can occur with hosts or remote storage arrays in an asynchronous mirror relationship."
 ---
 = End iSCSI session
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -20,7 +21,7 @@ You might want to end an iSCSI session for these reasons:
 
 .Steps
 
-. Select *Settings* > *System*.
+. Select *menu:Settings[System]*.
 . Select *View/End iSCSI Sessions*.
 +
 A list of the current iSCSI sessions appears.

@@ -55,7 +55,7 @@ The *Create External Security Key* dialog box opens.
 +
 [CAUTION]
 ====
-*Be sure to record your entries for later use. If you need to move a secure-enabled drive from the storage array, you must know the pass phrase to unlock drive data.*
+Be sure to record your entries for later use. If you need to move a secure-enabled drive from the storage array, you must know the pass phrase to unlock drive data.
 ====
 . Click *Finish*.
 +

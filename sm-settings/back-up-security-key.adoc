@@ -38,7 +38,7 @@ The value can have between 8 and 32 characters, and must include each of the fol
 +
 [CAUTION]
 ====
-*Be sure to record your entry for later use. You need the pass phrase to access the backup of this security key.*
+Be sure to record your entry for later use. You need the pass phrase to access the backup of this security key.
 ====
 
 . Click *Back Up*.

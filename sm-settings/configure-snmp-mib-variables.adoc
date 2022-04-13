@@ -22,7 +22,7 @@ If you do not have a MIB file, you can obtain it as follows:
 * Click *Downloads*.
 * Click *Software*.
 * Find your management software (for example, SANtricity System Manager), and then click *Go!* on the right.
-* Click**View & Download** on the latest version.
+* Click *View & Download* on the latest version.
 * Click *Continue* at the bottom of the page.
 * Accept the EULA.
 * Scroll down until you see *MIB file for SNMP traps*, and then click the link to download the file.

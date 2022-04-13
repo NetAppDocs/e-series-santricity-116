@@ -36,7 +36,7 @@ Administrators should also make sure that the IdP supports the ability to return
 +
 [CAUTION]
 ====
-*Once SAML is enabled, you _cannot_ disable it through the user interface, nor can you edit the IdP settings. If you need to disable or edit the SAML configuration, contact Technical Support for assistance.*
+Once SAML is enabled, you _cannot_ disable it through the user interface, nor can you edit the IdP settings. If you need to disable or edit the SAML configuration, contact Technical Support for assistance.
 ====
 
 . From System Manager, the administrator enables SAML for the storage array.

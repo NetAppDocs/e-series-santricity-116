@@ -19,7 +19,7 @@ You can delete the user-installed certificates previously imported from the Trus
 
 [CAUTION]
 ====
-*You might lose access to a system if you delete a certificate used to authenticate the controllers and another server, such as an LDAP server, before you import a replacement certificate.*
+You might lose access to a system if you delete a certificate used to authenticate the controllers and another server, such as an LDAP server, before you import a replacement certificate.
 ====
 
 .About this task

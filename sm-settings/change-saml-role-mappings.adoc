@@ -30,7 +30,7 @@ The *Role Mapping* dialog box opens.
 +
 [CAUTION]
 ====
-*Be careful that you do not remove your permissions while SAML is enabled, or you will lose access to System Manager.*
+Be careful that you do not remove your permissions while SAML is enabled, or you will lose access to System Manager.
 ====
 +
 .Field Details

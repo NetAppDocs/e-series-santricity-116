@@ -43,7 +43,7 @@ Additional characters are generated automatically and are appended to both ends 
 +
 [CAUTION]
 ====
-*Be sure to record your entries for later use -- If you need to move a secure-enabled drive from the storage array, you must know the identifier and pass phrase to unlock drive data.*
+Be sure to record your entries for later use -- If you need to move a secure-enabled drive from the storage array, you must know the identifier and pass phrase to unlock drive data.
 ====
 . Click *Change*.
 +
