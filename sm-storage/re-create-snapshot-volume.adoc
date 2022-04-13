@@ -35,7 +35,7 @@ The Snapshot Volumes table appears and displays all the snapshot volumes associa
 
 . Select the snapshot volume that you want to re-create, and then select menu:Uncommon Tasks[Recreate].
 +
-The Recreate Snapshot Volume dialog box appears.
+The *Recreate Snapshot Volume* dialog box appears.
 
 . Select one of the following options:
  ** *An existing snapshot image created from volume <name>*

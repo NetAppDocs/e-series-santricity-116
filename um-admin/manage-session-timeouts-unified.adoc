@@ -20,7 +20,7 @@ By default, the session timeout for Unified Manager is 30 minutes. You can adjus
 . From the menu bar, select the drop-down arrow next to your user login name.
 . Select *Enable/Disable session timeout*.
 +
-The Enable/Disable Session Timeout dialog box opens.
+The *Enable/Disable Session Timeout* dialog box opens.
 
 . Use the spinner controls to increase or decrease the time in minutes.
 +

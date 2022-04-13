@@ -44,12 +44,12 @@ You must select the member volumes to be rolled back.
 . Select the *Snapshot Images* tab.
 . Select the snapshot consistency group snapshot image, and then select menu:Rollback[Start].
 +
-The Start Rollback dialog box appears.
+The *Start Rollback* dialog box appears.
 
 . Select the member volume or volumes.
 . Click *Next*, and do one of the following:
- ** If any of the selected member volumes are associated with more than one reserved capacity object that stores snapshot images, the Review Capacity dialog box appears. Go to <<TASK_3CC5A20F26E44B9DBDDBCF422EDBBB4C,Step 2: Review capacity>>.
- ** If none of the selected member volumes are associated with more than one reserved capacity object that stores snapshot images, the Edit Priority dialog box appears. Go to <<TASK_2C49B5B3933341D1BA737F00EBBC1698,Step 3: Edit priority>>.
+ ** If any of the selected member volumes are associated with more than one reserved capacity object that stores snapshot images, the *Review Capacity* dialog box appears. Go to <<TASK_3CC5A20F26E44B9DBDDBCF422EDBBB4C,Step 2: Review capacity>>.
+ ** If none of the selected member volumes are associated with more than one reserved capacity object that stores snapshot images, the *Edit Priority* dialog box appears. Go to <<TASK_2C49B5B3933341D1BA737F00EBBC1698,Step 3: Edit priority>>.
 
 == Step 2: Review capacity
 
@@ -60,7 +60,7 @@ If you selected member volumes associated to more than one reserved capacity obj
 
 . Next to any member volumes with very low (or zero) reserved capacity, click the *Increase capacity* link in the *Edit* column.
 +
-The Increase Reserved Capacity dialog box appears.
+The *Increase Reserved Capacity* dialog box appears.
 
 . Use the spinner box to adjust the capacity percentage, and then click *Increase*.
 +
@@ -68,7 +68,7 @@ If free capacity does not exist on the pool or volume group that contains the st
 
 . Click *Next*, and go to <<TASK_2C49B5B3933341D1BA737F00EBBC1698,Step 3: Edit priority>>.
 +
-The Edit Priority dialog box appears.
+The *Edit Priority* dialog box appears.
 
 == Step 3: Edit priority
 

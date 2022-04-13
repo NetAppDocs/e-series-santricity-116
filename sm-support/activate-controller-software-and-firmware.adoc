@@ -44,5 +44,5 @@ The file is saved in the Downloads folder for your browser with the name``drive_
 .After you finish
 
 * Verify that all components appear on the Hardware page.
-* Verify the new software and firmware versions by checking the Software and Firmware Inventory dialog box (go to menu:Support[Upgrade Center], and then click the link for *Software and Firmware Inventory*).
+* Verify the new software and firmware versions by checking the *Software and Firmware Inventory* dialog box (go to menu:Support[Upgrade Center], and then click the link for *Software and Firmware Inventory*).
 * If you upgraded controller NVSRAM, any custom settings that you have applied to the existing NVSRAM are lost during the process of activation. You need to apply the custom settings to the NVSRAM again after the process of activation is complete.

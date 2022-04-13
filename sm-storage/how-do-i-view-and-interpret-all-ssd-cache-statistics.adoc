@@ -61,7 +61,7 @@ Cache Utilization percentage normally is lower than 100 percent, perhaps much lo
 
 == Detailed statistics
 
-The detailed statistics consist of the nominal statistics, plus additional statistics. These additional statistics are saved along with the nominal statistics, but unlike the nominal statistics, they do not display in the View SSD Cache Statistics dialog. You can view the detailed statistics only after exporting the statistics to a `.csv` file.
+The detailed statistics consist of the nominal statistics, plus additional statistics. These additional statistics are saved along with the nominal statistics, but unlike the nominal statistics, they do not display in the *View SSD Cache Statistics* dialog. You can view the detailed statistics only after exporting the statistics to a `.csv` file.
 
 When viewing the `.csv` file, notice that the detailed statistics are listed after the nominal statistics:
 [cols="2*",options="header"]

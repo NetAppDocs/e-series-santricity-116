@@ -37,7 +37,7 @@ Select the object (volume or snapshot consistency group) for this snapshot sched
 Select the *Schedules* tab, and then click *Create*.
 . Select the object (volume or snapshot consistency group) for this snapshot schedule, and then click *Next*.
 +
-The Create Snapshot Schedule dialog box appears.
+The *Create Snapshot Schedule* dialog box appears.
 
 . Do one of the following actions:
  ** *Use a previously defined schedule from another snapshot object*.

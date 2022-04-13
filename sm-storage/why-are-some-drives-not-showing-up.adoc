@@ -9,7 +9,7 @@ summary: "In the Add Capacity dialog, not all drives are available for adding ca
 :imagesdir: ../media/
 
 [.lead]
-In the Add Capacity dialog, not all drives are available for adding capacity to an existing pool or volume group.
+In the *Add Capacity* dialog, not all drives are available for adding capacity to an existing pool or volume group.
 
 Drives are not eligible for any of the following reasons:
 
