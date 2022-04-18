@@ -1,10 +1,11 @@
 ---
 permalink: sm-settings/what-else-do-i-need-to-do-to-configure-or-diagnose-nvme-over-roce.html
 sidebar: sidebar
-keywords: 
-summary: 'You can configure and manage NVMe over RoCE from the Hardware and Settings pages.'
+keywords: configure, manage, nvme, roce, hardware, settings page
+summary: "You can configure and manage NVMe over RoCE from the Hardware and Settings pages."
 ---
 = What else do I need to do to configure or diagnose NVMe over RoCE?
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -18,6 +19,7 @@ The NVMe over RoCE settings are available only if your storage array's controlle
 
 == Configure and diagnose NVMe over RoCE
 
+[cols="1a,3a",options="header"]
 |===
 | Action| Location
 a|
@@ -31,14 +33,14 @@ a|
 
 or
 
-. Select *Settings* > *System*.
+. Select *menu:Settings[System]*.
 . Scroll down to *NVMe over RoCE settings*, and then select *Configure NVMe over RoCE Ports*.
 
 a|
 View NVMe over Fabrics statistics
 a|
 
-. Select *Settings* > *System*.
+. Select *menu:Settings[System]*.
 . Scroll down to *NVMe over RoCE settings*, and then select *View NVMe over Fabrics Statistics*.
 
 |===

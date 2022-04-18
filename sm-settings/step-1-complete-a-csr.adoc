@@ -1,21 +1,22 @@
 ---
 permalink: sm-settings/step-1-complete-a-csr.html
 sidebar: sidebar
-keywords: 
-summary: 'You must first generate a certificate signing request \(CSR\) file for each controller in the storage array, and then submit the file\(s\) to a certificate authority \(CA\).'
+keywords: first, generate, csr, controller, storage array, ca
+summary: "You must first generate a certificate signing request (CSR) file for each controller in the storage array, and then submit the file(s) to a certificate authority (CA)."
 ---
 = Step 1: Complete and submit a CSR for the controllers
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 You must first generate a certificate signing request (CSR) file for each controller in the storage array, and then submit the file(s) to a certificate authority (CA).
 
-== Before you begin
+.Before you begin
 
 * You must know the IP address or DNS name of each controller.
 
-== About this task
+.About this task
 
 The CSR provides information about your organization, the IP address or DNS name of the controller, and a key pair that identifies the web server in the controller. During this task, one CSR file is generated if there is only one controller in the storage array and two CSR files if there are two controllers.
 
@@ -24,9 +25,9 @@ The CSR provides information about your organization, the IP address or DNS name
 Do not generate a new CSR after submission to the CA. When you generate a CSR, the system creates a private and public key pair. The public key is part of the CSR, while the private key is kept in the keystore. When you receive the signed certificates and import them into the keystore, the system ensures that both the private and public keys are the original pair. Therefore, you must not generate a new CSR after submitting one to the CA. If you do, the controllers generate new keys, and the certificates you receive from the CA will not work.
 ====
 
-== Steps
+.Steps
 
-. Select *Settings* > *Certificates*.
+. Select *menu:Settings[Certificates]*.
 . From the *Array Management* tab, select *Complete CSR*.
 +
 [NOTE]
@@ -64,6 +65,6 @@ For a single controller, one CSR file is downloaded to your local system. For du
 . Locate the downloaded CSR file(s). The folder location depends on your browser.
 . Submit the CSR file(s) to a CA and request signed certificates in PEM format.
 
-== After you finish
+.After you finish
 
-Wait for the CA to return the certificates, and then go to link:step-3-import-signed-certificates-for-the-controllers.md#[Step 2: Import signed certificates for controllers].
+Wait for the CA to return the certificates, and then go to link:step-3-import-signed-certificates-for-the-controllers.html[Step 2: Import signed certificates for controllers].

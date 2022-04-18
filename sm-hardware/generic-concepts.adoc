@@ -1,8 +1,8 @@
 ---
 permalink: sm-hardware/generic-concepts.html
 sidebar: sidebar
-keywords:
-summary: ''
+keywords: concepts
+summary: "Concepts"
 ---
 = Concepts
 :icons: font

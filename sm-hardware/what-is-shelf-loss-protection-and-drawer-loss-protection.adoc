@@ -1,8 +1,8 @@
 ---
 permalink: sm-hardware/what-is-shelf-loss-protection-and-drawer-loss-protection.html
 sidebar: sidebar
-keywords: 
-summary: 'Shelf loss protection and drawer loss protection are attributes of pools and volume groups that allow you to maintain data access in the event of a single shelf or drawer failure.'
+keywords: shelf loss, protection, attributes, pools, volume groups, maintain, data access, drawer failure
+summary: "Shelf loss protection and drawer loss protection are attributes of pools and volume groups that allow you to maintain data access in the event of a single shelf or drawer failure."
 ---
 = What is shelf loss protection and drawer loss protection?
 :icons: font
@@ -22,6 +22,7 @@ Shelf loss protection is not guaranteed if a drive has already failed in the poo
 
 The criteria for shelf loss protection depends on the protection method, as described in the following table:
 
+[cols="1a,3a,2a",options="header"]
 |===
 | Level| Criteria for Shelf Loss Protection| Minimum number of shelves required
 a|
@@ -67,6 +68,7 @@ Drawer loss protection is not guaranteed if a drive has already failed in the po
 
 The criteria for drawer loss protection depends on the protection method, as described in the following table:
 
+[cols="1a,3a,2a",options="header"]
 |===
 | Level| Criteria for drawer loss protection| Minimum number of drawers required
 a|

@@ -1,23 +1,24 @@
 ---
 permalink: sm-settings/edit-community-names-for-snmp-traps.html
 sidebar: sidebar
-keywords: 
-summary: 'You can edit community names for SNMP traps, and also associate a different community name to an SNMP trap destination.'
+keywords: edit, community, names, snmp traps, destination
+summary: "You can edit community names for SNMP traps, and also associate a different community name to an SNMP trap destination."
 ---
 = Edit community names for SNMP traps
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 You can edit community names for SNMP traps, and also associate a different community name to an SNMP trap destination.
 
-== Before you begin
+.Before you begin
 
 A community name must be created, consisting of only printable ASCII characters. The community name, which is a string that acts like a password for the network servers, is created by a network administrator.
 
-== Steps
+.Steps
 
-. Select *Settings* > *Alerts*.
+. Select *menu:Settings[Alerts]*.
 . Select the *SNMP* tab.
 +
 The trap destinations and community names appear in the table.
@@ -31,6 +32,6 @@ The trap destinations and community names appear in the table.
 If you want to cancel changes, select the *Cancel* (X) icon.
 ====
 
-== Results
+.Results
 
-The SNMP tab of the Alerts page displays the updated communities.
+The *SNMP* tab of the *Alerts* page displays the updated communities.
