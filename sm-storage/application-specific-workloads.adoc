@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/application-specific-workloads.html
 sidebar: sidebar
-keywords: 
-summary: 'A workload is a storage object that supports an application. You can define one or more workloads, or instances, per application. For some applications, System Manager configures the workload to contain volumes with similar underlying volume characteristics. These volume characteristics are optimized based on the type of application the workload supports. For example, if you create a workload that supports a Microsoft SQL Server application and then subsequently create volumes for that workload, the underlying volume characteristics are optimized to support Microsoft SQL Server.'
+keywords: workload, storage, object, support, application, define, instance, application, system manager, configure, contain, volume, similar, underlying, characteristics, optimized, type, microsoft server, subsequent
+summary: "A workload is a storage object that supports an application. You can define one or more workloads, or instances, per application. For some applications, System Manager configures the workload to contain volumes with similar underlying volume characteristics. These volume characteristics are optimized based on the type of application the workload supports. For example, if you create a workload that supports a Microsoft SQL Server application and then subsequently create volumes for that workload, the underlying volume characteristics are optimized to support Microsoft SQL Server."
 ---
 = Application-specific workloads
 :icons: font
@@ -22,12 +22,14 @@ You can create two types of workloads: application-specific and other.
  ** Microsoft®Exchange Server™
  ** Video Surveillance applications
  ** VMware ESXi ™(for volumes to be used with Virtual Machine File System)
-You can review the recommended volume configuration and edit, add, or delete the system-recommended volumes and characteristics using the Add/Edit Volumes dialog box.
-* *Other* (or applications without specific volume creation support). Other workloads use a volume configuration that you must manually specify when you want to create a workload that is not associated with a specific application, or if System Manager does not have built-in optimization for the application you intend to use on the storage array. You must manually specify the volume configuration using the Add/Edit Volumes dialog box.
+
+You can review the recommended volume configuration and edit, add, or delete the system-recommended volumes and characteristics using the *Add/Edit Volumes* dialog box.
+
+* *Other* (or applications without specific volume creation support). Other workloads use a volume configuration that you must manually specify when you want to create a workload that is not associated with a specific application, or if System Manager does not have built-in optimization for the application you intend to use on the storage array. You must manually specify the volume configuration using the *Add/Edit Volumes* dialog box.
 
 == Application and workload views
 
 You can view information associated with an application-specific workload in a couple of different ways:
 
-* You can select the *Applications & Workloads* tab in the Volumes tile to view the storage array's volumes grouped by workload and the application type the workload is associated with.
-* You can select the *Applications & Workloads* tab in the Performance tile to view performance metrics (latency, IOPS, and MBs) for logical objects. The objects are grouped by application and associated workload. By collecting this performance data at regular intervals, you can establish baseline measurements and analyze trends, which can help as you investigate problems related to I/O performance.
+* You can select the *Applications & Workloads* tab in the *Volumes* tile to view the storage array's volumes grouped by workload and the application type the workload is associated with.
+* You can select the *Applications & Workloads* tab in the *Performance* tile to view performance metrics (latency, IOPS, and MBs) for logical objects. The objects are grouped by application and associated workload. By collecting this performance data at regular intervals, you can establish baseline measurements and analyze trends, which can help as you investigate problems related to I/O performance.

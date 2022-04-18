@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/what-kind-of-volumes-can-be-used-for-snapshots.html
 sidebar: sidebar
-keywords: 
-summary: 'Standard volumes and thin volumes are the only types of volumes that can be used to store snapshot images. Non-standard volumes cannot be used. The base volume can reside on either a pool or volume group.'
+keywords: standard, volumes, think, only, types, use, store, snapshot, images, cannot, base, reside, either, pool, group
+summary: "Standard volumes and thin volumes are the only types of volumes that can be used to store snapshot images. Non-standard volumes cannot be used. The base volume can reside on either a pool or volume group."
 ---
 = What kinds of volumes can be used for snapshots?
 :icons: font

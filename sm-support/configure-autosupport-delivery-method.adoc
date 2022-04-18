@@ -1,22 +1,23 @@
 ---
 permalink: sm-support/configure-autosupport-delivery-method.html
 sidebar: sidebar
-keywords: 
-summary: 'The AutoSupport feature supports the HTTPS, HTTP, and SMTP protocols for delivering dispatches to technical support.'
+keywords: autosupport, feature, supports, protocols, delivering, dispatch, technical, support
+summary: "The AutoSupport feature supports the HTTPS, HTTP, and SMTP protocols for delivering dispatches to technical support."
 ---
 = Configure AutoSupport delivery method
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 The AutoSupport feature supports the HTTPS, HTTP, and SMTP protocols for delivering dispatches to technical support.
 
-== Before you begin
+.Before you begin
 
 * The AutoSupport feature must be enabled. You can see whether it is enabled on the AutoSupport page.
 * A DNS server must be installed and configured in your network. The DNS server address must be configured in System Manager (this task is available from the Hardware page).
 
-== About this task
+.About this task
 
 Review the different protocols:
 
@@ -29,9 +30,9 @@ Review the different protocols:
 *Differences between the HTTPS/HTTP and Email methods*. The Email delivery method, which uses SMTP, has some important differences from the HTTPs and HTTP delivery methods. First, the size of the dispatches for the Email method are limited to 5MB, which means that some ASUP data collections will not be dispatched. Second, the AutoSupport OnDemand feature is available only on HTPP and HTTPS methods.
 ====
 
-== Steps
+.Steps
 
-. Select *Support* > *Support Center* > *AutoSupport* tab.
+. Select menu:Support[Support Center > AutoSupport] tab.
 . Select *Configure AutoSupport Delivery Method*.
 +
 A dialog box appears, which lists the dispatch delivery methods.

@@ -1,8 +1,8 @@
 ---
 permalink: um-admin/unified-manager-overview.html
 sidebar: sidebar
-keywords: 
-summary: 'This overview describes the SANtricity Unified Manager interface.'
+keywords: overview, describe, santricity, unified, manager, interface
+summary: "This overview describes the SANtricity Unified Manager interface."
 ---
 = image:../media/sam1130-icon-overview.gif[] Unified Manager overview
 :icons: font

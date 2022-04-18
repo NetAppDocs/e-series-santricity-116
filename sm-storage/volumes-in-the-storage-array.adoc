@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/volumes-in-the-storage-array.html
 sidebar: sidebar
-keywords: Volume Copy
-summary: 'Volumes are data containers that manage and organize the storage space on your storage array. Volumes are created from the storage capacity available on your storage array and make it easy to organize and use your system’s resources. This concept is similar to using folders/directories on a computer to organize files for easy and quick access.'
+keywords: volume, copy, data, containers, manage, organize, storage, space, array, create, capacity, available, easy, organize, use, system, resources, concept, similar, folders, directories, computer, files, quick, access
+summary: "Volumes are data containers that manage and organize the storage space on your storage array. Volumes are created from the storage capacity available on your storage array and make it easy to organize and use your system’s resources. This concept is similar to using folders/directories on a computer to organize files for easy and quick access."
 ---
 = Volumes in the storage array
 :icons: font

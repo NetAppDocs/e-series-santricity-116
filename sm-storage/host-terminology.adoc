@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/host-terminology.html
 sidebar: sidebar
-keywords: 
-summary: 'Learn how the host terms apply to your storage array.'
+keywords: learn, how, host, terms, apply, storage, array
+summary: "Learn how the host terms apply to your storage array."
 ---
 = Host terminology
 :icons: font
@@ -10,7 +10,7 @@ summary: 'Learn how the host terms apply to your storage array.'
 
 [.lead]
 Learn how the host terms apply to your storage array.
-
+[cols="2*",options="header"]
 |===
 | Component| Definition
 a|

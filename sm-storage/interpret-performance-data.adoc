@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/interpret-performance-data.html
 sidebar: sidebar
-keywords: 
-summary: 'Performance data can guide you in tuning the performance of your storage array.'
+keywords: performance, data, guide, tuning, storage, array
+summary: "Performance data can guide you in tuning the performance of your storage array."
 ---
 = Interpret performance data
 :icons: font
@@ -12,7 +12,7 @@ summary: 'Performance data can guide you in tuning the performance of your stora
 Performance data can guide you in tuning the performance of your storage array.
 
 When interpreting Performance data, keep in mind that several factors affect the performance of your storage array. The following table describes the main areas to consider.
-
+[cols="2*",options="header"]
 |===
 | Performance data| Implications for performance tuning
 a|

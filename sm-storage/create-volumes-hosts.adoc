@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/create-volumes-hosts.html
 sidebar: sidebar
-keywords: 
-summary: 'You create volumes to add storage capacity to an application-specific workload, and to make the created volumes visible to a specific host or host cluster. In addition, the volume creation sequence provides options to allocate specific amounts of capacity to each volume you want to create.'
+keywords: create, volumes, add, storage, capacity, application, specific, workload, make, visible, host, cluster, sequence, provide, option, allocate, amount, each, want
+summary: "You create volumes to add storage capacity to an application-specific workload, and to make the created volumes visible to a specific host or host cluster. In addition, the volume creation sequence provides options to allocate specific amounts of capacity to each volume you want to create."
 ---
 = Create volumes
 :icons: font
@@ -11,7 +11,7 @@ summary: 'You create volumes to add storage capacity to an application-specific 
 [.lead]
 You create volumes to add storage capacity to an application-specific workload, and to make the created volumes visible to a specific host or host cluster. In addition, the volume creation sequence provides options to allocate specific amounts of capacity to each volume you want to create.
 
-== About this task
+.About this task
 
 Most application types default to a user-defined volume configuration. Some application types have a smart configuration applied at volume creation. For example, if you are creating volumes for Microsoft Exchange application, you are asked how many mailboxes you need, what your average mailbox capacity requirements are, and how many copies of the database you want. System Manager uses this information to create an optimal volume configuration for you, which can be edited as needed.
 
