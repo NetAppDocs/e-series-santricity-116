@@ -22,7 +22,7 @@ You can import alert configurations from one storage array to other storage arra
 You can select email, SNMP, or syslog alerts for the import operation. The imported settings include:
 
 * *Email alerts* -- A mail server address and the email addresses of the alert recipients.
-* *Syslog alerts*-- A syslog server address and a UDP port.
+* *Syslog alerts* -- A syslog server address and a UDP port.
 * *SNMP alerts* -- A community name and IP address for the SNMP server.
 
 .Steps

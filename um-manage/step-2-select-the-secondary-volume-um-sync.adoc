@@ -42,4 +42,4 @@ If your remote storage array is password protected, the system prompts for a pas
 If a secondary volume is chosen with a capacity that is larger than the primary volume, the usable capacity is restricted to the size of the primary volume.
 ====
 
-. Click *Next* and go to link:step-3-select-sync-settings-um-sync.md#[Step 3: Select synchronization settings].
+. Click *Next* and go to link:step-3-select-sync-settings-um-sync.html[Step 3: Select synchronization settings].
