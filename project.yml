@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Catalyst Migration
+  name: "SANtricity 116"
   internal:
     pdf_enabled: false
   prod:
