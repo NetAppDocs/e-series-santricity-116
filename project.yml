@@ -1,6 +1,6 @@
 ---
 settings:
-  name: "SANtricity 116"
+  name: "SAN 116"
   internal:
     pdf_enabled: false
   prod:
