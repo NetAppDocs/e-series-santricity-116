@@ -7,9 +7,9 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-  - title: E-Series SANtricity docs
+  - title: SANtricity docs
     url: "/index.html"
-  - title: System manager
+  - title: System Manager
     entries:
     - section: sm-interface
     - section: sm-storage
@@ -17,7 +17,7 @@ sidebar:
     - section: sm-hardware
     - section: sm-settings
     - section: sm-support
-  - title: Unified manager
+  - title: Unified Manager
     entries:
     - section: um-admin
     - section: um-manage
