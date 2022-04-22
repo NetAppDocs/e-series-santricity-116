@@ -1,15 +1,9 @@
 section: sm-interface
 title: Main interface
 entries:
-- title: System Manager overview
-  url: "/sm-interface/system-manager-overview.html"
-  entries:
-  - title: Concepts
-    entries:
-    - title: Home page
-      url: "/sm-interface/home-page.html"
+- title: Home page
+  url: "/sm-interface/home-page.html"
 - title: Setup wizard
-  url: "/sm-interface/setup-wizard.html"
   entries:
   - title: Concepts
     entries:
@@ -34,7 +28,6 @@ entries:
     - title: System Manager has not detected any hosts. What do I do?
       url: "/sm-interface/system-manager-has-not-detected-any-hosts-what-do-i-do.html"
 - title: Storage array administration
-  url: "/sm-interface/storage-array-administration.html"
   entries:
   - title: Concepts
     entries:
