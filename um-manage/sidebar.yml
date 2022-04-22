@@ -5,12 +5,10 @@ entries:
   url: "/um-manage/generic-discover-storage-arrays.html"
   entries:
   - title: Concepts
-    url: "/um-manage/generic-concepts.html"
     entries:
     - title: Considerations for discovering arrays
       url: "/um-manage/considerations-for-discovering-arrays.html"
   - title: How tos
-    url: "/um-manage/generic-how-tos.html"
     entries:
     - title: Discover multiple storage arrays
       url: "/um-manage/discover-multiple-arrays.html"
@@ -26,30 +24,20 @@ entries:
     - title: Discover single array
       url: "/um-manage/discover-single-array.html"
 - title: Launch
-  url: "/um-manage/generic-launch-system-manager.html"
   entries:
-  - title: Concepts
-    url: "/um-manage/generic-concepts.html"
-    entries:
-    - title: Considerations for accessing SANtricity System Manager
-      url: "/um-manage/launch-considerations.html"
-  - title: How tos
-    url: "/um-manage/generic-how-tos.html"
-    entries:
-    - title: Manage an individual storage array
-      url: "/um-manage/launch-system-manager.html"
+  - title: Considerations for accessing SANtricity System Manager
+    url: "/um-manage/launch-considerations.html"
+  - title: Manage an individual storage array
+    url: "/um-manage/launch-system-manager.html"
 - title: Import Settings
-  url: "/um-manage/generic-import-settings.html"
   entries:
   - title: Concepts
-    url: "/um-manage/generic-concepts.html"
     entries:
     - title: How Import Settings works
       url: "/um-manage/how-import-settings-works.html"
     - title: Requirements for replicating storage configurations
       url: "/um-manage/requirements-for-replicating-storage-configurations.html"
   - title: How tos
-    url: "/um-manage/generic-how-tos.html"
     entries:
     - title: Import alert settings
       url: "/um-manage/import-alert-settings.html"
@@ -62,27 +50,22 @@ entries:
     - title: Import storage configuration settings
       url: "/um-manage/import-storage-configuration-settings.html"
   - title: FAQs
-    url: "/um-manage/generic-faqs.html"
     entries:
     - title: What settings will be imported?
       url: "/um-manage/what-settings-will-be-imported.html"
     - title: Why don&#8217;t I see all of my storage arrays?
       url: "/um-manage/why-dont-i-see-all-of-my-storage-arrays.html"
 - title: Manage Groups
-  url: "/um-manage/generic-manage-groups.html"
   entries:
   - title: Concepts
-    url: "/um-manage/generic-concepts.html"
     entries:
     - title: Storage array groups
       url: "/um-manage/storage-array-groups.html"
     - title: Storage array status
       url: "/um-manage/storage-array-status.html"
   - title: How tos
-    url: "/um-manage/generic-how-tos.html"
     entries:
     - title: Manage groups
-      url: "/um-manage/manage-groups.html"
       entries:
       - title: Create storage array group
         url: "/um-manage/create-storage-array-group.html"
@@ -97,17 +80,14 @@ entries:
     - title: Remove storage arrays from SANtricity Unified Manager
       url: "/um-manage/remove-storage-array.html"
 - title: Upgrade Center
-  url: "/um-manage/generic-upgrade-center.html"
   entries:
   - title: Concepts
-    url: "/um-manage/generic-concepts.html"
     entries:
     - title: How upgrades work
       url: "/um-manage/how-upgrades-work.html"
     - title: Upgrade considerations
       url: "/um-manage/upgrade-considerations.html"
   - title: How tos
-    url: "/um-manage/generic-how-tos.html"
     entries:
     - title: Perform pre-upgrade health check
       url: "/um-manage/perform-pre-upgrade-health-check.html"
@@ -120,10 +100,8 @@ entries:
     - title: Clear staged OS software
       url: "/um-manage/clear-staged-os-software.html"
 - title: Mirroring
-  url: "/um-manage/generic-mirroring.html"
   entries:
   - title: Concepts
-    url: "/um-manage/generic-concepts.html"
     entries:
     - title: Mirroring overview
       url: "/um-manage/mirroring-overview.html"
@@ -134,7 +112,6 @@ entries:
     - title: Requirements for using mirroring
       url: "/um-manage/requirements-for-using-mirroring.html"
   - title: How tos
-    url: "/um-manage/generic-how-tos.html"
     entries:
     - title: Create asynchronous mirrored pair
       url: "/um-manage/create-asynchronous-mirrored-pair-um.html"
@@ -155,7 +132,6 @@ entries:
       - title: 'Step 3: Select synchronization settings'
         url: "/um-manage/step-3-select-sync-settings-um-sync.html"
   - title: FAQs
-    url: "/um-manage/generic-faqs.html"
     entries:
     - title: What do I need to know before creating a mirror consistency group?
       url: "/um-manage/what-do-i-need-to-know-before-creating-a-mirror-consistency-group-um.html"

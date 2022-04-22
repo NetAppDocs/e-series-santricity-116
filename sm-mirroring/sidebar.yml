@@ -118,7 +118,7 @@ entries:
       url: "/sm-mirroring/deactivate-synchronous-mirroring.html"
   - title: FAQs
     entries:
-    - title: How does asynchronous mirroring differ from synchronous mirroring?
+    - title: How does synchronous mirroring differ from asynchronous mirroring?
       url: "/sm-mirroring/how-does-asynchronous-mirroring-differ-from-synchronous-mirroring-sync.html"
     - title: Synchronous mirroring - Why don&#8217;t I see all my volumes?
       url: "/sm-mirroring/synchronous-mirroring-why-dont-i-see-all-my-volumes.html"

@@ -2,17 +2,14 @@ section: um-certificates
 title: Certificates
 entries:
 - title: Certificate Management
-  url: "/um-certificates/generic-certificate-management.html"
   entries:
   - title: Concepts
-    url: "/um-certificates/generic-concepts.html"
     entries:
     - title: How certificates work
       url: "/um-certificates/how-certificates-work-unified.html"
     - title: Certificate terminology
       url: "/um-certificates/certificate-terminology-unified.html"
   - title: How tos
-    url: "/um-certificates/generic-how-tos.html"
     entries:
     - title: Use CA-signed certificates
       url: "/um-certificates/use-ca-signed-certificate-um.html"
@@ -34,10 +31,8 @@ entries:
     - title: Resolve untrusted certificates
       url: "/um-certificates/resolve-untrusted-certificates-certificate-page.html"
 - title: Access Management
-  url: "/um-certificates/generic-access-management.html"
   entries:
   - title: Concepts
-    url: "/um-certificates/generic-concepts.html"
     entries:
     - title: How Access Management works
       url: "/um-certificates/how-access-management-works-unified.html"
@@ -50,7 +45,6 @@ entries:
     - title: Access Management with directory services
       url: "/um-certificates/access-management-with-directory-services-unified.html"
   - title: How tos
-    url: "/um-certificates/generic-how-tos.html"
     entries:
     - title: View local user roles
       url: "/um-certificates/view-local-user-roles-unified.html"
@@ -65,7 +59,6 @@ entries:
     - title: Remove directory server
       url: "/um-certificates/remove-directory-server-unified.html"
   - title: FAQs
-    url: "/um-certificates/generic-faqs.html"
     entries:
     - title: Why can&#8217;t I log in?
       url: "/um-certificates/why-cant-i-log-in-unified.html"
