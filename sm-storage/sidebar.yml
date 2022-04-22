@@ -168,15 +168,6 @@ entries:
         url: "/sm-storage/create-workloads.html"
       - title: Create volumes
         url: "/sm-storage/create-volumes-storage.html"
-        entries:
-        - title: 'Step 1: Select host for a volume'
-          url: "/sm-storage/create-volumes-storage-step-1.html"
-        - title: 'Step 2: Select a workload for a volume'
-          url: "/sm-storage/create-volumes-storage-step-2.html"
-        - title: 'Step 3: Add or edit volumes'
-          url: "/sm-storage/create-volumes-storage-step-3.html"
-        - title: 'Step 4: Review volume configuration'
-          url: "/sm-storage/create-volumes-storage-step-4.html"
     - title: Manage volumes
       entries:
       - title: Increase capacity of a volume
@@ -264,15 +255,6 @@ entries:
         url: "/sm-storage/create-host-cluster.html"
       - title: Create volumes
         url: "/sm-storage/create-volumes-hosts.html"
-        entries:
-        - title: 'Step 1: Select host for a volume'
-          url: "/sm-storage/create-volumes-hosts-step-1.html"
-        - title: 'Step 2: Select a workload for a volume'
-          url: "/sm-storage/create-volumes-hosts-step-2.html"
-        - title: 'Step 3: Add or edit volumes'
-          url: "/sm-storage/create-volumes-hosts-step-3.html"
-        - title: 'Step 4: Review volume configuration'
-          url: "/sm-storage/create-volumes-hosts-step-4.html"
       - title: Assign volumes
         url: "/sm-storage/assign-volumes.html"
     - title: Manage hosts and host clusters
@@ -366,24 +348,8 @@ entries:
         url: "/sm-storage/schedule-snapshot-images.html"
       - title: Create snapshot consistency group
         url: "/sm-storage/create-snapshot-consistency-group.html"
-        entries:
-        - title: 'Step 1: Add members to snapshot consistency group'
-          url: "/sm-storage/create-snapshot-consistency-group-step-1.html"
-        - title: 'Step 2: Reserve capacity for snapshot consistency group'
-          url: "/sm-storage/create-snapshot-consistency-group-step-2.html"
-        - title: 'Step 3: Edit settings for snapshot consistency group'
-          url: "/sm-storage/create-snapshot-consistency-group-step-3.html"
       - title: Create snapshot volume
         url: "/sm-storage/create-snapshot-volume.html"
-        entries:
-        - title: 'Step 1: Review members for a snapshot volume'
-          url: "/sm-storage/create-snapshot-volume-step-1.html"
-        - title: 'Step 2: Assign snapshot volume to host'
-          url: "/sm-storage/create-snapshot-volume-step-2.html"
-        - title: 'Step 3: Reserve capacity for a snapshot volume'
-          url: "/sm-storage/create-snapshot-volume-step-3.html"
-        - title: 'Step 4: Edit settings for a snapshot volume'
-          url: "/sm-storage/create-snapshot-volume-step-4.html"
     - title: Manage snapshot schedules
       entries:
       - title: Change the settings for a snapshot schedule

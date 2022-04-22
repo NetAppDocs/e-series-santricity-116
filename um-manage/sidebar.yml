@@ -2,7 +2,6 @@ section: um-manage
 title: Manage
 entries:
 - title: Discover storage arrays
-  url: "/um-manage/generic-discover-storage-arrays.html"
   entries:
   - title: Concepts
     entries:
@@ -12,15 +11,6 @@ entries:
     entries:
     - title: Discover multiple storage arrays
       url: "/um-manage/discover-multiple-arrays.html"
-      entries:
-      - title: Enter network address
-        url: "/um-manage/enter-network-address.html"
-      - title: Resolve self-signed certificates during discovery
-        url: "/um-manage/resolve-self-signed-certificates-during-discovery.html"
-      - title: Resolve untrusted certificates during discovery
-        url: "/um-manage/resolve-untrusted-certificates-during-discovery.html"
-      - title: Provide passwords
-        url: "/um-manage/provide-passwords.html"
     - title: Discover single array
       url: "/um-manage/discover-single-array.html"
 - title: Launch
@@ -115,22 +105,8 @@ entries:
     entries:
     - title: Create asynchronous mirrored pair
       url: "/um-manage/create-asynchronous-mirrored-pair-um.html"
-      entries:
-      - title: 'Step 1: Create or select a mirror consistency group'
-        url: "/um-manage/step-1-create-or-select-a-mirror-consistency-group-um-async.html"
-      - title: 'Step 2: Select the primary volume'
-        url: "/um-manage/step-2-select-the-primary-volume-um-async.html"
-      - title: 'Step 3: Select the secondary volume'
-        url: "/um-manage/step-3-select-the-secondary-volume-um-async.html"
     - title: Create synchronous mirrored pair
       url: "/um-manage/create-synchronous-mirrored-pair-um.html"
-      entries:
-      - title: 'Step 1: Select the primary volume'
-        url: "/um-manage/step-1-select-the-primary-volume-um-sync.html"
-      - title: 'Step 2: Select the secondary volume'
-        url: "/um-manage/step-2-select-the-secondary-volume-um-sync.html"
-      - title: 'Step 3: Select synchronization settings'
-        url: "/um-manage/step-3-select-sync-settings-um-sync.html"
   - title: FAQs
     entries:
     - title: What do I need to know before creating a mirror consistency group?

@@ -5,6 +5,7 @@ keywords: ca signed certificate, secure communication, controller, browser, syst
 summary: "You can obtain CA-signed certificates for secure communications between the controllers and the browser used for accessing System Manager."
 ---
 = Use CA-signed certificates for controllers
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -18,3 +19,94 @@ You can obtain CA-signed certificates for secure communications between the cont
 .About this task
 
 Using CA-signed certificates is a three-step procedure.
+
+== Step 1: Complete and submit a CSR for the controllers
+
+You must first generate a certificate signing request (CSR) file for each controller in the storage array, and then submit the file(s) to a certificate authority (CA).
+
+.Before you begin
+
+* You must know the IP address or DNS name of each controller.
+
+.About this task
+
+The CSR provides information about your organization, the IP address or DNS name of the controller, and a key pair that identifies the web server in the controller. During this task, one CSR file is generated if there is only one controller in the storage array and two CSR files if there are two controllers.
+
+[CAUTION]
+====
+Do not generate a new CSR after submission to the CA. When you generate a CSR, the system creates a private and public key pair. The public key is part of the CSR, while the private key is kept in the keystore. When you receive the signed certificates and import them into the keystore, the system ensures that both the private and public keys are the original pair. Therefore, you must not generate a new CSR after submitting one to the CA. If you do, the controllers generate new keys, and the certificates you receive from the CA will not work.
+====
+
+.Steps
+
+. Select *menu:Settings[Certificates]*.
+. From the *Array Management* tab, select *Complete CSR*.
++
+[NOTE]
+====
+If you see a dialog box prompting you to accept a self-signed certificate for the second controller, click *Accept Self-Signed Certificate* to proceed.
+====
+
+. Enter the following information, and then click *Next*:
+ ** *Organization* -- The full, legal name of your company or organization. Include suffixes, such as Inc. or Corp.
+ ** *Organizational unit (optional)* -- The division of your organization that is handling the certificate.
+ ** *City/Locality* -- The city where your storage array or business is located.
+ ** *State/Region (optional)* -- The state or region where your storage array or business is located.
+ ** *Country ISO code* -- Your country's two-digit ISO (International Organization for Standardization) code, such as US.
+
++
+[CAUTION]
+====
+Some fields might be pre-populated with the appropriate information, such as the IP address of the controller. Do not change prepopulated values unless you are certain they are incorrect. For example, if you have not yet completed a CSR, the controller IP address is set to "`localhost.`" In this case, you must change "`localhost`" to the DNS name or IP address of the controller.
+====
+. Verify or enter the following information about controller A in your storage array:
+ ** *Controller A common name* -- The IP address or DNS name of controller A is displayed by default. Make sure this address is correct; it must match exactly what you enter to access System Manager in the browser.
+ ** *Controller A alternate IP addresses* -- If the common name is an IP address, you can optionally enter any additional IP addresses or aliases for controller A. For multiple entries, use a comma-delimited format.
+ ** *Controller A alternate DNS names* -- If the common name is a DNS name, enter any additional DNS names for controller A. For multiple entries, use a comma-delimited format. If there are no alternate DNS names, but you entered a DNS name in the first field, copy that name here.
+If the storage array has only one controller, the *Finish* button is available. If the storage array has two controllers, the *Next* button is available.
+
++
+[NOTE]
+====
+Do not click the *Skip this step* link when you are initially creating a CSR request. This link is provided in error-recovery situations. In rare cases, a CSR request might fail on one controller, but not on the other. This link allows you to skip the step for creating a CSR request on controller A if it is already defined, and continue to the next step for re-creating a CSR request on controller B.
+====
+. If there is only one controller, click *Finish*. If there are two controllers, click *Next* to enter information for controller B (same as above), and then click *Finish*.
++
+For a single controller, one CSR file is downloaded to your local system. For dual controllers, two CSR files are downloaded. The folder location of the download depends on your browser.
+
+. Locate the downloaded CSR file(s). The folder location depends on your browser.
+. Submit the CSR file(s) to a CA and request signed certificates in PEM format.
+. Wait for the CA to return the certificates, and then go to <<Step 2: Import signed certificates for controllers>>.
+
+== Step 2: Import signed certificates for controllers
+
+After you receive signed certificates, you import the files for the controllers.
+
+.Before you begin
+
+* The CA returned signed certificate files.
+* The files are available on your local system.
+* If the CA provided a chained certificate (for example, a .p7b file), you must unpack the chained file into individual files: the root certificate, one or more intermediate certificates, and the server certificates that identify the controllers. You can use the Windows `certmgr` utility to unpack the files (right-click and select *menu:All Tasks[Export]*). When the exports are complete, a CER file is shown for each certificate file in the chain.
+
+.About this task
+
+This task describes how to upload the certificate files.
+
+.Steps
+
+. Select *menu:Settings[Certificates]*.
+. From the *Array Management* tab, select *Import*.
++
+A dialog box opens for importing the certificate file(s).
+
+. Click the *Browse* buttons to first select the root and intermediate files, and then select each server certificate for the controllers. The root and intermediate files are the same for both controllers. Only the server certificates are unique for each controller.
++
+The file names are displayed in the dialog box.
+
+. Click *Import*.
++
+The file(s) are uploaded and validated.
+
+.Results
+
+The session is automatically terminated. You must log in again for the certificate(s) to take effect. When you log in again, the new CA-signed certificate is used for your session.

@@ -13,11 +13,6 @@ entries:
     entries:
     - title: Use CA-signed certificates
       url: "/um-certificates/use-ca-signed-certificate-um.html"
-      entries:
-      - title: 'Step 1: Complete and submit a CSR'
-        url: "/um-certificates/step-1-complete-csr-file-unified.html"
-      - title: 'Step 2: Import management certificates'
-        url: "/um-certificates/step-3-import-management-certificates-unified.html"
     - title: Reset management certificates
       url: "/um-certificates/reset-management-certificates-unified.html"
     - title: Import certificates for arrays
