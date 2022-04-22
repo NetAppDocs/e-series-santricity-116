@@ -2,10 +2,8 @@ section: sm-mirroring
 title: Mirroring
 entries:
 - title: Asynchronous mirroring
-  url: "/sm-mirroring/generic-asynchronous-mirroring.html"
   entries:
   - title: Concepts
-    url: "/sm-mirroring/generic-concepts.html"
     entries:
     - title: How asynchronous mirroring works
       url: "/sm-mirroring/how-asynchronous-mirroring-works.html"
@@ -22,10 +20,8 @@ entries:
     - title: Role change of a mirror consistency group
       url: "/sm-mirroring/role-change-of-a-mirror-consistency-group.html"
   - title: How tos
-    url: "/sm-mirroring/generic-how-tos.html"
     entries:
     - title: Manage mirror consistency groups
-      url: "/sm-mirroring/manage-mirror-consistency-groups.html"
       entries:
       - title: Test communication for mirror consistency groups
         url: "/sm-mirroring/test-communication-for-mirror-consistency-groups.html"
@@ -44,7 +40,6 @@ entries:
       - title: Delete mirror consistency group
         url: "/sm-mirroring/delete-mirror-consistency-group.html"
     - title: Manage asynchronous mirrored pairs
-      url: "/sm-mirroring/manage-asynchronous-mirrored-pairs.html"
       entries:
       - title: Remove asynchronous mirror relationship
         url: "/sm-mirroring/remove-mirrored-pair.html"
@@ -57,7 +52,6 @@ entries:
     - title: Deactivate asynchronous mirroring
       url: "/sm-mirroring/deactivate-asynchronous-mirroring.html"
   - title: FAQs
-    url: "/sm-mirroring/generic-faqs.html"
     entries:
     - title: How does asynchronous mirroring differ from synchronous mirroring?
       url: "/sm-mirroring/how-does-asynchronous-mirroring-differ-from-synchronous-mirroring-async.html"
@@ -89,10 +83,8 @@ entries:
     - title: Why would I update my remote storage array&#8217;s IP address?
       url: "/sm-mirroring/why-would-i-update-my-remote-storage-arrays-ip-address.html"
 - title: Synchronous mirroring
-  url: "/sm-mirroring/synchronous-mirroring.html"
   entries:
   - title: Concepts
-    url: "/sm-mirroring/generic-concepts.html"
     entries:
     - title: How synchronous mirroring works
       url: "/sm-mirroring/how-synchronous-mirroring-works.html"
@@ -109,10 +101,8 @@ entries:
     - title: Role change between volumes in a mirrored pair
       url: "/sm-mirroring/role-change-of-volumes-in-a-mirrored-pair.html"
   - title: How tos
-    url: "/sm-mirroring/generic-how-tos.html"
     entries:
     - title: Manage synchronous mirrored pairs
-      url: "/sm-mirroring/manage-synchronous-mirrored-pairs.html"
       entries:
       - title: Test communication for synchronous mirroring
         url: "/sm-mirroring/test-communication-for-synchronous-mirroring.html"
@@ -127,7 +117,6 @@ entries:
     - title: Deactivate synchronous mirroring
       url: "/sm-mirroring/deactivate-synchronous-mirroring.html"
   - title: FAQs
-    url: "/sm-mirroring/generic-faqs.html"
     entries:
     - title: How does asynchronous mirroring differ from synchronous mirroring?
       url: "/sm-mirroring/how-does-asynchronous-mirroring-differ-from-synchronous-mirroring-sync.html"
