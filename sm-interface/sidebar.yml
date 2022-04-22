@@ -1,11 +1,10 @@
 section: sm-interface
-title: Interface
+title: Main interface
 entries:
-- title: SANtricity System Manager overview
+- title: System Manager overview
   url: "/sm-interface/system-manager-overview.html"
   entries:
   - title: Concepts
-    url: "/sm-interface/generic-concepts.html"
     entries:
     - title: Home page
       url: "/sm-interface/home-page.html"
@@ -13,14 +12,12 @@ entries:
   url: "/sm-interface/setup-wizard.html"
   entries:
   - title: Concepts
-    url: "/sm-interface/generic-concepts.html"
     entries:
     - title: Setup wizard overview
       url: "/sm-interface/setup-wizard-overview.html"
     - title: Setup wizard terminology
       url: "/sm-interface/setup-wizard-terminology.html"
   - title: FAQs
-    url: "/sm-interface/generic-faqs.html"
     entries:
     - title: What if I don&#8217;t see all of my hardware components?
       url: "/sm-interface/what-if-i-dont-see-all-of-my-hardware-components.html"
@@ -40,7 +37,6 @@ entries:
   url: "/sm-interface/storage-array-administration.html"
   entries:
   - title: Concepts
-    url: "/sm-interface/generic-concepts.html"
     entries:
     - title: Storage array overview
       url: "/sm-interface/storage-array-overview.html"
@@ -51,7 +47,6 @@ entries:
     - title: Operations in progress
       url: "/sm-interface/operations-in-progress.html"
   - title: How tos
-    url: "/sm-interface/generic-how-tos.html"
     entries:
     - title: Set default units for capacity values
       url: "/sm-interface/set-default-units-for-capacity-values.html"
@@ -62,7 +57,6 @@ entries:
     - title: View and act on operations in progress
       url: "/sm-interface/view-and-act-on-operations-in-progress.html"
   - title: FAQs
-    url: "/sm-interface/generic-faqs.html"
     entries:
     - title: Where can I find more information about display preferences?
       url: "/sm-interface/where-can-i-find-more-information-about-display-preferences.html"
