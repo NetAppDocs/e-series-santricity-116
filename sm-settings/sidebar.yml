@@ -10,7 +10,6 @@ entries:
     - title: Alerts terminology
       url: "/sm-settings/alerts-terminology.html"
   - title: How tos
-    url: "/sm-settings/generic-how-tos.html"
     entries:
     - title: Manage email alerts
       entries:
