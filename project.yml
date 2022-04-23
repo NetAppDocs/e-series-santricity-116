@@ -11,7 +11,6 @@ sidebar:
     url: "/index.html"
   - title: System Manager
     entries:
-    - section: sm-interface
     - section: sm-storage
     - section: sm-mirroring
     - section: sm-hardware
