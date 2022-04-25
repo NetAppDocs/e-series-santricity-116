@@ -321,7 +321,6 @@ entries:
     - title: Use CA-signed certificates for authentication with a key management
         server
       url: "/sm-settings/use-ca-signed-certificates-for-authentication-with-a-key-management-server.html"
-      entries:
     - title: Export key management server certificates
       url: "/sm-settings/export-key-management-certificates.html"
   - title: FAQs
