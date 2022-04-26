@@ -18,7 +18,7 @@ Most application types default to a user-defined volume configuration. Some appl
 
 [NOTE]
 ====
-If you want to mirror a volume, first create the volumes that you want to mirror, and then use the *Storage* > *Volumes* > *Copy Services* > *Mirror a volume asynchronously* option.
+If you want to mirror a volume, first create the volumes that you want to mirror, and then use the menu:Storage[Volumes > Copy Services > *Mirror a volume asynchronously] option.
 ====
 
 The process to create a volume is a multi-step procedure.
@@ -92,7 +92,6 @@ Select one of the "Other" entries if the application you intend to use on this s
 +
 .Selecting a DA capable pool or volume group
 [%collapsible]
-
 ====
 If you want to create a DA-enabled volume, select a pool or volume group that is DA capable (look for *Yes* next to "DA" in the pool and volume group candidates table).
 
@@ -104,10 +103,11 @@ If any of the host connections on the controllers in your storage array do not s
 
 DA is not supported by iSCSI over TCP/IP, or by the SRP over InfiniBand.
 
-
-* To create a secure-enabled volume, a security key must be created for the storage array.
 ====
 
+* To create a secure-enabled volume, a security key must be created for the storage array.
+
++
 .Selecting a secure-capable pool or volume group
 [%collapsible]
 

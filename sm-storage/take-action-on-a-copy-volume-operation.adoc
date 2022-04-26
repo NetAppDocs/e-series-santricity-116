@@ -46,7 +46,7 @@ Clear
 a|
 You can remove the Copy Volume operation while the operation has a status of In Progress, Pending, or Failed.
 
-[ATTENTION]
+[NOTE]
 ====
 Be sure that you want to do this operation before selecting *Clear*. There is no confirmation dialog.
 ====

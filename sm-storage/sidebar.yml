@@ -384,7 +384,6 @@ entries:
       - title: Delete snapshot consistency group
         url: "/sm-storage/delete-snapshot-consistency-group.html"
     - title: Manage snapshot volumes
-      url: "/sm-storage/manage-snapshot-volumes.html"
       entries:
       - title: Convert snapshot volume to read-write mode
         url: "/sm-storage/convert-a-snapshot-volume-to-read-write-mode.html"

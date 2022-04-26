@@ -71,8 +71,10 @@ a|
 
 . Use the options to view the objects and information you need.
 +
-*Options*
-+
+.Options
+[%collapsible]
+====
+
 [cols="2*",options="header"]
 |===
 | Options for viewing objects| Description
@@ -99,11 +101,14 @@ Hide or show graph
 a|
 Select the graph title to hide or show the graph.
 |===
+====
 
 . As needed, use the additional options for viewing performance data.
 +
-*Additional options*
-+
+.Additional options
+[%collapsible]
+====
+
 [cols="2*",options="header"]
 |===
 | Option| Description
@@ -112,12 +117,7 @@ Time frame
 a|
 Select the length of time you want to view (5 minutes, 1 hour, 8 hours, 1 day, 7 days, or 30 days). The default is 1 hour.
 
-[IMPORTANT]
-====
-
-====
-
-Loading performance data for a 30-day time frame can take several minutes. Do not navigate away from the web page, refresh the web page, or close the browser while data is loading.
+NOTE: Loading performance data for a 30-day time frame can take several minutes. Do not navigate away from the web page, refresh the web page, or close the browser while data is loading.
 a|
 Data point details
 a|

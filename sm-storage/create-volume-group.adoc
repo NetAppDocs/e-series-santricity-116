@@ -111,7 +111,7 @@ a|
 Shows if drawer loss protection is available, which is provided only if you are using a drive shelf that contains drawers.     Drawer loss protection guarantees accessibility to the data on the volumes in a volume group if a total loss of communication occurs with a single drawer in a drive shelf.
 |===
 ====
-
++
 .*Manual method drive characteristics*
 [%collapsible]
 
@@ -131,6 +131,7 @@ a|
 Drive Capacity
 a|
 Indicates the drive capacity.
+
  ** Whenever possible, select drives that have a capacity equal to the capacities of the current drives in the volume group.
  ** If you must add unassigned drives with a smaller capacity, be aware that the usable capacity of each drive currently in the volume group is reduced. Therefore, the drive capacity is the same across the volume group.
  ** If you must add unassigned drives with a larger capacity, be aware that the usable capacity of the unassigned drives that you add is reduced so that they match the current capacities of the drives in the volume group.
