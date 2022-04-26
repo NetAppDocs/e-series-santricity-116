@@ -22,11 +22,9 @@ You might choose to activate later for these reasons:
  ** *Time of day* -- Activating the software can take a long time, so you might want to wait until I/O loads are lighter. The controllers fail over during activation, so performance might be lower than usual until the upgrade completes.
  ** *Type of package* -- You might want to test the new OS software on one storage array before you upgrade the files on other storage arrays.
 
-.About this task
-
-[NOTE]
+[CAUTION]
 ====
-Risk of data loss or risk of damage to the storage array - Do not make changes to the storage array while the upgrade is occurring. Maintain power to the storage array.
+*Risk of data loss or risk of damage to the storage array* -- Do not make changes to the storage array while the upgrade is occurring. Maintain power to the storage array.
 ====
 
 .Steps
