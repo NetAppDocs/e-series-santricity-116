@@ -27,6 +27,7 @@ These priority rates are available:
 * Highest
 
 The lowest priority rate supports system performance, but the resynchronization takes longer. The highest priority rate supports resynchronization, but system performance might be compromised.
+====
 
 These guidelines roughly approximate the differences between the priorities.
 
@@ -51,4 +52,3 @@ a|
 Approximately twice as long as at the highest priority rate.
 |===
 Volume size and host I/O rate loads affect the synchronization time comparisons.
-====

@@ -22,7 +22,7 @@ The *Mirrored Pair Volume Reserved Capacity Settings* dialog box appears.
 
 . Change the reserved capacity settings for the mirrored pair volume as appropriate.
 +
-.Field details
+.Field Details
 [%collapsible]
 
 ====
@@ -44,8 +44,8 @@ Policy for full reserved capacity
 a|
 You can choose one of the following policies:
 
-*Purge oldest snapshot image* – System Manager automatically purges the oldest snapshot image in the consistency group, which releases the member's reserved capacity for reuse within the group.
-*Reject writes to base volume* – When the reserved capacity reaches its maximum defined percentage, System Manager rejects any I/O write request to the base volume that triggered the reserved capacity access.
+* *Purge oldest snapshot image* – System Manager automatically purges the oldest snapshot image in the consistency group, which releases the member's reserved capacity for reuse within the group.
+* *Reject writes to base volume* – When the reserved capacity reaches its maximum defined percentage, System Manager rejects any I/O write request to the base volume that triggered the reserved capacity access.
 |===
 ====
 . Click *Save* to apply your changes.

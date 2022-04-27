@@ -33,7 +33,7 @@ This operation _does not_ save these settings:
 * The operating status (except Optimal) and states of the volume groups
 * Copy services, such as mirroring and volume copy
 
-[NOTE]
+[CAUTION]
 ====
 *Risk of application errors* -- Do not use this option if the storage array is undergoing an operation that will change any logical configuration setting. Examples of these operations include creating or deleting volumes, downloading controller firmware, assigning or modifying hot spare drives, or adding capacity (drives) to a volume group.
 ====
