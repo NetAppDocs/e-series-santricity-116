@@ -2,27 +2,22 @@ section: sm-support
 title: Support
 entries:
 - title: Support center
-  url: "/sm-support/generic-support-center.html"
   entries:
   - title: Concepts
-    url: "/sm-support/generic-concepts.html"
     entries:
     - title: AutoSupport feature overview
       url: "/sm-support/autosupport-feature-overview.html"
     - title: Workflow for the AutoSupport feature
       url: "/sm-support/workflow-for-autosupport.html"
   - title: How tos
-    url: "/sm-support/generic-how-tos.html"
     entries:
     - title: View storage array information
-      url: "/sm-support/view-storage-array-information.html"
       entries:
       - title: View storage array profile
         url: "/sm-support/view-storage-array-profile.html"
       - title: View software and firmware inventory
         url: "/sm-support/view-software-and-firmware-inventory.html"
     - title: Collect diagnostic data
-      url: "/sm-support/collect-diagnostic-data.html"
       entries:
       - title: Collect support data manually
         url: "/sm-support/collect-support-data-manually.html"
@@ -37,7 +32,6 @@ entries:
       - title: Retrieve health image
         url: "/sm-support/retrieve-health-image.html"
     - title: Take recovery action on storage array status
-      url: "/sm-support/take-recovery-action-on-storage-array-status.html"
       entries:
       - title: View unreadable sectors log
         url: "/sm-support/view-unreadable-sectors-log.html"
@@ -46,7 +40,6 @@ entries:
       - title: Clear recovery mode
         url: "/sm-support/clear-recovery-mode.html"
     - title: Manage iSCSI connections
-      url: "/sm-support/manage-iscsi-connections.html"
       entries:
       - title: View iSCSI statistics packages
         url: "/sm-support/view-iscsi-statistics-packages-support.html"
@@ -72,12 +65,10 @@ entries:
       - title: View iSER over InfiniBand statistics
         url: "/sm-support/view-iser-over-infiniband-statistics-support.html"
     - title: Manage NVMe connections
-      url: "/sm-support/manage-nvme-connections.html"
       entries:
       - title: View NVMe over Fabrics statistics
         url: "/sm-support/view-nvme-over-fabrics-statistics-support.html"
     - title: Manage AutoSupport
-      url: "/sm-support/manage-autosupport.html"
       entries:
       - title: Enable or disable AutoSupport features
         url: "/sm-support/enable-or-disable-autosupport-features.html"
@@ -96,7 +87,6 @@ entries:
       - title: View AutoSupport log
         url: "/sm-support/view-autosupport-log.html"
   - title: FAQs
-    url: "/sm-support/generic-faqs.html"
     entries:
     - title: What data am I collecting?
       url: "/sm-support/which-data-am-i-collecting-in-a-customer-support-bundle.html"
@@ -113,25 +103,20 @@ entries:
     - title: How do I configure the delivery method for the AutoSupport feature?
       url: "/sm-support/how-do-i-configure-the-delivery-method-for-autosupport.html"
 - title: Event log
-  url: "/sm-support/generic-event-log.html"
   entries:
   - title: Concepts
-    url: "/sm-support/generic-concepts.html"
     entries:
     - title: Critical events
       url: "/sm-support/critical-events.html"
     - title: Event log
       url: "/sm-support/event-log.html"
   - title: How tos
-    url: "/sm-support/generic-how-tos.html"
     entries:
     - title: View events using the event log
       url: "/sm-support/view-events-using-the-event-log.html"
 - title: Upgrade center
-  url: "/sm-support/generic-upgrade-center.html"
   entries:
   - title: Concepts
-    url: "/sm-support/generic-concepts.html"
     entries:
     - title: Controller software and firmware upgrades
       url: "/sm-support/controller-software-and-firmware-upgrades.html"
@@ -140,7 +125,6 @@ entries:
     - title: Drive firmware upgrades
       url: "/sm-support/drive-firmware-upgrades.html"
   - title: How tos
-    url: "/sm-support/generic-how-tos.html"
     entries:
     - title: Upgrade software and firmware
       url: "/sm-support/upgrade-controller-software-and-firmware.html"
@@ -151,7 +135,6 @@ entries:
     - title: Review the possible software and firmware upgrade errors
       url: "/sm-support/review-the-possible-software-and-firmware-upgrade-errors.html"
   - title: FAQs
-    url: "/sm-support/generic-faqs.html"
     entries:
     - title: What do I need to know before upgrading the SANtricity OS Software?
       url: "/sm-support/what-do-i-need-to-know-before-upgrading-the-santricity-os-software.html"

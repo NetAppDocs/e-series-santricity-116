@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: asynchronous, mirror, feature, difference, essential, capture, point, data, change
 summary: "The Asynchronous Mirroring feature differs from the Synchronous Mirroring feature in one essential way: it captures the state of the source volume at a particular point in time and copies just the data that has changed since the last image capture."
 ---
-= How does asynchronous mirroring differ from synchronous mirroring?
+= How does synchronous mirroring differ from asynchronous mirroring?
 :icons: font
 :imagesdir: ../media/
 

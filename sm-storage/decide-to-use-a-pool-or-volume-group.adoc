@@ -11,6 +11,8 @@ summary: "You can create volumes using either a pool or a volume group. The best
 [.lead]
 You can create volumes using either a pool or a volume group. The best selection depends primarily on the key storage requirements such as the expected I/O workload, the performance requirements, and the data protection requirements.
 
+== Reasons to choose a pool or volume group
+
 *Choose a pool*
 
 * If you need faster drive rebuilds and simplified storage administration, require thin volumes, and/or have a highly random workload.

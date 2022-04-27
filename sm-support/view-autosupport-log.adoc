@@ -14,7 +14,7 @@ The AutoSupport log provides information about status, dispatch history, and err
 
 .About this task
 
-Multiple log files can exist. When the current log file reaches 200 KB, it is archived and a new log file is created. The archived log file name is `ASUPMessages.``n`, where `n` is an integer from 1 to 9. If multiple log files exist, you can choose to view the most current log or a previous log.
+Multiple log files can exist. When the current log file reaches 200 KB, it is archived and a new log file is created. The archived log file name is `ASUPMessages._n_`, where `n` is an integer from 1 to 9. If multiple log files exist, you can choose to view the most current log or a previous log.
 
 * *Current log* -- Shows a list of the latest captured events.
 * *Archived log* -- Shows a list of earlier events.

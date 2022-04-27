@@ -1,6 +1,7 @@
 ---
 permalink: sm-settings/view-imported-certificates.html
-sidebar: sidebar, issue, authority, storage array, valid date, certificate,
+sidebar: sidebar
+keywords: view, imported, certificate, information,
 summary: "From the Certificates page, you can view the certificate type, issuing authority, and the valid date range of certificates for the storage array."
 ---
 = View imported certificate information
@@ -17,7 +18,7 @@ From the Certificates page, you can view the certificate type, issuing authority
 
 .Steps
 
-. Select *menu:Settings[Certificates]*.
+. Select menu:Settings[Certificates].
 . Select one of the tabs to view information about the certificates.
 +
 [cols="1a,3a",options="header"]

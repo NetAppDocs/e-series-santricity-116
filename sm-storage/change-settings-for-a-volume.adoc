@@ -51,21 +51,21 @@ Host
 a|
 Displays the volume assignment. You assign a volume to a host or host cluster so it can be accessed for I/O operations. This assignment grants a host or host cluster access to a particular volume or to a number of volumes in a storage array.
 
- ** Assigned to -- Identifies the host or host cluster that has access to the selected volume.
- ** LUN -- A logical unit number (LUN) is the number assigned to the address space that a host uses to access a volume. The volume is presented to the host as capacity in the form of a LUN. Each host has its own LUN address space. Therefore, the same LUN can be used by different hosts to access different volumes.
+ ** *Assigned to* -- Identifies the host or host cluster that has access to the selected volume.
+ ** *LUN* -- A logical unit number (LUN) is the number assigned to the address space that a host uses to access a volume. The volume is presented to the host as capacity in the form of a LUN. Each host has its own LUN address space. Therefore, the same LUN can be used by different hosts to access different volumes.
 +
 [NOTE]
 
-For NVMe interfaces, this column displays *Namespace ID*. A namespace is NVM storage that is formatted for block access. It is analogous to a logical unit in SCSI, which relates to a volume in the storage array.The namespace ID is the NVMe controller's unique identifier for the namespace, and can be set to a value between 1 and 255. It is analogous to a logical unit number (LUN) in SCSI.
+For NVMe interfaces, this column displays *Namespace ID*. A namespace is NVM storage that is formatted for block access. It is analogous to a logical unit in SCSI, which relates to a volume in the storage array. The namespace ID is the NVMe controller's unique identifier for the namespace, and can be set to a value between 1 and 255. It is analogous to a logical unit number (LUN) in SCSI.
 
 a|
 Identifiers
 a|
 Displays the identifiers for the selected volume.
 
- ** World-wide identifier (WWID) -- A unique hexadecimal identifier for the volume.
- ** Extended unique identifier (EUI) -- An EUI-64 identifier for the volume.
- ** Subsystem identifier (SSID) -- The storage array subsystem identifier of a volume.
+ ** *World-wide identifier (WWID)* -- A unique hexadecimal identifier for the volume.
+ ** *Extended unique identifier (EUI)* -- An EUI-64 identifier for the volume.
+ ** *Subsystem identifier (SSID)* -- The storage array subsystem identifier of a volume.
 
 |===
 ====
@@ -144,4 +144,4 @@ System Manager changes the volume's settings based on your selections.
 
 .After you finish
 
-Select *Home* > *View Operations in Progress* to view the progress of the change operations that are currently running for the selected volume.
+Select menu:Home[View Operations in Progress] to view the progress of the change operations that are currently running for the selected volume.

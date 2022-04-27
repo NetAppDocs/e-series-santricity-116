@@ -17,8 +17,8 @@ If you are instructed to do so, you can place a controller offline.
 * Make sure that no volumes are in use or that you have a multipath driver installed on all hosts using these volumes.
 
 .About this task
-+++ +++ 
-[NOTE]
++++ +++
+[CAUTION]
 ====
 Do not place a controller offline unless you are instructed to do so by the Recovery Guru or technical support.
 ====

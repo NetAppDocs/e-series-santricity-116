@@ -15,14 +15,14 @@ You can use SANtricity Unified Manager to import settings from one storage array
 
 The following configurations can be imported to multiple arrays:
 
-* Alerts -- Alerting methods to send important events to administrators, using email, a syslog server, or an SNMP server.
-* AutoSupport -- A feature that monitors the health of a storage array and sends automatic dispatches to technical support.
-* Directory services -- A method of user authentication that is managed through an LDAP (Lightweight Directory Access Protocol) server and directory service, such as Microsoft's Active Directory.
-* Storage configuration -- Configurations relating to the following:
+* *Alerts* -- Alerting methods to send important events to administrators, using email, a syslog server, or an SNMP server.
+* *AutoSupport* -- A feature that monitors the health of a storage array and sends automatic dispatches to technical support.
+* *Directory services* -- A method of user authentication that is managed through an LDAP (Lightweight Directory Access Protocol) server and directory service, such as Microsoft's Active Directory.
+* *Storage configuration* -- Configurations relating to the following:
  ** Volumes (thick and non-repository volumes only)
  ** Volume groups and pools
  ** Hot spare drive assignments
-* System settings -- Configurations relating to the following:
+* *System settings* -- Configurations relating to the following:
  ** Media scan settings for a volume
  ** SSD settings
  ** Automatic load balancing (does not include host connectivity reporting)

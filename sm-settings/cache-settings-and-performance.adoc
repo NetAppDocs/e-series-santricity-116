@@ -36,7 +36,7 @@ For individual volumes in a storage array, you can specify the following values 
 +
 [CAUTION]
 ====
-Possible loss of data -- If you enable the Write caching without batteries option and do not have a universal power supply for protection, you could lose data. In addition, you could lose data if you do not have controller batteries and you enable the Write caching without batteries option.
+*Possible loss of data* -- If you enable the Write caching without batteries option and do not have a universal power supply for protection, you could lose data. In addition, you could lose data if you do not have controller batteries and you enable the Write caching without batteries option.
 ====
 
  ** *Write caching without batteries* -- The write caching without batteries setting lets write caching continue even when the batteries are missing, failed, discharged completely, or not fully charged. Choosing write caching without batteries is not typically recommended, because data might be lost if power is lost. Typically, write caching is turned off temporarily by the controller until the batteries are charged or a failed battery is replaced.
