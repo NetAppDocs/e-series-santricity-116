@@ -1,13 +1,13 @@
 ---
 settings:
-  name: "SANtricity 116"
+  name: "SANtricity 11.6"
   internal:
     pdf_enabled: false
   prod:
     pdf_enabled: true
 sidebar:
   entries:
-  - title: SANtricity docs
+  - title: SANtricity 11.6 docs
     url: "/index.html"
   - title: System Manager
     entries:
