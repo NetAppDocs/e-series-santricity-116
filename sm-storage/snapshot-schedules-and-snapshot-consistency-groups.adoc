@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/snapshot-schedules-and-snapshot-consistency-groups.html
 sidebar: sidebar
-keywords: 
-summary: 'Use schedules for collection of snapshot images, and use snapshot consistency groups to manage multiple base volumes.'
+keywords: schedule, collection, snapshot, use, images, consistency, groups, manage, multiple, base, volumes
+summary: "Use schedules for collection of snapshot images, and use snapshot consistency groups to manage multiple base volumes."
 ---
 = Snapshot schedules and snapshot consistency groups
 :icons: font
@@ -28,11 +28,4 @@ The volumes included in a snapshot consistency group are called member volumes. 
 
 image::../media/sam1130-dwg-snapshots-consistency-groups-overview.gif[]
 
-|===
-a|
-1   Reserved capacity.
-a|
-2   Member volume.
-a|
-3   Consistency group snapshot images.
-|===
+^1^   Reserved capacity; ^2^   Member volume; ^3^   Consistency group snapshot images

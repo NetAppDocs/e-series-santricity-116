@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/how-do-i-match-the-host-ports-to-a-host.html
 sidebar: sidebar
-keywords: 
-summary: 'If you are manually creating a host, you first must use the appropriate host bus adapter \(HBA\) utility available on the host to determine the host port identifiers associated with each HBA installed in the host.'
+keywords: manually, create, host, first, must, use, appropriate, bus, adapter, utility, available, determine, port, identifiers, associated, each, installed
+summary: "If you are manually creating a host, you first must use the appropriate host bus adapter (HBA) utility available on the host to determine the host port identifiers associated with each HBA installed in the host."
 ---
 = How do I match the host ports to a host?
 :icons: font
@@ -11,7 +11,7 @@ summary: 'If you are manually creating a host, you first must use the appropriat
 [.lead]
 If you are manually creating a host, you first must use the appropriate host bus adapter (HBA) utility available on the host to determine the host port identifiers associated with each HBA installed in the host.
 
-When you have this information, select the host port identifiers that have logged into the storage array from the list provided in the Create Host dialog of System Manager.
+When you have this information, select the host port identifiers that have logged into the storage array from the list provided in the *Create Host* dialog of System Manager.
 
 [NOTE]
 ====

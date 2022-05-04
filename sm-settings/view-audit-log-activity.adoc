@@ -1,24 +1,25 @@
 ---
 permalink: sm-settings/view-audit-log-activity.html
 sidebar: sidebar
-keywords: 
-summary: 'By viewing audit logs, users with Security Admin permissions can monitor user actions, authentication failures, invalid login attempts, and the user session lifespan.'
+keywords: audit logs, security, admin, actions, authentication, failure, login attempts, session, life span
+summary: "By viewing audit logs, users with Security Admin permissions can monitor user actions, authentication failures, invalid login attempts, and the user session lifespan."
 ---
 = View audit log activity
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
 By viewing audit logs, users with Security Admin permissions can monitor user actions, authentication failures, invalid login attempts, and the user session lifespan.
 
-== Before you begin
+.Before you begin
 
 * You must be logged in with a user profile that includes Security admin permissions. Otherwise, the Access Management functions do not appear.
 
-== Steps
+.Steps
 
-. Select *Settings* > *Access Management*.
-. Select the **Audit Log**tab.
+. Select *menu:Settings[Access Management]*.
+. Select the *Audit Log* tab.
 +
 Audit log activity appears in tabular format, which includes the following columns of information:
 
@@ -31,8 +32,11 @@ Audit log activity appears in tabular format, which includes the following colum
 
 . Use the selections on the Audit Log page to view and manage events.
 +
-Selection Details
-+
+.Selection Details
+[%collapsible]
+
+====
+[cols="1a,3a",options="header"]
 |===
 | Selection| Description
 a|
@@ -81,3 +85,4 @@ Export
 a|
 Click *Export* to save the table data to a comma separated value (CSV) file.
 |===
+====

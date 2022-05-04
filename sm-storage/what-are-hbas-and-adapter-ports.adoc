@@ -1,8 +1,8 @@
 ---
 permalink: sm-storage/what-are-hbas-and-adapter-ports.html
 sidebar: sidebar
-keywords: 
-summary: 'A host bus adapter \(HBA\) is a board that resides in a host and contains one or more host ports. A host port is a port on a host bus adapter \(HBA\) that provides the physical connection to a controller and is used for I/O operations.'
+keywords: host, adapter, board, reside, contain, one, more, port, bus, provide, physical, connection, controller, use, operations
+summary: "A host bus adapter (HBA) is a board that resides in a host and contains one or more host ports. A host port is a port on a host bus adapter (HBA) that provides the physical connection to a controller and is used for I/O operations."
 ---
 = What are HBAs and adapter ports?
 :icons: font

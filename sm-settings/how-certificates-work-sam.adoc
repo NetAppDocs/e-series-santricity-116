@@ -1,8 +1,8 @@
 ---
 permalink: sm-settings/how-certificates-work-sam.html
 sidebar: sidebar
-keywords: 
-summary: 'Certificates are digital files that identify online entities, such as websites and servers, for secure communications on the internet.'
+keywords: certificate, digital, file, online, entity, website, server, secure, communication, internet
+summary: "Certificates are digital files that identify online entities, such as websites and servers, for secure communications on the internet."
 ---
 = How certificates work
 :icons: font

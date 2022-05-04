@@ -1,8 +1,8 @@
 ---
 permalink: sm-hardware/erase-drive.html
 sidebar: sidebar
-keywords: 
-summary: 'You can erase a secure-enabled drive so it can be reused in another volume group, pool, SSD cache, or in another storage array. This procedure resets the drive’s security attributes and ensures that the data cannot be read again.'
+keywords: erase, secure, enabled, drive, reuse, volume, group, pool, ssd cache, storage array
+summary: "You can erase a secure-enabled drive so it can be reused in another volume group, pool, SSD cache, or in another storage array. This procedure resets the drive’s security attributes and ensures that the data cannot be read again."
 ---
 = Erase secure-enabled drive
 :icons: font
@@ -11,11 +11,11 @@ summary: 'You can erase a secure-enabled drive so it can be reused in another vo
 [.lead]
 You can erase a secure-enabled drive so it can be reused in another volume group, pool, SSD cache, or in another storage array. This procedure resets the drive's security attributes and ensures that the data cannot be read again.
 
-== Before you begin
+.Before you begin
 
 The secure-enabled drive must be in an Unassigned state.
 
-== About this task
+.About this task
 
 Use the Secure Erase option only if you want to remove all data on a secure-enabled drive and reset the drive's security attributes.
 
@@ -24,7 +24,7 @@ Use the Secure Erase option only if you want to remove all data on a secure-enab
 *Possible loss of data* -- The Secure Erase operation cannot be undone. Make sure you select the correct drive during the procedure.
 ====
 
-== Steps
+.Steps
 
 . Select *Hardware*.
 . If the graphic shows the controllers, click *Show front of shelf*.
@@ -35,18 +35,15 @@ The graphic changes to show the drives instead of the controllers.
 +
 [NOTE]
 ====
-+
-====
-+
 If all drives share the same physical attributes, the *Show drives that are...* filter field does not appear. If all drives share the same logical attributes, the *Anywhere in the storage array* filter field does not appear.
-+
-The shelf view shows only the secure-enabled, unassigned drives; all others are grayed out.
 
+The shelf view shows only the secure-enabled, unassigned drives; all others are grayed out.
+====
 . Select the secure-enabled drive you want to erase.
 +
 [CAUTION]
 ====
-*Possible loss of data*-- Make sure that you have selected the correct drive. After completing the Secure Erase operation, you cannot recover any of the data.
+*Possible loss of data* -- Make sure that you have selected the correct drive. After completing the Secure Erase operation, you cannot recover any of the data.
 ====
 +
 The drive's context menu opens.
@@ -63,6 +60,6 @@ For NVMe SED drives, you must provide the PSID. You can find the PSID on the dri
 . In the Secure Erase Drive dialog box, read the important information about data loss.
 . Confirm the operation, and then click *Erase*.
 
-== Results
+.Results
 
 The drive is now available for use in another volume group or disk pool, or in another storage array.

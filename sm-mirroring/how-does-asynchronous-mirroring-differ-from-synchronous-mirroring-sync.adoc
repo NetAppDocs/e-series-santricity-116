@@ -1,10 +1,10 @@
 ---
 permalink: sm-mirroring/how-does-asynchronous-mirroring-differ-from-synchronous-mirroring-sync.html
 sidebar: sidebar
-keywords: 
-summary: 'The Asynchronous Mirroring feature differs from the Synchronous Mirroring feature in one essential way: it captures the state of the source volume at a particular point in time and copies just the data that has changed since the last image capture.'
+keywords: asynchronous, mirror, feature, difference, essential, capture, point, data, change
+summary: "The Asynchronous Mirroring feature differs from the Synchronous Mirroring feature in one essential way: it captures the state of the source volume at a particular point in time and copies just the data that has changed since the last image capture."
 ---
-= How does asynchronous mirroring differ from synchronous mirroring?
+= How does synchronous mirroring differ from asynchronous mirroring?
 :icons: font
 :imagesdir: ../media/
 
@@ -15,11 +15,15 @@ With synchronous mirroring, the state of the primary volume is not captured at s
 
 With asynchronous mirroring, the remote storage array is not fully synchronized with the local storage array, so if the application needs to transition to the remote storage array due to a loss of the local storage array, some transactions could be lost.
 
-Comparison between mirroring features
+.Comparison between mirroring features
+[%collapsible]
 
+====
+[cols="3a,3a",options="header"]
 |===
 | Asynchronous Mirroring| Synchronous Mirroring
-a|
+2+a|
+[.text-center]
 *Replication method*
 a|
 
@@ -33,7 +37,8 @@ a|
 +
 Mirroring is automatically executed continuously, copying data from every host write.
 
-a|
+2+a|
+[.text-center]
 *Reserved capacity*
 a|
 
@@ -47,7 +52,8 @@ a|
 +
 Single reserved capacity volume is required for all mirrored volumes.
 
-a|
+2+a|
+[.text-center]
 *Communication*
 a|
 
@@ -61,7 +67,8 @@ a|
 +
 Supports only Fibre Channel interfaces between storage arrays.
 
-a|
+2+a|
+[.text-center]
 *Distance*
 a|
 
@@ -76,3 +83,4 @@ a|
 Typically must be within about 10 km (6.2 miles), of the local storage array to meet the latency and application performance requirements.
 
 |===
+====

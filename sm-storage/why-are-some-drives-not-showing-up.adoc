@@ -1,15 +1,15 @@
 ---
 permalink: sm-storage/why-are-some-drives-not-showing-up.html
 sidebar: sidebar
-keywords: 
-summary: 'In the Add Capacity dialog, not all drives are available for adding capacity to an existing pool or volume group.'
+keywords: add, capacity, dialog, drives, available, existing, pool, pool, group
+summary: "In the Add Capacity dialog, not all drives are available for adding capacity to an existing pool or volume group."
 ---
 = Why are some drives not showing up?
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
-In the Add Capacity dialog, not all drives are available for adding capacity to an existing pool or volume group.
+In the *Add Capacity* dialog, not all drives are available for adding capacity to an existing pool or volume group.
 
 Drives are not eligible for any of the following reasons:
 

@@ -1,8 +1,8 @@
 ---
 permalink: sm-settings/default-host-operating-system-type.html
 sidebar: sidebar
-keywords: 
-summary: 'The default host type is used by the storage array when hosts are initially connected. It defines how the controllers in the storage array work with the host’s operating system when volumes are accessed. You can change the host type if there is a need to change how the storage array operates, relative to the hosts that are connected to it.'
+keywords: default, host, storage array, hosts, initially, connected, defines, controllers, operating, systems
+summary: "The default host type is used by the storage array when hosts are initially connected. It defines how the controllers in the storage array work with the host’s operating system when volumes are accessed. You can change the host type if there is a need to change how the storage array operates, relative to the hosts that are connected to it."
 ---
 = Default host operating system type
 :icons: font

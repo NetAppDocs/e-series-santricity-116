@@ -1,10 +1,11 @@
 ---
 permalink: sm-settings/what-do-i-need-to-know-before-creating-a-security-key.html
 sidebar: sidebar
-keywords: 
-summary: 'A security key is shared by controllers and secure-enabled drives within a storage array. If a secure-enabled drive is removed from the storage array, the security key protects the data from unauthorized access.'
+keywords: security, key, storage array, unauthorized access
+summary: "A security key is shared by controllers and secure-enabled drives within a storage array. If a secure-enabled drive is removed from the storage array, the security key protects the data from unauthorized access."
 ---
 = What do I need to know before creating a security key?
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -27,7 +28,7 @@ Before creating an external security key, you must do the following:
 
 . Install secure-capable drives in the storage array. These drives can be Full Disk Encryption (FDE) drives or Federal Information Processing Standard (FIPS) drives.
 . Make sure the Drive Security feature is enabled. If necessary, contact your storage vendor for instructions on enabling the Drive Security feature.
-. Complete and download a client Certificate Signing Request (CSR) for authentication between the storage array and the key management server. Go to *Settings* > *Certificates* > *Key Management* > *Complete CSR*.
+. Complete and download a client Certificate Signing Request (CSR) for authentication between the storage array and the key management server. Go to *menu:Settings[Certificates > Key Management > Complete CSR]*.
 . Create and download a client certificate from the key management server using the downloaded CSR file.
 . Ensure that the client certificate and a copy of the certificate for the key management server are available on your local host.
 
