@@ -58,7 +58,7 @@ If the storage array is set to use a static NTP address, no NTP servers appear.
 ====
 
  ** *Manually specify NTP server addresses* -- Enter the primary NTP server address and a backup NTP server address. The backup server is optional. (These address fields appear after you select the radio button.) The server address can be a fully qualified domain name, IPv4 address, or IPv6 address.
-. Optionally, enter server information and authentication credentials for a backup NTP server.
+. *Optional:* Enter server information and authentication credentials for a backup NTP server.
 . Click *Save*.
 
 .Results

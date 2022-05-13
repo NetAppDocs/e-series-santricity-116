@@ -23,7 +23,7 @@ The `admin` user has full access to all functions in the system.
 ====
 
 . An administrator reviews the user profiles, which are predefined and cannot be modified.
-. Optionally, the administrator assigns new passwords for each user profile.
+. *Optional:* The administrator assigns new passwords for each user profile.
 . Users log in to the system with their assigned credentials.
 
 == Management

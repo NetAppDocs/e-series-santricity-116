@@ -57,7 +57,7 @@ Enter the URL for accessing the LDAP server in the form of `ldap[s]://*host*:*po
 a|
 Upload certificate (optional)
 a|
-NOTE:This field appears only if an LDAPS protocol is specified in the Server URL field above.
+NOTE: This field appears only if an LDAPS protocol is specified in the Server URL field above.
 
 Click *Browse* and select a CA certificate to upload. This is the trusted certificate or certificate chain used for authenticating the LDAP server.
 a|
@@ -68,7 +68,7 @@ a|
 Bind password (optional)
 a|
 
-NOTE:This field appears when you enter a bind account above.
+NOTE: This field appears when you enter a bind account above.
 
 Enter the password for the bind account.
 a|

@@ -32,6 +32,6 @@ The Archived option appears only if archived logs exist on the storage array.
 +
 The selected AutoSupport log appears in the dialog box.
 
-. (Optional) To search the AutoSupport log, type a term in the *Find* box, and click *Find*.
+. *Optional:* To search the AutoSupport log, type a term in the *Find* box, and click *Find*.
 +
 Click *Find* again to search for additional occurrences of the term.

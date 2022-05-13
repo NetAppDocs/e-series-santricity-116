@@ -36,7 +36,7 @@ The host can immediately access the new rolled-back base volume, but the existin
 +
 The *Confirm Start Rollback* dialog box appears.
 
-. (Optional) Select the option to *Increase Capacity* if necessary.
+. *Optional:* Select the option to *Increase Capacity* if necessary.
 +
 The *Increase Reserved Capacity* dialog box appears.
 

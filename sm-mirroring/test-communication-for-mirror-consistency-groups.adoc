@@ -31,7 +31,7 @@ You can run four different tests:
 . Select the *Mirror Consistency Groups* tab, and then select the mirror consistency group that you want to test.
 . Select *Test Communication*.
 +
-The Test Communication dialog box appears.
+The *Test Communication* dialog box appears.
 
 . Select one or more communication tests to perform between the local and remote storage arrays associated with the selected mirror consistency group, and then click *Test*.
 . Review the information displayed in the Results window.
