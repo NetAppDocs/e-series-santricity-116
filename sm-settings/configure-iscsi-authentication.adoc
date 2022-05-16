@@ -33,7 +33,7 @@ The iSCSI settings and functions only display on the Settings page if your stora
 . Select *menu:Settings[System]*.
 . Under *iSCSI settings*, click *Configure Authentication*.
 +
-The Configure Authentication dialog box appears, which shows the currently set method. It also shows if any hosts have CHAP secrets configured.
+The *Configure Authentication* dialog box appears, which shows the currently set method. It also shows if any hosts have CHAP secrets configured.
 
 . Select one of the following:
  ** *No authentication* -- If you do not want the controller to authenticate the identity of iSCSI hosts, select this option and click *Finish*. The dialog box closes, and you are done with configuration.

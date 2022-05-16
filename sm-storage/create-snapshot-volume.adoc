@@ -103,7 +103,7 @@ Allocate the reserved capacity using the following guidelines.
   *** The default setting for reserved capacity is 40% of the capacity of the base volume, and usually this capacity is sufficient.
   *** The capacity needed varies, depending on the frequency and size of I/O writes to the volumes and the quantity and duration of snapshot image collection.
 
-. (Optional) If you are creating the snapshot volume for a snapshot consistency group, the option to *Change candidate* appears in the Reserved Capacity Candidates table. Click *Change candidate* to select an alternate reserved capacity candidate.
+. *Optional:* If you are creating the snapshot volume for a snapshot consistency group, the option to *Change candidate* appears in the Reserved Capacity Candidates table. Click *Change candidate* to select an alternate reserved capacity candidate.
 . Click *Next*, and go to <<Step 4: Edit settings for a snapshot volume>>.
 
 == Step 4: Edit settings for a snapshot volume

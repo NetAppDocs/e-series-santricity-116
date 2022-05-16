@@ -48,7 +48,7 @@ Select the operating system that is running on the new host from the drop-down l
 a|
 Host interface type
 a|
-(Optional) If you have more than one type of host interface supported on your storage array, select the host interface type that you want to use.
+*Optional:* If you have more than one type of host interface supported on your storage array, select the host interface type that you want to use.
 a|
 Host ports
 a|
@@ -69,7 +69,7 @@ You must select one host port identifier at a time to associate it with the host
 a|
 CHAP initiator
 a|
-(Optional) If you selected or manually entered a host port with an iSCSI IQN, and if you want to require a host that tries to access the storage array to authenticate using Challenge Handshake Authentication Protocol (CHAP), select the *CHAP initiator* checkbox. For each iSCSI host port you selected or manually entered, do the following:
+*Optional:* If you selected or manually entered a host port with an iSCSI IQN, and if you want to require a host that tries to access the storage array to authenticate using Challenge Handshake Authentication Protocol (CHAP), select the *CHAP initiator* checkbox. For each iSCSI host port you selected or manually entered, do the following:
 
  ** Enter the same CHAP secret that was set on each iSCSI host initiator for CHAP authentication. If you are using mutual CHAP authentication (two-way authentication that enables a host to validate itself to the storage array and for a storage array to validate itself to the host), you also must set the CHAP secret for the storage array at initial setup or by changing settings.
  ** Leave the field blank if you do not require host authentication.

@@ -26,4 +26,4 @@ The graphic changes to show the controllers instead of the drives.
 +
 The graphic changes to show the drives instead of the controllers.
 
-. Optionally, you can select *Show all front* or *Show all back*, located at the bottom of the page.
+. *Optional:* You can select *Show all front* or *Show all back*, located at the bottom of the page.
