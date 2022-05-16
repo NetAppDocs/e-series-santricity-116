@@ -60,7 +60,7 @@ If you need to stop the upgrade, click *Stop*. Any firmware downloads currently 
 Stopping the drive firmware upgrade might result in data loss or unavailable drives.
 ====
 
-. (Optional) To see a list of what was upgraded, click *Save Log*.
+. *Optional:* To see a list of what was upgraded, click *Save Log*.
 +
 The file is saved in the Downloads folder for your browser with the name``drive_upgrade_log-timestamp.txt``.
 

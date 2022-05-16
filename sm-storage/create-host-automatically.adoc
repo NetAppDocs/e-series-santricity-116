@@ -26,7 +26,7 @@ The table lists the automatically-created hosts.
 +
 If you need to change any of the information, select the host, and then click *View/Edit Settings*.
 
-. (Optional) If you want the automatically-created host to be in a cluster, create a host cluster and add the host or hosts.
+. *Optional:* If you want the automatically-created host to be in a cluster, create a host cluster and add the host or hosts.
 
 .Results
 

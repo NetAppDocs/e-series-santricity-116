@@ -41,11 +41,11 @@ The *Create Volume Group* dialog box appears.
 +
 The volume group candidate table appears and displays only the candidates that support the selected RAID level.
 
-. (Optional) If you have more than one type of drive in your storage array, select the drive type that you want to use.
+. *Optional:* If you have more than one type of drive in your storage array, select the drive type that you want to use.
 +
 The volume group candidate table appears and displays only the candidates that support the selected drive type and RAID level.
 
-. (Optional) You can select either the automatic method or manual method to define which drives to use in the volume group. The Automatic method is the default selection.
+. *Optional:* You can select either the automatic method or manual method to define which drives to use in the volume group. The Automatic method is the default selection.
 +
 To select drives manually, click the *Manually select drives (advanced)* link. When clicked, it changes to *Automatically select drives (advanced)*.
 +

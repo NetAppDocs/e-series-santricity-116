@@ -69,7 +69,7 @@ The Monitor role is required for all users, including the administrator. System 
 ====
 
 [start=5]
-. Optionally, click *Add another mapping* to enter more group-to-role mappings.
+. *Optional:* Click *Add another mapping* to enter more group-to-role mappings.
 . Click *Save*.
 
 .Results

@@ -36,7 +36,7 @@ If other secure-enabled drives are installed in the new storage array, they migh
 +
 The Unlock Secure Drives dialog box opens. Any drives that require a security key are shown in the table.
 
-. Optionally, hover the mouse over a drive number to see the location of the drive (shelf number and bay number).
+. *Optional:* Hover the mouse over a drive number to see the location of the drive (shelf number and bay number).
 . Click *Browse*, and then select the security key file that corresponds to the drive you want to unlock.
 +
 The key file you selected appears in the dialog box.

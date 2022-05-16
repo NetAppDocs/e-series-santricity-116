@@ -45,7 +45,7 @@ A dialog box appears, which lists the dispatch delivery methods.
  ** If you selected Email, enter the following information:
   *** The mail server address as a fully qualified domain name, IPv4 address, or IPv6 address.
   *** The email address that appears in the From field of the AutoSupport dispatch email.
-  *** (Optional; if you want to perform a configuration test.) The email address where a confirmation is sent when the AutoSupport system receives the test dispatch.
+  *** *Optional:* If you want to perform a configuration test.) The email address where a confirmation is sent when the AutoSupport system receives the test dispatch.
 . Click *Test Configuration* to test the connection to the technical support server using the specified delivery parameters. If you enabled the AutoSupport On-Demand feature, the system will also test the connection for AutoSupport OnDemand dispatch delivery.
 +
 If the configuration test fails, check your configuration settings and run the test again. If the test continues to fail, contact technical support.

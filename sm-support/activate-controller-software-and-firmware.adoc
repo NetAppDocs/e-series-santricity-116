@@ -37,7 +37,7 @@ The pre-upgrade health check begins. If the pre-upgrade health check passes, the
 +
 On successful completion of the pre-upgrade health check, activation occurs. The time it takes to activate depends on your storage array configuration and the components that you are activating.
 
-. (Optional) To see a list of what was upgraded, click *Save Log*.
+. *Optional:* To see a list of what was upgraded, click *Save Log*.
 +
 The file is saved in the Downloads folder for your browser with the name``drive_upgrade_log-timestamp.txt``.
 

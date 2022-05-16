@@ -23,5 +23,5 @@ The Applications & Workloads view appears.
 +
 The *Applications & Workloads Settings* dialog box appears.
 
-. (Optional) Change the user-supplied name of the workload.
+. *Optional:* Change the user-supplied name of the workload.
 . Click *Save*.
