@@ -1,0 +1,65 @@
+section: um-certificates
+title: Certificates and authentication
+entries:
+- title: Certificate Management
+  entries:
+  - title: Concepts
+    entries:
+    - title: How certificates work
+      url: "/um-certificates/how-certificates-work-unified.html"
+    - title: Certificate terminology
+      url: "/um-certificates/certificate-terminology-unified.html"
+  - title: How tos
+    entries:
+    - title: Use CA-signed certificates
+      url: "/um-certificates/use-ca-signed-certificate-um.html"
+    - title: Reset management certificates
+      url: "/um-certificates/reset-management-certificates-unified.html"
+    - title: Import certificates for arrays
+      url: "/um-certificates/import-array-certificates-unified.html"
+    - title: View certificates
+      url: "/um-certificates/view-certificates-unified.html"
+    - title: Export certificates
+      url: "/um-certificates/export-certificates-unified.html"
+    - title: Delete trusted certificates
+      url: "/um-certificates/delete-trusted-certificates-unified.html"
+    - title: Resolve untrusted certificates
+      url: "/um-certificates/resolve-untrusted-certificates-certificate-page.html"
+- title: Access Management
+  entries:
+  - title: Concepts
+    entries:
+    - title: How Access Management works
+      url: "/um-certificates/how-access-management-works-unified.html"
+    - title: Access Management terminology
+      url: "/um-certificates/access-management-terminology-unified.html"
+    - title: Permissions for mapped roles
+      url: "/um-certificates/permissions-for-mapped-roles-unified.html"
+    - title: Access Management with local user roles
+      url: "/um-certificates/access-management-with-local-user-roles-unified.html"
+    - title: Access Management with directory services
+      url: "/um-certificates/access-management-with-directory-services-unified.html"
+  - title: How tos
+    entries:
+    - title: View local user roles
+      url: "/um-certificates/view-local-user-roles-unified.html"
+    - title: Change passwords
+      url: "/um-certificates/change-passwords-unified.html"
+    - title: Change local user password settings
+      url: "/um-certificates/change-local-user-passwords-settings-unified.html"
+    - title: Add directory server
+      url: "/um-certificates/add-directory-server-unified.html"
+    - title: Edit directory server settings and role mappings
+      url: "/um-certificates/edit-directory-server-settings-unified.html"
+    - title: Remove directory server
+      url: "/um-certificates/remove-directory-server-unified.html"
+  - title: FAQs
+    entries:
+    - title: Why can&#8217;t I log in?
+      url: "/um-certificates/why-cant-i-log-in-unified.html"
+    - title: What do I need to know before adding a directory server?
+      url: "/um-certificates/what-do-i-need-to-know-before-adding-a-directory-server-unified.html"
+    - title: What do I need to know about mapping to storage array roles?
+      url: "/um-certificates/what-do-i-need-to-know-about-mapping-storage-array-roles-unified.html"
+    - title: What are the local users?
+      url: "/um-certificates/what-are-the-local-users.html"

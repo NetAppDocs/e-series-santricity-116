@@ -1,0 +1,37 @@
+---
+permalink: sm-interface/what-are-the-supported-browsers.html
+sidebar: sidebar
+keywords: system manager, supports, browser, version
+summary: "System Manager supports these browser versions."
+---
+= What are the supported browsers?
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+System Manager supports these browser versions.
+
+[cols="2a,1a",options="header"]
+|===
+| Browser| Minimum version
+a|
+Google Chrome
+a|
+47
+a|
+Microsoft Internet Explorer
+a|
+11
+a|
+Microsoft Edge
+a|
+EdgeHTML 12
+a|
+Mozilla Firefox
+a|
+31
+a|
+Safari
+a|
+9
+|===

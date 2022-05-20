@@ -1,7 +1,26 @@
+---
 settings:
-  name: "Product Name"
+  name: "SANtricity 11.6"
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
 sidebar:
+  entries:
+  - title: SANtricity 11.6 docs
+    url: "/index.html"
+  - title: System Manager
+    entries:
+    - section: sm-interface
+    - section: sm-storage
+    - section: sm-mirroring
+    - section: sm-hardware
+    - section: sm-settings
+    - section: sm-support
+  - title: Unified Manager
+    entries:
+    - section: um-admin
+    - section: um-manage
+    - section: um-certificates
+  - title: Legal notices
+    url: /legal-notices.html
