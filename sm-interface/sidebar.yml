@@ -3,6 +3,8 @@ title: Main interface
 entries:
 - title: Home page
   url: "/sm-interface/home-page.html"
+- title: What's new
+  url: "/whats-new.html"
 - title: Setup wizard
   entries:
   - title: Concepts
