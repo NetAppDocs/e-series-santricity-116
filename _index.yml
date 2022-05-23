@@ -3,6 +3,8 @@ indexpage:
   tiles:
      - title: Get started
        links:
+         - title: What's new
+           url: /whats-new.html
          - title: System Manager interface
            url: /sm-interface/home-page.html
          - title: Unified Manager interface

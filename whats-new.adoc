@@ -1,0 +1,107 @@
+---
+sidebar: sidebar
+permalink: whats-new.html
+keywords: whats new, new features,
+summary: New features in SANtricity OS.
+---
+
+= What's new in SANtricity OS 11.6
+:experimental:
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+The following tables describe new features in SANtricity OS 11.6.
+
+
+== New features in Version 11.62
+
+[cols="35h,~",options="header"]
+|===
+a|New feature
+a|Description
+a|Downloadable CLI
+a|System Manager for the E5700, EF570, E2800, and EF280
+arrays now includes the ability to download and install the SANtricity
+command line interface (CLI) via a link in the menu:Settings[System >
+Add-ons] page. This is the https-based version of the CLI (also
+referred to as "Secure CLI"). This capability was previously released
+with the EF600 array.
+
+a|Mirroring configuration changes in System Manager and Unified Manager
+a|The tasks for configuring synchronous and asynchronous mirrored pairs
+have moved from System Manager to Unified Manager. All other tasks for
+managing mirrored pairs remain in System Manager.
+
+a|New 200Gb-capable HIC (EF600 arrays only)
+a|This release adds a new
+200Gb-capable HIC for EF600 storage arrays. Interfaces supported are
+NVMe/IB, NVMe/RoCE, and iSER/IB. Additionally, 100Gb SRP/IB is
+supported.
+
+a|Additional options on 100Gb HIC (EF600 arrays only)
+a|On the existing 100Gb HIC, iSER/IB and SRP/IB interfaces are now
+supported for EF600 storage arrays. (These interfaces are already
+supported for EF570 and E5700 arrays.)
+
+a|Delete mail server in System Manager
+a|System Manager allowed a mail
+server to be configured, but did not have an easy mechanism to remove
+it. With this release, the mail server configuration in System Manager
+can now be removed from Alerts, so that alerts are no longer sent to the
+email addresses associated with this mail server.
+
+a|Optimization capacity adjustments for pools and volume groups (SSD
+drives only) in System Manager
+a|For SSD drives, a new optimization
+capacity slider is available in System Manager for the Pool settings and
+Volume Group settings. The slider enables you to adjust the balance of
+available capacity versus SSD write performance and drive wear life.
+
+a|New host types in System Manager
+a|When you create new hosts in System
+Manager, the presented host options are now organized into three
+categories to provide better guidance: Common, Uncommon, and Use only if
+directed.
+|===
+
+== New features in Version 11.61
+
+[cols="35h,~",options="header"]
+|===
+a|New feature a|Description
+a|Fibre Channel support for the EF600
+a|This release adds Fibre Channel
+host support for the EF600 storage system. This is the first SCSI host
+supported by the EF600, which initially released with all NVMe over
+Fabrics host protocols. A single controller for the EF600 can be viewed
+and managed in System Manager. Multiple EF600 storage systems can be
+viewed and managed in Unified Manager.
+
+a|Password requirements for admin user
+a|For first-time login in Unified
+Manager, you must now enter a password for the administrator user. There
+is no longer a default "admin" password.
+|===
+
+== New features in Version 11.60
+
+[cols="35h,~",options="header"]
+|===
+a|New feature a|Description
+a|New storage system model – EF600
+a|
+This release offers a new EF600 all-flash storage system. The EF600
+includes NVMe-oF host interfaces and NVMe SSDs.
+
+The EF600 significantly increases throughput and reduces latency. The
+supported host interfaces include NVMe over IB, NVMe over RoCE, and NVMe
+over FC, which can be configured in System Manager. Multiple EF600
+storage systems can be viewed and managed in Unified Manager.
+
+|Downloadable CLI |System Manager now includes the ability to download
+and install the SANtricity command line interface (CLI) via a link in
+the menu:Settings[System > Add-ons] page. This is the https- based
+version of the CLI. The legacy SANtricity Storage Manager package
+continues to include the CLI as well.
+|===
