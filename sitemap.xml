@@ -531,16 +531,16 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-storage/change-the-reserved-capacity-settings-for-a-mirrored-pair-volume.html</loc>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-mirroring/change-the-reserved-capacity-settings-for-a-mirrored-pair-volume.html</loc>
       
-      <lastmod>2022-04-27T17:15:47+00:00</lastmod>
+      <lastmod>2022-05-13T09:14:49+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-mirroring/change-the-reserved-capacity-settings-for-a-mirrored-pair-volume.html</loc>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-storage/change-the-reserved-capacity-settings-for-a-mirrored-pair-volume.html</loc>
       
-      <lastmod>2022-05-13T09:14:49+00:00</lastmod>
+      <lastmod>2022-04-27T17:15:47+00:00</lastmod>
       
     </url>
   
@@ -1826,13 +1826,6 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-storage/increase-reserved-capacity.html</loc>
-      
-      <lastmod>2022-04-13T13:11:16+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-mirroring/increase-reserved-capacity.html</loc>
       
       <lastmod>2022-05-13T09:14:49+00:00</lastmod>
@@ -1840,7 +1833,56 @@
     </url>
   
     <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-storage/increase-reserved-capacity.html</loc>
+      
+      <lastmod>2022-04-13T13:11:16+00:00</lastmod>
+      
+    </url>
+  
+    <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-support/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-interface/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-manage/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-hardware/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-settings/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-certificates/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-mirroring/</loc>
       
       <lastmod>2022-03-17T03:40:51+00:00</lastmod>
       
@@ -1855,48 +1897,6 @@
   
     <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-admin/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-interface/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-settings/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-hardware/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-mirroring/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-manage/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-certificates/</loc>
       
       <lastmod>2022-03-17T03:40:51+00:00</lastmod>
       
@@ -2402,7 +2402,7 @@
     <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116//search.html</loc>
       
-      <lastmod>2022-05-27T13:49:02+00:00</lastmod>
+      <lastmod>2022-06-07T17:38:37+00:00</lastmod>
       
     </url>
   
