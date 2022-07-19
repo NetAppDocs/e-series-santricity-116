@@ -1854,7 +1854,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-manage/</loc>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-settings/</loc>
       
       <lastmod>2022-03-17T03:40:51+00:00</lastmod>
       
@@ -1862,13 +1862,6 @@
   
     <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-hardware/</loc>
-      
-      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-settings/</loc>
       
       <lastmod>2022-03-17T03:40:51+00:00</lastmod>
       
@@ -1889,6 +1882,13 @@
     </url>
   
     <url>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-admin/</loc>
+      
+      <lastmod>2022-03-17T03:40:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116/sm-storage/</loc>
       
       <lastmod>2022-04-07T06:49:56+00:00</lastmod>
@@ -1896,7 +1896,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-admin/</loc>
+      <loc>https://docs.netapp.com/us-en/e-series-santricity-116/um-manage/</loc>
       
       <lastmod>2022-03-17T03:40:51+00:00</lastmod>
       
@@ -2402,7 +2402,7 @@
     <url>
       <loc>https://docs.netapp.com/us-en/e-series-santricity-116//search.html</loc>
       
-      <lastmod>2022-06-07T17:38:37+00:00</lastmod>
+      <lastmod>2022-07-19T11:41:52+00:00</lastmod>
       
     </url>
   
