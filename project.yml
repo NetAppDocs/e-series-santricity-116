@@ -7,15 +7,12 @@ settings:
     pdf_enabled: true
     harmony_enabled: true
   versions:
-    - name: SANtricity Software
-      url: /e-series-santricity-116
       version-number: "11.6"
-    - name: SANtricity Software
-      url: /e-series-santricity
+      url: /e-series-santricity-116
       version-number: "11.8"
-    - name: SANtricity Software
-      url: /e-series-santricity-117
+      url: /e-series-santricity
       version-number: "11.7"
+      url: /e-series-santricity-117
 sidebar:
   entries:
   - title: SANtricity 11.6 docs
