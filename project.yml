@@ -8,11 +8,11 @@ settings:
     pdf_enabled: true
     harmony_enabled: true
   versions:
-      version-number: "11.6"
+    - version-number: "11.6"
       url: /e-series-santricity-116
-      version-number: "11.8"
+    - version-number: "11.8"
       url: /e-series-santricity
-      version-number: "11.7"
+    - version-number: "11.7"
       url: /e-series-santricity-117
 sidebar:
   entries:
