@@ -1,6 +1,7 @@
 ---
 settings:
   name: "SANtricity 11.6"
+  downlevel: true
   internal:
     pdf_enabled: true
   prod:
